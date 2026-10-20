@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Validate collector and dashboard syntax
-        run: python -m py_compile collect.py collect_observations.py collect_precipitation.py collect_human_candidates.py build_dashboard.py
+        run: python -m py_compile collect.py collect_observations.py collect_precipitation.py collect_human_candidates.py prepare_human_review.py build_dashboard.py
       - name: Collect model forecasts
         run: python collect.py
       - name: Fetch observed airport temperatures
@@ -31,6 +31,8 @@ jobs:
         run: python collect_precipitation.py
       - name: Discover Connecticut TV forecast articles
         run: python collect_human_candidates.py
+      - name: Prepare TV forecast review hints
+        run: python prepare_human_review.py
       - name: Build dashboard
         run: python build_dashboard.py
       - name: Preserve archive and published dashboard data
