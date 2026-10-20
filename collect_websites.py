@@ -27,12 +27,14 @@ class Reader(HTMLParser):
 def main():
     now=dt.datetime.now(dt.timezone.utc)
     local=now.astimezone(ZoneInfo("America/New_York"))
+    scheduled=__import__("os").getenv("GITHUB_EVENT_NAME")=="schedule"
+    batch=("13" if scheduled else "adhoc-"+now.strftime("%H%M%S"))
     rows=[]
     for name,url in SITES.items():
-        row={"snapshot_key":local.date().isoformat()+"|"+name+"|13",
+        row={"snapshot_key":local.date().isoformat()+"|"+name+"|"+batch,
              "source":name,"source_kind":"television_station_website",
              "url":url,"captured_at_utc":now.isoformat(),
-             "capture_window":"13:00 America/New_York",
+             "capture_window":"1 PM ET scheduled window" if scheduled else "ad hoc test (not the 1 PM scheduled snapshot)",
              "published_at_utc":None,"meteorologist":None,
              "status":"unavailable","title":None,"text_excerpt":None,"content_sha256":None,
              "error":None,"verification":"page_capture_only_not_scored"}
