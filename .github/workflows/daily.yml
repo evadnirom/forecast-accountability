@@ -29,6 +29,8 @@ jobs:
           python-version: '3.12'
       - name: Validate collector and dashboard syntax
         run: python -m py_compile collect.py collect_observations.py collect_precipitation.py collect_human_candidates.py prepare_human_review.py fetch_human_articles.py build_dashboard.py collection_health.py
+      - name: Run offline integrity tests
+        run: python -m unittest -v test_integrity.py
       - name: Collect model forecasts
         run: python collect.py
       - name: Fetch observed airport temperatures
