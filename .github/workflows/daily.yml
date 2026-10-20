@@ -1,5 +1,11 @@
 name: Daily forecast archive
 on:
+  push:
+    branches: [main]
+    paths:
+      - '*.py'
+      - 'site/index.html'
+      - '.github/workflows/daily.yml'
   schedule:
     - cron: '15 12 * * *'
   workflow_dispatch:
