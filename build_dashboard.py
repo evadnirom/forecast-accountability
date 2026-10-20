@@ -92,7 +92,14 @@ if candidate_file.exists():
         for item in csv.DictReader(f):
             if item.get("headline") and item.get("source_url"):
                 human_candidates.append(item)
-payload={"human_candidates":human_candidates,"human_forecasts":human_forecasts,"schema_version":3,"precip_observations":precip_observations,
+human_review=[]
+review_file=data/"human_review_queue.csv"
+if review_file.exists():
+    with review_file.open(newline="") as f:
+        for item in csv.DictReader(f):
+            if item.get("source_url") and item.get("headline"):
+                human_review.append(item)
+payload={"human_review_queue":human_review,"human_candidates":human_candidates,"human_forecasts":human_forecasts,"schema_version":3,"precip_observations":precip_observations,
     "rain_leaderboard":rain_leaderboard,"rain_scored_count":sum(len(v) for v in rain_groups.values()),"forecasts":forecasts,
     "observations":list(observations.values()),"leaderboard":leaderboard,
     "scored_count":sum(len(x) for x in groups.values())}
