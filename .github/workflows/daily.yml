@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Validate collector and dashboard syntax
-        run: python -m py_compile collect.py collect_observations.py collect_precipitation.py collect_human_candidates.py prepare_human_review.py fetch_human_articles.py build_dashboard.py
+        run: python -m py_compile collect.py collect_observations.py collect_precipitation.py collect_human_candidates.py prepare_human_review.py fetch_human_articles.py build_dashboard.py collection_health.py
       - name: Collect model forecasts
         run: python collect.py
       - name: Fetch observed airport temperatures
@@ -30,18 +30,23 @@ jobs:
       - name: Fetch hourly airport rainfall
         run: python collect_precipitation.py
       - name: Discover Connecticut TV forecast articles
+        continue-on-error: true
         run: python collect_human_candidates.py
       - name: Prepare TV forecast review hints
+        continue-on-error: true
         run: python prepare_human_review.py
       - name: Retrieve article excerpts for review
+        continue-on-error: true
         run: python fetch_human_articles.py
       - name: Build dashboard
         run: python build_dashboard.py
+      - name: Generate collection health report
+        run: python collection_health.py
       - name: Preserve archive and published dashboard data
         run: |
           git config user.name 'Forecast Archive Bot'
           git config user.email 'forecast-archive-bot@users.noreply.github.com'
-          git add data/ site/dashboard-data.json
+          git add data/ site/dashboard-data.json site/collection-health.json
           if ! git diff --cached --quiet; then
             git commit -m "Archive forecasts $(date -u +%F)"
             git push
