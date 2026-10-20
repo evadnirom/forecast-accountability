@@ -6,6 +6,7 @@ data=root/"data";out=root/"site";out.mkdir(exist_ok=True)
 checks={"model_forecasts":("snapshots-*.jsonl","jsonl"),
 "airport_temperature":("observations.csv","csv"),
 "airport_rainfall":("precip_observations.csv","csv"),
+"tv_website_snapshots":("webpage_snapshots.jsonl","jsonl"),
 "tv_article_discovery":("human_candidates.csv","csv"),
 "tv_review_hints":("human_review_queue.csv","csv"),
 "tv_article_excerpts":("human_article_reviews.csv","csv"),
