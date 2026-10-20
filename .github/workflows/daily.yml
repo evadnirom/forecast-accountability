@@ -25,6 +25,8 @@ jobs:
         run: python collect.py
       - name: Fetch observed airport temperatures
         run: python collect_observations.py
+      - name: Fetch hourly airport rainfall
+        run: python collect_precipitation.py
       - name: Build dashboard
         run: python build_dashboard.py
       - name: Preserve archive and published dashboard data
