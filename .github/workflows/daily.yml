@@ -27,11 +27,11 @@ jobs:
         run: python collect_observations.py
       - name: Build dashboard
         run: python build_dashboard.py
-      - name: Preserve observations and forecasts
+      - name: Preserve archive and published dashboard data
         run: |
           git config user.name 'Forecast Archive Bot'
           git config user.email 'forecast-archive-bot@users.noreply.github.com'
-          git add data/
+          git add data/ site/dashboard-data.json
           if ! git diff --cached --quiet; then
             git commit -m "Archive forecasts $(date -u +%F)"
             git push
