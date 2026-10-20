@@ -85,7 +85,14 @@ if human_file.exists():
                     except ValueError:measurements={};break
             if not measurements:continue
             human_forecasts.append({**item,**measurements})
-payload={"human_forecasts":human_forecasts,"schema_version":3,"precip_observations":precip_observations,
+human_candidates=[]
+candidate_file=data/"human_candidates.csv"
+if candidate_file.exists():
+    with candidate_file.open(newline="") as f:
+        for item in csv.DictReader(f):
+            if item.get("headline") and item.get("source_url"):
+                human_candidates.append(item)
+payload={"human_candidates":human_candidates,"human_forecasts":human_forecasts,"schema_version":3,"precip_observations":precip_observations,
     "rain_leaderboard":rain_leaderboard,"rain_scored_count":sum(len(v) for v in rain_groups.values()),"forecasts":forecasts,
     "observations":list(observations.values()),"leaderboard":leaderboard,
     "scored_count":sum(len(x) for x in groups.values())}
