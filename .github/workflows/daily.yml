@@ -1,0 +1,42 @@
+name: Daily forecast archive
+on:
+  schedule:
+    - cron: '15 12 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: forecast-publish
+  cancel-in-progress: false
+jobs:
+  collect-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect model forecasts
+        run: python collect.py
+      - name: Build dashboard
+        run: python build_dashboard.py
+      - name: Preserve observations and forecasts
+        run: |
+          git config user.name 'Forecast Archive Bot'
+          git config user.email 'forecast-archive-bot@users.noreply.github.com'
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive forecasts $(date -u +%F)"
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4
+        id: deployment
