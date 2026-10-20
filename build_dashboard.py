@@ -111,7 +111,15 @@ feed_path=data/"human_feed_status.json"
 if feed_path.exists():
     try:feed_status=json.loads(feed_path.read_text())
     except (ValueError,OSError):pass
-payload={"human_feed_status":feed_status,"article_reviews":article_reviews,"human_review_queue":human_review,"human_candidates":human_candidates,"human_forecasts":human_forecasts,"schema_version":3,"precip_observations":precip_observations,
+webpage_snapshots=[]
+webpages=data/"webpage_snapshots.jsonl"
+if webpages.exists():
+    for line in webpages.read_text().splitlines():
+        try:
+            row=json.loads(line)
+            if row.get("source") and row.get("captured_at_utc"):webpage_snapshots.append(row)
+        except ValueError:pass
+payload={"webpage_snapshots":webpage_snapshots[-150:],"human_feed_status":feed_status,"article_reviews":article_reviews,"human_review_queue":human_review,"human_candidates":human_candidates,"human_forecasts":human_forecasts,"schema_version":3,"precip_observations":precip_observations,
     "rain_leaderboard":rain_leaderboard,"rain_scored_count":sum(len(v) for v in rain_groups.values()),"forecasts":forecasts,
     "observations":list(observations.values()),"leaderboard":leaderboard,
     "scored_count":sum(len(x) for x in groups.values())}
