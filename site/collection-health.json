@@ -1,40 +1,40 @@
 {
-  "generated_utc": "2026-10-20T16:45:49.096346+00:00",
+  "generated_utc": "2026-10-20T16:46:28.743760+00:00",
   "pipelines": {
     "model_forecasts": {
       "status": "populated",
       "records": 21,
-      "last_file_modified_utc": "2026-10-20T16:45:35.397463+00:00"
+      "last_file_modified_utc": "2026-10-20T16:46:21.471755+00:00"
     },
     "airport_temperature": {
       "status": "populated",
       "records": 10,
-      "last_file_modified_utc": "2026-10-20T16:45:38.744874+00:00"
+      "last_file_modified_utc": "2026-10-20T16:46:25.056771+00:00"
     },
     "airport_rainfall": {
       "status": "populated",
       "records": 9,
-      "last_file_modified_utc": "2026-10-20T16:45:39.012915+00:00"
+      "last_file_modified_utc": "2026-10-20T16:46:25.539027+00:00"
     },
     "tv_article_discovery": {
       "status": "populated",
-      "records": 306,
-      "last_file_modified_utc": "2026-10-20T16:45:41.360899+00:00"
+      "records": 314,
+      "last_file_modified_utc": "2026-10-20T16:46:28.223783+00:00"
     },
     "tv_review_hints": {
       "status": "populated",
-      "records": 306,
-      "last_file_modified_utc": "2026-10-20T16:45:41.407899+00:00"
+      "records": 314,
+      "last_file_modified_utc": "2026-10-20T16:46:28.290783+00:00"
     },
     "tv_article_excerpts": {
       "status": "populated",
-      "records": 25,
-      "last_file_modified_utc": "2026-10-20T16:45:48.950278+00:00"
+      "records": 26,
+      "last_file_modified_utc": "2026-10-20T16:46:28.606899+00:00"
     },
     "verified_human_forecasts": {
       "status": "empty",
       "records": 0,
-      "last_file_modified_utc": "2026-10-20T16:45:35.396996+00:00"
+      "last_file_modified_utc": "2026-10-20T16:46:21.470755+00:00"
     }
   },
   "notes": "Counts prove files exist, not that external sources were fully accessed. No human forecasts are verified automatically."
