@@ -63,7 +63,29 @@ rain_leaderboard=[
      "sample_count":len(errors),"rain_mae_in":round(statistics.mean(errors),3),
      **rain_event_groups[(source,lead,station)]}
     for (source,lead,station),errors in rain_groups.items()]
-payload={"schema_version":2,"precip_observations":precip_observations,
+human_forecasts=[]
+human_file=data/"human_forecasts.csv"
+if human_file.exists():
+    with human_file.open(newline="") as f:
+        for item in csv.DictReader(f):
+            required=("station","meteorologist","issued_at_local","valid_date","forecast_location","source_url","source_excerpt")
+            if not all(item.get(k,"").strip() for k in required):continue
+            if item.get("review_status","").lower()!="verified":continue
+            try:
+                from datetime import datetime, date
+                timestamp=datetime.fromisoformat(item["issued_at_local"])
+                target=date.fromisoformat(item["valid_date"])
+                if timestamp.tzinfo is None or target<timestamp.date():continue
+            except ValueError:continue
+            measurements={}
+            for field in ("forecast_high_f","forecast_rain_in","forecast_rain_chance_percent"):
+                value=item.get(field,"").strip()
+                if value:
+                    try:measurements[field]=float(value)
+                    except ValueError:measurements={};break
+            if not measurements:continue
+            human_forecasts.append({**item,**measurements})
+payload={"human_forecasts":human_forecasts,"schema_version":3,"precip_observations":precip_observations,
     "rain_leaderboard":rain_leaderboard,"rain_scored_count":sum(len(v) for v in rain_groups.values()),"forecasts":forecasts,
     "observations":list(observations.values()),"leaderboard":leaderboard,
     "scored_count":sum(len(x) for x in groups.values())}
