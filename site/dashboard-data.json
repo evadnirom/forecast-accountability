@@ -1,5 +1,81 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
+  "precip_observations": [
+    {
+      "date": "2026-10-08",
+      "station": "Tweed-New Haven Airport (HVN)",
+      "rain_total_in": 0.0,
+      "observed_hour_count": 24,
+      "evidence_url": "https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=HVN&data=p01i&year1=2026&month1=10&day1=8&year2=2026&month2=10&day2=20&tz=Etc%2FUTC&format=onlycomma&missing=empty&trace=empty&report_type=3",
+      "coverage_note": "Provisional sum of unique hourly routine METAR p01i; missing hours excluded; min 22 required."
+    },
+    {
+      "date": "2026-10-09",
+      "station": "Tweed-New Haven Airport (HVN)",
+      "rain_total_in": 0.0,
+      "observed_hour_count": 24,
+      "evidence_url": "https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=HVN&data=p01i&year1=2026&month1=10&day1=8&year2=2026&month2=10&day2=20&tz=Etc%2FUTC&format=onlycomma&missing=empty&trace=empty&report_type=3",
+      "coverage_note": "Provisional sum of unique hourly routine METAR p01i; missing hours excluded; min 22 required."
+    },
+    {
+      "date": "2026-10-10",
+      "station": "Tweed-New Haven Airport (HVN)",
+      "rain_total_in": 0.0,
+      "observed_hour_count": 24,
+      "evidence_url": "https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=HVN&data=p01i&year1=2026&month1=10&day1=8&year2=2026&month2=10&day2=20&tz=Etc%2FUTC&format=onlycomma&missing=empty&trace=empty&report_type=3",
+      "coverage_note": "Provisional sum of unique hourly routine METAR p01i; missing hours excluded; min 22 required."
+    },
+    {
+      "date": "2026-10-11",
+      "station": "Tweed-New Haven Airport (HVN)",
+      "rain_total_in": 1.79,
+      "observed_hour_count": 23,
+      "evidence_url": "https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=HVN&data=p01i&year1=2026&month1=10&day1=8&year2=2026&month2=10&day2=20&tz=Etc%2FUTC&format=onlycomma&missing=empty&trace=empty&report_type=3",
+      "coverage_note": "Provisional sum of unique hourly routine METAR p01i; missing hours excluded; min 22 required."
+    },
+    {
+      "date": "2026-10-12",
+      "station": "Tweed-New Haven Airport (HVN)",
+      "rain_total_in": 0.01,
+      "observed_hour_count": 24,
+      "evidence_url": "https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=HVN&data=p01i&year1=2026&month1=10&day1=8&year2=2026&month2=10&day2=20&tz=Etc%2FUTC&format=onlycomma&missing=empty&trace=empty&report_type=3",
+      "coverage_note": "Provisional sum of unique hourly routine METAR p01i; missing hours excluded; min 22 required."
+    },
+    {
+      "date": "2026-10-13",
+      "station": "Tweed-New Haven Airport (HVN)",
+      "rain_total_in": 0.0,
+      "observed_hour_count": 24,
+      "evidence_url": "https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=HVN&data=p01i&year1=2026&month1=10&day1=8&year2=2026&month2=10&day2=20&tz=Etc%2FUTC&format=onlycomma&missing=empty&trace=empty&report_type=3",
+      "coverage_note": "Provisional sum of unique hourly routine METAR p01i; missing hours excluded; min 22 required."
+    },
+    {
+      "date": "2026-10-14",
+      "station": "Tweed-New Haven Airport (HVN)",
+      "rain_total_in": 0.0,
+      "observed_hour_count": 24,
+      "evidence_url": "https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=HVN&data=p01i&year1=2026&month1=10&day1=8&year2=2026&month2=10&day2=20&tz=Etc%2FUTC&format=onlycomma&missing=empty&trace=empty&report_type=3",
+      "coverage_note": "Provisional sum of unique hourly routine METAR p01i; missing hours excluded; min 22 required."
+    },
+    {
+      "date": "2026-10-15",
+      "station": "Tweed-New Haven Airport (HVN)",
+      "rain_total_in": 0.0,
+      "observed_hour_count": 24,
+      "evidence_url": "https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=HVN&data=p01i&year1=2026&month1=10&day1=8&year2=2026&month2=10&day2=20&tz=Etc%2FUTC&format=onlycomma&missing=empty&trace=empty&report_type=3",
+      "coverage_note": "Provisional sum of unique hourly routine METAR p01i; missing hours excluded; min 22 required."
+    },
+    {
+      "date": "2026-10-18",
+      "station": "Tweed-New Haven Airport (HVN)",
+      "rain_total_in": 0.0,
+      "observed_hour_count": 24,
+      "evidence_url": "https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=HVN&data=p01i&year1=2026&month1=10&day1=8&year2=2026&month2=10&day2=20&tz=Etc%2FUTC&format=onlycomma&missing=empty&trace=empty&report_type=3",
+      "coverage_note": "Provisional sum of unique hourly routine METAR p01i; missing hours excluded; min 22 required."
+    }
+  ],
+  "rain_leaderboard": [],
+  "rain_scored_count": 0,
   "forecasts": [
     {
       "snapshot_key": "2026-10-20|GFS|2026-10-21",
