@@ -23,6 +23,8 @@ jobs:
           python-version: '3.12'
       - name: Collect model forecasts
         run: python collect.py
+      - name: Fetch observed airport temperatures
+        run: python collect_observations.py
       - name: Build dashboard
         run: python build_dashboard.py
       - name: Preserve observations and forecasts
