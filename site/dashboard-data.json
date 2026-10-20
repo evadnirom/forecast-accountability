@@ -1,16 +1,88 @@
 {
+  "webpage_snapshots": [
+    {
+      "snapshot_key": "2026-10-20|WTNH|adhoc-171914",
+      "source": "WTNH",
+      "source_kind": "television_station_website",
+      "url": "https://www.wtnh.com/weather/",
+      "captured_at_utc": "2026-10-20T17:19:14.998724+00:00",
+      "capture_window": "ad hoc test (not the 1 PM scheduled snapshot)",
+      "published_at_utc": null,
+      "meteorologist": null,
+      "status": "unavailable",
+      "title": null,
+      "text_excerpt": null,
+      "content_sha256": null,
+      "error": "HTTP Error 403: Forbidden",
+      "verification": "page_capture_only_not_scored"
+    },
+    {
+      "snapshot_key": "2026-10-20|WFSB|adhoc-171914",
+      "source": "WFSB",
+      "source_kind": "television_station_website",
+      "url": "https://www.wfsb.com/weather/forecast/",
+      "captured_at_utc": "2026-10-20T17:19:14.998724+00:00",
+      "capture_window": "ad hoc test (not the 1 PM scheduled snapshot)",
+      "published_at_utc": null,
+      "meteorologist": null,
+      "status": "captured",
+      "title": null,
+      "text_excerpt": "Weather Forecast Skip to content Better Money UConn Sports Great Day Medical Rounds Retirement Plan Capitol Rundown Obituaries Kara's Cures Hello CT Watch Live Local News Latest Video First Alert Weather First Alert Traffic WFSB+ The Wax I-Team Submit Photos Vote Now Home Local News National Politics Capitol Rundown Vote Now Eyewitness News Extra Family Friday Lost and Pound Amazing K9 Duos Patch Headlines We the People Back To School Superintendent Spotlight First Alert Weather 7-Day Forecast First Alert Live Radar Weather Alerts Radar Maps & Radar Technical Discussion First Alert Weather Extra Weather Cams Closings Birdie Thirty Science Sunday Hometown Scramble Ski Report Livestream WFSB+ First Alert Traffic WFSB+ Great Day Aging Untold Aging in Style Better Money Great Day Law Kara's Cures Recipe of the Week Retirement Plan I-Team Contact the I-Team I-Team Stream Cassidy Williams Sam Smink CT 26 We the People Medical Rounds Submit Photos Download Our Apps! Videos Podcasts Eyewitness News Exclusives Kara's Cures Real Talk with Raff Hello CT Podcast Sports Futbol Frenzy Friday Night Football Athlete of the Week Friday Night Frenzy Travelers Championship Hole By Hole The Warm Up UConn Sports Men\u2019s Basketball Women\u2019s Basketball Football Men\u2019s and Women\u2019s Hockey 3 Cares Hello CT Community Calendar Contests Birthdays and Anniversaries Station Information Meet the Team Careers Programming Schedule The Wax Obituaries NextGen TV Local News Live PowerNation Watching Your Wallet Circle Country Digital Marketing Gray AI Policy Weather Forecast Weather Forecast First Alert Weather: Becoming breezy the next few days Updated : 7 minutes ago | By Jill Gilardi The latest forecast from the Channel 3 First Alert Weather Team... Weather Forecast First Alert Weather: A dry pattern this week Updated : Oct. 19, 2026 at 12:49 PM EDT | By Scot Haney The latest forecast from the Channel 3 First Alert Weather Team... Weather Forecast First Alert Weather: After that cold start, improvement this afternoon Updated : Oct. 18, 2026 at 6:38 AM EDT | By Scot Haney The latest forecast from the Channel 3 First Alert Weather Team... Weather Forecast First Alert Weather: Cooler, windy today. Free",
+      "content_sha256": "f34cd45ffaabb38201c3ab9ea7146d78f52a5753f3c5c9050362f8dcef73633f",
+      "error": null,
+      "verification": "page_capture_only_not_scored",
+      "final_url": "https://www.wfsb.com/weather/forecast/",
+      "bytes_read": 323256
+    },
+    {
+      "snapshot_key": "2026-10-20|FOX61|adhoc-171914",
+      "source": "FOX61",
+      "source_kind": "television_station_website",
+      "url": "https://www.fox61.com/weather",
+      "captured_at_utc": "2026-10-20T17:19:14.998724+00:00",
+      "capture_window": "ad hoc test (not the 1 PM scheduled snapshot)",
+      "published_at_utc": null,
+      "meteorologist": null,
+      "status": "captured",
+      "title": null,
+      "text_excerpt": "Hartford Weather | Hartford, Connecticut | fox61.com Skip Navigation Share on Facebook Share on SMS Share on Email Navigation News Back Local Near Me Making an Impact Nation World Health Life Money Entertainment Features Latest News Stories Yale University employee shot in attempted carjacking, officials say Former Shelton man sentenced to running computer intrusion scheme Weather Back Forecast LIVE RADAR 24/7 Radar Hourly 7-Day Maps Traffic Closings & Delays Latest Weather Stories WEATHER FORECAST: Mild but breezy Tuesday Nor'easter brings gusty winds, high surf and coastal flooding to mid-Atlantic states Sports Back High School Sports Uconn Locked On Podcast Network Latest Stories UConn football team\u2019s resiliency has impressed new head coach Hines shines, UConn men\u2019s basketball overpowers Syracuse 72\u201352 in exhibition win Watch Now Watch 24/7 Right Now Hartford, CT \u00bb 66\u00b0 Hartford, CT \u00bb Weather Closings Elections Advertise With Us Contact Us Contests Manchester Road Race CT Cultural Districts Pet on the Set Student News Making an ImpaCT FOX61 Business Report Foodie Friday TV Listings Breaking News More ( ) \u00bb Weather Forecast LIVE RADAR 24/7 Radar Hourly 7-Day Maps Traffic Closings & Delays Hartford Weather | Hartford, Connecticut Right Now 66 Sunny Feels like: 66\u00b0 Humidity: 38% none: 0% Wind: 13 mph N FOX61 Forecast WEATHER FORECAST: Mild but breezy Tuesday Watching an offshore coastal storm this week. It should stay well south of Connecticut but will help provide a breeze Tuesday and Wednesday with gusts up to 30 mph. Weather News Nor'easter brings gusty winds, high surf and coastal flooding to mid-Atlantic states Connecticut temperatures are dropping. Here's how to prepare your home for the cold Weather IQ: How did we know about hurricanes before the satellite era? NOAA releases winter weather outlook for 2026-2027: Here's what to expect in each region 10-Day Forecast Tue Oct 20 69 43 1% 12 MPH NNE Mainly sunny . Highs in the upper 60s and lows in the low 40s. Humidity: 38% UV Index: Moderate Sunrise: 7:08 AM Sunset: 6:01 PM Wed Oct 21 60 43 4% 12 MPH NNE Partly cloudy . Highs in the low 60s and lows in the low 40s. Humidity: 57% UV Index: Moderate Sunrise: 7:",
+      "content_sha256": "d6ab90992afba2ec88d5b367405ec2d1d72cae915454d02f616158c0abd94202",
+      "error": null,
+      "verification": "page_capture_only_not_scored",
+      "final_url": "https://www.fox61.com/weather",
+      "bytes_read": 232728
+    },
+    {
+      "snapshot_key": "2026-10-20|NBC Connecticut|adhoc-171914",
+      "source": "NBC Connecticut",
+      "source_kind": "television_station_website",
+      "url": "https://www.nbcconnecticut.com/weather-news/",
+      "captured_at_utc": "2026-10-20T17:19:14.998724+00:00",
+      "capture_window": "ad hoc test (not the 1 PM scheduled snapshot)",
+      "published_at_utc": null,
+      "meteorologist": null,
+      "status": "captured",
+      "title": null,
+      "text_excerpt": "Weather \u2013 NBC Connecticut Skip to content Main Navigation Search Search for: Local Weather Investigations NBC CT Responds Video Entertainment NBC CT Newsletters Traffic Watch 24/7 Create profile / Log in Dashboard Email preferences Sign out Trending NBC CT Weather Blog Trump Administration Fairs & Festivals Decades Unseen CT Live Face the Facts Expand Weather StormTracker 29 minutes ago Afternoon forecast for Oct. 20 StormTracker 1 hour ago Morning forecast for Oct. 20 StormTracker 28 minutes ago Sunny with temps in the mid-60s for Tuesday Trending Stories Bloomfield Hartford man arrested, charged in crash that killed Bloomfield tow truck operator Connecticut \u2018Expensive' is top word used to describe living in CT: Wesleyan poll Donald Trump Trump uses antisemitic slur in defending Sen. Roger Marshall at rally in Kansas Enfield Medical examiner releases cause of death for 12-year-old girl found in Enfield home in March Celebrity News Christina Applegate says she was misdiagnosed with multiple sclerosis New Haven Yale employee shot during attempted carjacking in New Haven StormTracker 7 hours ago Early morning forecast for Oct. 20 StormTracker 13 hours ago Overnight forecast for Oct. 20 StormTracker 20 hours ago Evening forecast for Oct. 19 StormTracker 24 hours ago Afternoon forecast for Oct. 19 Trending Stories Bloomfield Hartford man arrested, charged in crash that killed Bloomfield tow truck operator Connecticut \u2018Expensive' is top word used to describe living in CT: Wesleyan poll Donald Trump Trump uses antisemitic slur in defending Sen. Roger Marshall at rally in Kansas Enfield Medical examiner releases cause of death for 12-year-old girl found in Enfield home in March Celebrity News Christina Applegate says she was misdiagnosed with multiple sclerosis New Haven Yale employee shot during attempted carjacking in New Haven StormTracker Oct 19 Morning forecast for Oct. 19 StormTracker 13 hours ago Breezy wind will arrive Tuesday, lingering through Wednesday and Thursday. Temperatures tonight will be a little warmer with most areas only dropping into the 40s into early Tuesday. Northeast winds could gust up to 25 miles per hour at times on Tuesday and Wednesday as",
+      "content_sha256": "da20e798e917c88e3fea966f710acb879a047696b91a6c9d34a936fc1caf1167",
+      "error": null,
+      "verification": "page_capture_only_not_scored",
+      "final_url": "https://www.nbcconnecticut.com/weather-news/",
+      "bytes_read": 276215
+    }
+  ],
   "human_feed_status": {
-    "checked_at_utc": "2026-10-20T16:52:09.792938+00:00",
+    "checked_at_utc": "2026-10-20T17:19:16.250265+00:00",
     "stations": {
       "WTNH": {
         "result": "ok",
         "items_seen": 100,
-        "new_candidates": 0
+        "new_candidates": 41
       },
       "WFSB": {
         "result": "ok",
         "items_seen": 100,
-        "new_candidates": 6
+        "new_candidates": 1
       },
       "FOX61": {
         "result": "ok",
@@ -19,12 +91,34 @@
       },
       "NBC Connecticut": {
         "result": "ok",
-        "items_seen": 70,
-        "new_candidates": 2
+        "items_seen": 75,
+        "new_candidates": 6
       }
     }
   },
   "article_reviews": [
+    {
+      "station": "NBC Connecticut",
+      "headline": "UConn ranked No. 2 in women's preseason AP Top 25, behind South Carolina - NBC Connecticut",
+      "published_at_utc": "2026-10-20T17:00:43+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWkViLWJ2d3ZaSko4bEpGaXlERXBPTnhmYUhfTVU1aVlWSUE1S1UyMGhyTzdIdjQ3MGlhOEUwVTM1ZVNwemtvQnNrZlZ3U2pPUXVpZGFHenpRTjlMcWJwYWhidXRPek9OcUlLT3hTMEt4UnFTSXA0dkpCcVhINHFmZWhLZHpYOXM1SnlIZXprVXdELXlqSTdvN0ppcERDMXNUd3ZmYm82TkJ0bjBlQXNsMUdlT3RvU0lOSmQ2ONIBxAFBVV95cUxPSm9uWVpZbWtwUnQyNklMNW0zMGdQTU9PZkpxMWExOGMwQklTbU13MzJmM3VCYWNuZUpjdlMxUnFDc0pMWDRQM1FOUm9YeGZZOW02VTBXUTR3UzBCSVp4V1JoNUo1VDFUS1Jza2dTeWJ4WUpoaEp0WUpLOVlaZ3hIN0p6emZ6bjJFSG5XV0NrVF9rXzNnQ0M2WERHSUNIdDM4RG5wakR3TEIxZW1QamtqSmpmZGxOTDJYY1lzV2Q0QnQ4ZWN4?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWkViLWJ2d3ZaSko4bEpGaXlERXBPTnhmYUhfTVU1aVlWSUE1S1UyMGhyTzdIdjQ3MGlhOEUwVTM1ZVNwemtvQnNrZlZ3U2pPUXVpZGFHenpRTjlMcWJwYWhidXRPek9OcUlLT3hTMEt4UnFTSXA0dkpCcVhINHFmZWhLZHpYOXM1SnlIZXprVXdELXlqSTdvN0ppcERDMXNUd3ZmYm82TkJ0bjBlQXNsMUdlT3RvU0lOSmQ2ONIBxAFBVV95cUxPSm9uWVpZbWtwUnQyNklMNW0zMGdQTU9PZkpxMWExOGMwQklTbU13MzJmM3VCYWNuZUpjdlMxUnFDc0pMWDRQM1FOUm9YeGZZOW02VTBXUTR3UzBCSVp4V1JoNUo1VDFUS1Jza2dTeWJ4WUpoaEp0WUpLOVlaZ3hIN0p6emZ6bjJFSG5XV0NrVF9rXzNnQ0M2WERHSUNIdDM4RG5wakR3TEIxZW1QamtqSmpmZGxOTDJYY1lzV2Q0QnQ4ZWN4?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:18.426841+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "Carnival Cruise introduces dynamic pricing for popular onboard amenities - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:55:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdWJDdXROcUZJWkRGT1pqM3JEdEt1VnBEd0hOeXZvbE9NemlNaUpmU3prSEF0aG4wVGtkVV9iejJlWndxM3dTNkRGUl9UeUIyaDhITC1FSDhnalFRYW1zM1dpblplQm50Z2djSnpPcWZCeGp5dG9lbmJzcnRRWGo5WHl4SThPaTZGNGQtQ0lET2lRVjN3eFFGaW9SZzZOZEVHVV80ZWZqLXVhaXBoa1NhUk1CekZsekk4ck9tcTZGVdIBxwFBVV95cUxNeW03dHhqWVppTXQ5RWhxMjhjZmw3eDQ2MGo0MFU1SlVvWUgxLVdKODlwMEp5SGxmQkVyRVBxd3pMakZ4Ml9YNTlNTFhubDZIMS1CRnpTb3ltbXJxd3pWbU8tZEZib0JpSDg1WFVxSWh2eG5TOTUwcnVtQUUzbUJGMGlkYVpnSWw0YkFQeThSbklKUDh4bEJOTEpVUWJCdTI4Z0FlOE44WURuSjF6NktLbVR4dmhtQXlCd3h0VFQ4c0NhOXptcW40?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdWJDdXROcUZJWkRGT1pqM3JEdEt1VnBEd0hOeXZvbE9NemlNaUpmU3prSEF0aG4wVGtkVV9iejJlWndxM3dTNkRGUl9UeUIyaDhITC1FSDhnalFRYW1zM1dpblplQm50Z2djSnpPcWZCeGp5dG9lbmJzcnRRWGo5WHl4SThPaTZGNGQtQ0lET2lRVjN3eFFGaW9SZzZOZEVHVV80ZWZqLXVhaXBoa1NhUk1CekZsekk4ck9tcTZGVdIBxwFBVV95cUxNeW03dHhqWVppTXQ5RWhxMjhjZmw3eDQ2MGo0MFU1SlVvWUgxLVdKODlwMEp5SGxmQkVyRVBxd3pMakZ4Ml9YNTlNTFhubDZIMS1CRnpTb3ltbXJxd3pWbU8tZEZib0JpSDg1WFVxSWh2eG5TOTUwcnVtQUUzbUJGMGlkYVpnSWw0YkFQeThSbklKUDh4bEJOTEpVUWJCdTI4Z0FlOE44WURuSjF6NktLbVR4dmhtQXlCd3h0VFQ4c0NhOXptcW40?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:18.575389+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
     {
       "station": "NBC Connecticut",
       "headline": "FBI execute search warrant in Mansfield, officials say - NBC Connecticut",
@@ -32,6 +126,61 @@
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVExveFY3R0dXbFJGczRjU21Td0l3VUtRMkxyWlN6dmc1UmFCZnRyQm5xYjE3X014cXZCLTVkTldvRHhQQ01CWGszX0V6RHdSYlBwUDUxdXd5UXQ3N2F3b3FYUGpPRXlzWFFXZ3kwa3JVQVFhUGozVEpST2JsTUZCcTA5Y2pBc1M3M1JCajg5cnlmZ3FXSUoxbkIxak9TWnMzeXY4bUhKUdIBrwFBVV95cUxQeEwyWi1pQmphTmota1g3eWtLVEtkaU9TcWhrbGJLYlJraU9SQkVsZnV6TzhDaHNIMVRVRkNoSEZrVWcwRHA1ZGpzWVpyWFlZWjVlN3IwLW9YdlRNaS0wbkpiUF91TzdYZGFSSHNndDB6UjJleDBENkNtZVlWQ0N1X05mYUxHOXdtUFhJcWRHaUp0QzlBM0hHQS1EeVp3Nm1UbDFkVm5QTWRlaXVINVpN?oc=5",
       "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVExveFY3R0dXbFJGczRjU21Td0l3VUtRMkxyWlN6dmc1UmFCZnRyQm5xYjE3X014cXZCLTVkTldvRHhQQ01CWGszX0V6RHdSYlBwUDUxdXd5UXQ3N2F3b3FYUGpPRXlzWFFXZ3kwa3JVQVFhUGozVEpST2JsTUZCcTA5Y2pBc1M3M1JCajg5cnlmZ3FXSUoxbkIxak9TWnMzeXY4bUhKUdIBrwFBVV95cUxQeEwyWi1pQmphTmota1g3eWtLVEtkaU9TcWhrbGJLYlJraU9SQkVsZnV6TzhDaHNIMVRVRkNoSEZrVWcwRHA1ZGpzWVpyWFlZWjVlN3IwLW9YdlRNaS0wbkpiUF91TzdYZGFSSHNndDB6UjJleDBENkNtZVlWQ0N1X05mYUxHOXdtUFhJcWRHaUp0QzlBM0hHQS1EeVp3Nm1UbDFkVm5QTWRlaXVINVpN?oc=5&hl=en-US&gl=US&ceid=US:en",
       "retrieved_at_utc": "2026-10-20T16:52:11.618989+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: Abbey Gets a Basketball Lesson - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:40:40+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2pJSzN1Y2g4eVJQRG8zXzF1SWxTTTE4c1M5SU51RmlqTmhqcUNkeHhCbklBT3ZSVHEwWjV6SmlibkhuSUpWUS1EWVZWS05fY2IwRTVSNEhJQXhvWDJIcFh0aHM3STVabVh0alBVa1c4TU1VVWlyVmJPR1BjY2ZDZ2V1VE5BaUJjSHRnWDJHbUtjU1l4WGZBN1ZPazZ3QXh1M0xLdl9nclV4QdIBsgFBVV95cUxNamlrM0JJaFpGYWE3cTY4cDJoUTZHQzdnc2tBcUgtc2FmQXdnSXYyR2pxV1FXRy1fQXJyXzk1RlBjUkdYUE5EMzhha1Yxam9jVTV2LVNUWjVYWGx3RzFyNzhsamxhMFBBZ0pSQUlkaFBiMEE4UkYwS0VOdkFsSGlMclBfTHZVMEtYNlBPdHRxbHotaWpISjcweHJERWJOUHlnYmxSVDRZMld5dXRpeC1FQzVB?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2pJSzN1Y2g4eVJQRG8zXzF1SWxTTTE4c1M5SU51RmlqTmhqcUNkeHhCbklBT3ZSVHEwWjV6SmlibkhuSUpWUS1EWVZWS05fY2IwRTVSNEhJQXhvWDJIcFh0aHM3STVabVh0alBVa1c4TU1VVWlyVmJPR1BjY2ZDZ2V1VE5BaUJjSHRnWDJHbUtjU1l4WGZBN1ZPazZ3QXh1M0xLdl9nclV4QdIBsgFBVV95cUxNamlrM0JJaFpGYWE3cTY4cDJoUTZHQzdnc2tBcUgtc2FmQXdnSXYyR2pxV1FXRy1fQXJyXzk1RlBjUkdYUE5EMzhha1Yxam9jVTV2LVNUWjVYWGx3RzFyNzhsamxhMFBBZ0pSQUlkaFBiMEE4UkYwS0VOdkFsSGlMclBfTHZVMEtYNlBPdHRxbHotaWpISjcweHJERWJOUHlnYmxSVDRZMld5dXRpeC1FQzVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:18.708970+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "WTNH",
+      "headline": "Man\u2019s BAC was triple the legal limit when he struck, killed Bloomfield tow truck driver: WARRANT - WTNH.com",
+      "published_at_utc": "2026-10-20T16:37:53+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ3NvYjZBb1hZdExZbXFsOWQwUTllNTIyT2ViNWpmYWY0YU5tZldOTGthV3BEYmxsU3FhUC02aUNZZlNsbnlrWDRQSWJjeDRHSlFBM3d2OTNqblJTa3FuLWxXQlR6bDY4R2Z6X1ZwRTdfbTlCWVd5UGpnalZhYWwtQ3ZNQ091ek94Z1VDOElyU0lLLWl4SWc5NVFXNE9lYjJ0YVQtZU9nemgyX25vYk9NMnV4Ym9RR25hTXF5TWpib2dtT3ctR01uWEI5R2tpS191LVY2ekxvUFHSAd4BQVVfeXFMTXllWFJrRnVNNXBnMEZfM1BBTl9TT0tjVmdDWHhYZWRXZWdMU09vVWQ1Vk5CMS1ibGlpRk9MRjdoMV9iVEFFbzNoZ0xfRWo5dVdOVUZ4WHltSDZVUC16WEJoOFlkemQ5c2FIWlQtMW9HdEJpV0doa1BCSURxdEhjMmltbmJSeFFsZjBObGMxMWRjQ3JWUlVHYjZqLWtwZFQtaFlMdXpTaDVTQWdvYlNwY1FhUnRpdktCa2VPdGdhZHJRbVdKY1hYZ1U2OHlWM2JsM2ZuZXo4ZVBSdGgtdU5B?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ3NvYjZBb1hZdExZbXFsOWQwUTllNTIyT2ViNWpmYWY0YU5tZldOTGthV3BEYmxsU3FhUC02aUNZZlNsbnlrWDRQSWJjeDRHSlFBM3d2OTNqblJTa3FuLWxXQlR6bDY4R2Z6X1ZwRTdfbTlCWVd5UGpnalZhYWwtQ3ZNQ091ek94Z1VDOElyU0lLLWl4SWc5NVFXNE9lYjJ0YVQtZU9nemgyX25vYk9NMnV4Ym9RR25hTXF5TWpib2dtT3ctR01uWEI5R2tpS191LVY2ekxvUFHSAd4BQVVfeXFMTXllWFJrRnVNNXBnMEZfM1BBTl9TT0tjVmdDWHhYZWRXZWdMU09vVWQ1Vk5CMS1ibGlpRk9MRjdoMV9iVEFFbzNoZ0xfRWo5dVdOVUZ4WHltSDZVUC16WEJoOFlkemQ5c2FIWlQtMW9HdEJpV0doa1BCSURxdEhjMmltbmJSeFFsZjBObGMxMWRjQ3JWUlVHYjZqLWtwZFQtaFlMdXpTaDVTQWdvYlNwY1FhUnRpdktCa2VPdGdhZHJRbVdKY1hYZ1U2OHlWM2JsM2ZuZXo4ZVBSdGgtdU5B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:18.839902+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: Torrington Savings Bank \u2013 Questions for Abbey Part 2 - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:35:27+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWdYTWJhNkhJWUtIWUJxajNydW9zTk52bURidGpoNDF6OV9PZ19tRS0tRlcwVkFSaDBvTWVsRXcwZUxLbUExV1FhY0hWZUQ1NFVuTzExdXVSdzJPd2RWSDlkLTJIYVAyWk9yaTZxbDZQaEJnWVFKdWF1QjB5aV9VYkEwNjZuTk5DS2I3R2dMcS16ZXpfbzczZERHZE43SW9jdy0xc1Q4b0k3d1N6M0gwb25OUkV2VFViVXpfQTB0V1gzaW9U0gHMAUFVX3lxTE1YNUw3Um9qSHRVX3pMUFE5Z3dmc2dwUWJxb29zUlFlWXJYWlFOdEdCcEx5Vm9vbmJSdlpWS08xRVE0azNyVllpVHZBSTJBT0pVWC1uY0Ixa180cGdnazAwTkF4LW1xTHQtSjVsdlRiSVEwOHpTMUNfZEpWOG9ocl9ubWFCNldrVC1QXzJiSUE0dzI5dEpjaDVMNHE2TUU3c2ZocHBQUHV6WjB0c1oyVTdJN2Rjd2F3azlzSWotMkJsZ1VBdDdlNjRsTWVxYw?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWdYTWJhNkhJWUtIWUJxajNydW9zTk52bURidGpoNDF6OV9PZ19tRS0tRlcwVkFSaDBvTWVsRXcwZUxLbUExV1FhY0hWZUQ1NFVuTzExdXVSdzJPd2RWSDlkLTJIYVAyWk9yaTZxbDZQaEJnWVFKdWF1QjB5aV9VYkEwNjZuTk5DS2I3R2dMcS16ZXpfbzczZERHZE43SW9jdy0xc1Q4b0k3d1N6M0gwb25OUkV2VFViVXpfQTB0V1gzaW9U0gHMAUFVX3lxTE1YNUw3Um9qSHRVX3pMUFE5Z3dmc2dwUWJxb29zUlFlWXJYWlFOdEdCcEx5Vm9vbmJSdlpWS08xRVE0azNyVllpVHZBSTJBT0pVWC1uY0Ixa180cGdnazAwTkF4LW1xTHQtSjVsdlRiSVEwOHpTMUNfZEpWOG9ocl9ubWFCNldrVC1QXzJiSUE0dzI5dEpjaDVMNHE2TUU3c2ZocHBQUHV6WjB0c1oyVTdJN2Rjd2F3azlzSWotMkJsZ1VBdDdlNjRsTWVxYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:18.962322+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "WTNH",
+      "headline": "Tracking the Tropics: Monitoring area off East Coast, and how a strong El Ni\u00f1o will impact Florida - WTNH.com",
+      "published_at_utc": "2026-10-20T16:33:05+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG91allqbW8xTm56SmxmSm81MnNrUm9UTVlJdWZjZ0xCemViMTJTTkczaFZQSmxYNVVMRzNsTlVfMHpvRFhEc1hHMS1IN1Z0VGdzUHdpd2lnQWpLMkE1UFFsN0M5WWcwOVpRbHdEVTg1RW1uYXJPbTlSR2NqU0JnYk9uQjFlcVhVaWVaMktnbVhnQzVXeDRrM0tydWNUTEpFSk5vdlJXTUM0U1lwdHBfNXM5Z3JWOTQzZ0V5cGh4eWRNcTJjcWZQNTFjSGdKRTh4c3VTTnJFMnYzSDF5cmNJdNIB5gFBVV95cUxPZGdiNVVseEFhZkktSmRwMDAyWU5iQUZkVXZrcHI3TWRVM3p4TE9BUjRpSXZ2ckFONXRwMS1JS3FDWXlhWkM0OTVZTnc2a1BsRkhMd2VpOG91akRQd1B5ZEQwa2xkdUZTS2tFX1c4Y01Vd3N1R3BZbHJjTGVZTTJnYThhNzNZMUVwbV9UYm1mSTFSNFRPbGI4bmpOdDRHZmF4ZjhpdkRtSEh3OGdaOFF2eVRjQXJZU21sRDBNNXZvVWlMbGd4MUprSFByekJkemlXeDRoQnNkU01sN1g3QkRtRnZWVE1qUQ?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG91allqbW8xTm56SmxmSm81MnNrUm9UTVlJdWZjZ0xCemViMTJTTkczaFZQSmxYNVVMRzNsTlVfMHpvRFhEc1hHMS1IN1Z0VGdzUHdpd2lnQWpLMkE1UFFsN0M5WWcwOVpRbHdEVTg1RW1uYXJPbTlSR2NqU0JnYk9uQjFlcVhVaWVaMktnbVhnQzVXeDRrM0tydWNUTEpFSk5vdlJXTUM0U1lwdHBfNXM5Z3JWOTQzZ0V5cGh4eWRNcTJjcWZQNTFjSGdKRTh4c3VTTnJFMnYzSDF5cmNJdNIB5gFBVV95cUxPZGdiNVVseEFhZkktSmRwMDAyWU5iQUZkVXZrcHI3TWRVM3p4TE9BUjRpSXZ2ckFONXRwMS1JS3FDWXlhWkM0OTVZTnc2a1BsRkhMd2VpOG91akRQd1B5ZEQwa2xkdUZTS2tFX1c4Y01Vd3N1R3BZbHJjTGVZTTJnYThhNzNZMUVwbV9UYm1mSTFSNFRPbGI4bmpOdDRHZmF4ZjhpdkRtSEh3OGdaOFF2eVRjQXJZU21sRDBNNXZvVWlMbGd4MUprSFByekJkemlXeDRoQnNkU01sN1g3QkRtRnZWVE1qUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:19.095452+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: West Hartford Hauntings - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:28:44+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZEJrLURHTlFXZWxKX25YS2lOVTdqNWE4cHhZbmhyUjdoV0RlSXp2d0x5UDUwVF9SU2xLcDhFRlpYTm94eG01cVh3SHZsNWVPTWZfdWs5TEJfSUJabTlVWEVfNGFDcjZyQWcwY3VXNkYyWlJrOG1nQWszLXVydXRTZnUtek5OYi1CSnpOWHU4VktLbjZJdy1nN0w5MWFZV01H0gGoAUFVX3lxTE1JbXQtaHVYZWV4aTlOc1dRNmZHOFJBWXhaUV9OSVJwRDY1ZEZqOXZBbHFOb0FnY1pjd091bTRFZE9vTXlwbXliWWR5ZWk4NGs4aXpMU0pmaE5Ca3hHRFdjWFBaY21tZWlWTzBPTUN0eFoyMS1zN2Z5UTBhSDVtVkozeXRxeDR3UjdhWm5RYmUxU3l0TnZmYldjNFBUM2dfbEhRSXFJYllNVg?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZEJrLURHTlFXZWxKX25YS2lOVTdqNWE4cHhZbmhyUjdoV0RlSXp2d0x5UDUwVF9SU2xLcDhFRlpYTm94eG01cVh3SHZsNWVPTWZfdWs5TEJfSUJabTlVWEVfNGFDcjZyQWcwY3VXNkYyWlJrOG1nQWszLXVydXRTZnUtek5OYi1CSnpOWHU4VktLbjZJdy1nN0w5MWFZV01H0gGoAUFVX3lxTE1JbXQtaHVYZWV4aTlOc1dRNmZHOFJBWXhaUV9OSVJwRDY1ZEZqOXZBbHFOb0FnY1pjd091bTRFZE9vTXlwbXliWWR5ZWk4NGs4aXpMU0pmaE5Ca3hHRFdjWFBaY21tZWlWTzBPTUN0eFoyMS1zN2Z5UTBhSDVtVkozeXRxeDR3UjdhWm5RYmUxU3l0TnZmYldjNFBUM2dfbEhRSXFJYllNVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:19.219677+00:00",
       "excerpts": "",
       "status": "needs_review",
       "error": ""
@@ -48,12 +197,45 @@
       "error": ""
     },
     {
+      "station": "WTNH",
+      "headline": "Man arrested after \u2018prowler\u2019 complaints in Norwalk - WTNH.com",
+      "published_at_utc": "2026-10-20T16:23:43+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVhNQzlXaVBfblNNakdkZWlDVmQ0eEQtZ2V0SG9QdjRwTU1uSUdIN1lzeTdnQm9oUHFtbm5NSWJJVlRPLXpqdnlIT1FIYVRYR04wMmhIWHlFT2wtRTNhSFdJNWJXc05waTdaV05kVFpTeHEzMVFsazVDWmtrZXBsblVDMHJpZFdsU2pxVlJGbzNOdHdndEhrcW5IWGY5UdIBowFBVV95cUxNTzJXbDdGbWVfUGI2eDRXRjlXOHJqeE1pdjlobVRFdTV1dFFCNjE5cE1VbXk5WVB6dm01eXRZVXhVeWxGanIxUUJzakMtLXNwYTliVUFabVFadURvT2tkMXF3Q0RGaUFUemhHdVVFQjd6QlJpMVA4WmJXOTVidjNDV0VlcEFMMDdnSHF2WS1JTkJYZHRqX3JHTXIwQ1NfcHJxV2ZN?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVhNQzlXaVBfblNNakdkZWlDVmQ0eEQtZ2V0SG9QdjRwTU1uSUdIN1lzeTdnQm9oUHFtbm5NSWJJVlRPLXpqdnlIT1FIYVRYR04wMmhIWHlFT2wtRTNhSFdJNWJXc05waTdaV05kVFpTeHEzMVFsazVDWmtrZXBsblVDMHJpZFdsU2pxVlJGbzNOdHdndEhrcW5IWGY5UdIBowFBVV95cUxNTzJXbDdGbWVfUGI2eDRXRjlXOHJqeE1pdjlobVRFdTV1dFFCNjE5cE1VbXk5WVB6dm01eXRZVXhVeWxGanIxUUJzakMtLXNwYTliVUFabVFadURvT2tkMXF3Q0RGaUFUemhHdVVFQjd6QlJpMVA4WmJXOTVidjNDV0VlcEFMMDdnSHF2WS1JTkJYZHRqX3JHTXIwQ1NfcHJxV2ZN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:19.362836+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "WTNH",
+      "headline": "FBI executing search warrant on Cemetery Road in Mansfield - WTNH.com",
+      "published_at_utc": "2026-10-20T16:20:13+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1dPREdQVnpia3p4ekJpLVVFd1FNZGFDODl1TzdoaXB2TGhSS0EtQUZWV1p4UVZ1S0xDRUYwMEhjM1Vvb0t3TFllMTJCNXRfa0w5TllhRXlaRUtKSWRLVmJNc2V0bGZpNzFHdE1Ta2hNekpUNzdLV3ZQanNXUkVuUmx5QjRVazc2Rzd0UGVYQXc1emF2YXhWSEo4dGZRQ2w2RzBrYTFaOUfSAa4BQVVfeXFMUFROdk00cG02ZzhnV3dTcFZQdllrQUF1Uk8xSWtQWGV3SW1rSG9EcGZBZzA5WGZzbS1iWDQzcVdROHVVWFkwZnAwTmppaTZIZGxZUG95YlJFQ0lzVjdTVzAwVUZKUjhvNEdmQ1RUa0ZrYTg3UE9DVE9ldUp0TEM0SzJ2SXFFSlZmdWszM2p2OXJmbklqQUVOTTNvYnMtbW5iY0FqdFIxbTU0czdvdk13?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1dPREdQVnpia3p4ekJpLVVFd1FNZGFDODl1TzdoaXB2TGhSS0EtQUZWV1p4UVZ1S0xDRUYwMEhjM1Vvb0t3TFllMTJCNXRfa0w5TllhRXlaRUtKSWRLVmJNc2V0bGZpNzFHdE1Ta2hNekpUNzdLV3ZQanNXUkVuUmx5QjRVazc2Rzd0UGVYQXc1emF2YXhWSEo4dGZRQ2w2RzBrYTFaOUfSAa4BQVVfeXFMUFROdk00cG02ZzhnV3dTcFZQdllrQUF1Uk8xSWtQWGV3SW1rSG9EcGZBZzA5WGZzbS1iWDQzcVdROHVVWFkwZnAwTmppaTZIZGxZUG95YlJFQ0lzVjdTVzAwVUZKUjhvNEdmQ1RUa0ZrYTg3UE9DVE9ldUp0TEM0SzJ2SXFFSlZmdWszM2p2OXJmbklqQUVOTTNvYnMtbW5iY0FqdFIxbTU0czdvdk13?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:19.487329+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
       "station": "NBC Connecticut",
       "headline": "CT LIVE: Sips, Spirits and Snacks - NBC Connecticut",
       "published_at_utc": "2026-10-20T16:19:58+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamFRWmtJeG81U3ZEUFB1bDBqbjZ6eFVMT0VwZnAxNmd3TnV1dFdwSFRIYnRsNjN0STJOVzRXMW1wM2dMWWVEQ3pIczctd0ljVG1Pb2FGVEVnLUpYcnlncnVnMTRLY1p1MHJXSFlPOHVselZFcDV2b1F5M1pqTkNERGpkWnA0N3hYNTg1RUV5VEgyOTJ6T2p6TlNCSHB4RUdZ0gGoAUFVX3lxTFB3Qnh5R3Z3Z290dWYyT0JZRGFOX2wwQ3VsQnJLaERJdUFGM0R4T3VLQWFjdUE1OEJsQ3ZGTDd6R3QybWQ0WmNKTUJ4dkRGWHNpUEVEZTFoaXo4VENmZlhTU2dxeFhzNmxpN1FjLVBmVFNNNG5OQTYweGlQZF85bjJOeUE0Mkk4NDY4T0F1ZWdyZzAzYVl3SFFvNjJZWXc1dXNKQ3pBRTFFRg?oc=5",
       "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamFRWmtJeG81U3ZEUFB1bDBqbjZ6eFVMT0VwZnAxNmd3TnV1dFdwSFRIYnRsNjN0STJOVzRXMW1wM2dMWWVEQ3pIczctd0ljVG1Pb2FGVEVnLUpYcnlncnVnMTRLY1p1MHJXSFlPOHVselZFcDV2b1F5M1pqTkNERGpkWnA0N3hYNTg1RUV5VEgyOTJ6T2p6TlNCSHB4RUdZ0gGoAUFVX3lxTFB3Qnh5R3Z3Z290dWYyT0JZRGFOX2wwQ3VsQnJLaERJdUFGM0R4T3VLQWFjdUE1OEJsQ3ZGTDd6R3QybWQ0WmNKTUJ4dkRGWHNpUEVEZTFoaXo4VENmZlhTU2dxeFhzNmxpN1FjLVBmVFNNNG5OQTYweGlQZF85bjJOeUE0Mkk4NDY4T0F1ZWdyZzAzYVl3SFFvNjJZWXc1dXNKQ3pBRTFFRg?oc=5&hl=en-US&gl=US&ceid=US:en",
       "retrieved_at_utc": "2026-10-20T16:52:11.775221+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "WNBA and the national anthem: The rules and why some teams don't stay on the court - NBC Connecticut",
+      "published_at_utc": "2026-10-20T15:59:35+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmFERUFYMVpydldpM1J5cTk2akhkeXNVOHdfR3drbmhHQjczYWt4LU14Q0hab3dRblBfZ0ExaE1DaGRWSlRjRTJxSy1CQmNmV084dU5LTWNNa05STU9DdS1hX19RV3RGbTlqSkQxQzViRWZZM29hNmVSTzRQOXlfbG1EamRnRGVuSVRZUU5hWXZTVjY3WWIzSmRWX3ViNkHSAacBQVVfeXFMTnRaM0VrZ0ZfYVZRWG9uS2hBLWJ4alFDdUZlYjh2el9vaGh4U2NYcXNuMzJjVGlfUVZyaF91SnRsX1gtWmVEUzZlOG5sR3RNS1UtQkFoVVYwMkFpeWlsU254bG9fZXVRSk1yVmpGQlQtR0VmanY2S3JPS1VBcW8zaEQxaGFUNWlfZXFGY2RPZzVDV0x4alhnX294Tmx6Um1HSl9BT0JsSms?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmFERUFYMVpydldpM1J5cTk2akhkeXNVOHdfR3drbmhHQjczYWt4LU14Q0hab3dRblBfZ0ExaE1DaGRWSlRjRTJxSy1CQmNmV084dU5LTWNNa05STU9DdS1hX19RV3RGbTlqSkQxQzViRWZZM29hNmVSTzRQOXlfbG1EamRnRGVuSVRZUU5hWXZTVjY3WWIzSmRWX3ViNkHSAacBQVVfeXFMTnRaM0VrZ0ZfYVZRWG9uS2hBLWJ4alFDdUZlYjh2el9vaGh4U2NYcXNuMzJjVGlfUVZyaF91SnRsX1gtWmVEUzZlOG5sR3RNS1UtQkFoVVYwMkFpeWlsU254bG9fZXVRSk1yVmpGQlQtR0VmanY2S3JPS1VBcW8zaEQxaGFUNWlfZXFGY2RPZzVDV0x4alhnX294Tmx6Um1HSl9BT0JsSms?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:19.616390+00:00",
       "excerpts": "",
       "status": "needs_review",
       "error": ""
@@ -87,6 +269,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOU0VST1pFcXUxakNLWWctYzJGcTJHWm1DXzVQLVpZZlRUR1lWVEdPUjFySnNZS1JNQ1U2NER6d0xJc3o5SWROTV95VlpwdmNTSTFCcE5IU1hFNXFaRE9xLWNQajNxdmFSSm9rVzNKSkEtQWFkSXc4U3p4WGZ1cnNYaDNIZGlJNHFmcjlIbTd0RmU2TXRqU05iN0tCTmNvMmpnTEJEQnhsbFcyZFVGdkRlTDRhVzlBZm9wUFItRHkzOWhXZmVMSkpvLWd0eURaNVRZM3pEMmlYY3ZzRDBJTVVSd0JUaEFMZmxndjM3TUZWNGRXR2VBV2dQbWJ1clRPNjZaS01ib3VkOVpoOHBhckMydjFSS25Kc1BlOXZaRVdjYkhpQlpUTW1ENGF3?oc=5",
       "article_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOU0VST1pFcXUxakNLWWctYzJGcTJHWm1DXzVQLVpZZlRUR1lWVEdPUjFySnNZS1JNQ1U2NER6d0xJc3o5SWROTV95VlpwdmNTSTFCcE5IU1hFNXFaRE9xLWNQajNxdmFSSm9rVzNKSkEtQWFkSXc4U3p4WGZ1cnNYaDNIZGlJNHFmcjlIbTd0RmU2TXRqU05iN0tCTmNvMmpnTEJEQnhsbFcyZFVGdkRlTDRhVzlBZm9wUFItRHkzOWhXZmVMSkpvLWd0eURaNVRZM3pEMmlYY3ZzRDBJTVVSd0JUaEFMZmxndjM3TUZWNGRXR2VBV2dQbWJ1clRPNjZaS01ib3VkOVpoOHBhckMydjFSS25Kc1BlOXZaRVdjYkhpQlpUTW1ENGF3?oc=5&hl=en-US&gl=US&ceid=US:en",
       "retrieved_at_utc": "2026-10-20T16:45:42.079306+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "WTNH",
+      "headline": "LeBron James is set to open his 24th season in New York when his 76ers visit the Knicks - WTNH.com",
+      "published_at_utc": "2026-10-20T14:46:53+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEc1RFRvUXRWQ3V4eFJpRjJnOWhtOHJJb0Y5TjVOWWZXMmdTemRJVE44cFhGS3ZZRGRlejhNZHBzcWVUV3o1OVlXQUMydEdIYWtQVmQzQmRxV3IzMHpZMkZTZnBsbDhqY2FCbjFYVW12cVZVQk9zakdCSmFYem9IclVXNndPdVd2ZkhKM19MbUtOeEhnUU56bDBlZXlXT0EtdmV3QjQtWUs2dW1wbUJBaU9jWXBwVWowbVZV0gHAAUFVX3lxTE9xNkNpd2lqblhhMzFKX2RhSHNjSDJ2UzA0d2M0WnZIWU1sSkkwZVo4Y2ZGVEtscHJWOGgtXzRzNkp4d2VQZWFLbXpScHpuTFhlWEVLdlZtZXNLOHVycFFOUTNXOXBxTEtJbjJmNVFCaE92dXQ4X0RNQmFqLUl6T3M4WU1kXzVJSWJyTVpnYmNfemhNRV9YbURJc3FBTHF5NEJ4T0ViNWRfOTJNbzdlOXNwbGlNMEp4MnRiaDh6NHNxRg?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEc1RFRvUXRWQ3V4eFJpRjJnOWhtOHJJb0Y5TjVOWWZXMmdTemRJVE44cFhGS3ZZRGRlejhNZHBzcWVUV3o1OVlXQUMydEdIYWtQVmQzQmRxV3IzMHpZMkZTZnBsbDhqY2FCbjFYVW12cVZVQk9zakdCSmFYem9IclVXNndPdVd2ZkhKM19MbUtOeEhnUU56bDBlZXlXT0EtdmV3QjQtWUs2dW1wbUJBaU9jWXBwVWowbVZV0gHAAUFVX3lxTE9xNkNpd2lqblhhMzFKX2RhSHNjSDJ2UzA0d2M0WnZIWU1sSkkwZVo4Y2ZGVEtscHJWOGgtXzRzNkp4d2VQZWFLbXpScHpuTFhlWEVLdlZtZXNLOHVycFFOUTNXOXBxTEtJbjJmNVFCaE92dXQ4X0RNQmFqLUl6T3M4WU1kXzVJSWJyTVpnYmNfemhNRV9YbURJc3FBTHF5NEJ4T0ViNWRfOTJNbzdlOXNwbGlNMEp4MnRiaDh6NHNxRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T17:19:19.766905+00:00",
       "excerpts": "",
       "status": "needs_review",
       "error": ""
@@ -348,9 +541,79 @@
   "human_review_queue": [
     {
       "station": "NBC Connecticut",
+      "headline": "UConn ranked No. 2 in women's preseason AP Top 25, behind South Carolina - NBC Connecticut",
+      "published_at_utc": "2026-10-20T17:00:43+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWkViLWJ2d3ZaSko4bEpGaXlERXBPTnhmYUhfTVU1aVlWSUE1S1UyMGhyTzdIdjQ3MGlhOEUwVTM1ZVNwemtvQnNrZlZ3U2pPUXVpZGFHenpRTjlMcWJwYWhidXRPek9OcUlLT3hTMEt4UnFTSXA0dkpCcVhINHFmZWhLZHpYOXM1SnlIZXprVXdELXlqSTdvN0ppcERDMXNUd3ZmYm82TkJ0bjBlQXNsMUdlT3RvU0lOSmQ2ONIBxAFBVV95cUxPSm9uWVpZbWtwUnQyNklMNW0zMGdQTU9PZkpxMWExOGMwQklTbU13MzJmM3VCYWNuZUpjdlMxUnFDc0pMWDRQM1FOUm9YeGZZOW02VTBXUTR3UzBCSVp4V1JoNUo1VDFUS1Jza2dTeWJ4WUpoaEp0WUpLOVlaZ3hIN0p6emZ6bjJFSG5XV0NrVF9rXzNnQ0M2WERHSUNIdDM4RG5wakR3TEIxZW1QamtqSmpmZGxOTDJYY1lzV2Q0QnQ4ZWN4?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "Carnival Cruise introduces dynamic pricing for popular onboard amenities - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:55:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdWJDdXROcUZJWkRGT1pqM3JEdEt1VnBEd0hOeXZvbE9NemlNaUpmU3prSEF0aG4wVGtkVV9iejJlWndxM3dTNkRGUl9UeUIyaDhITC1FSDhnalFRYW1zM1dpblplQm50Z2djSnpPcWZCeGp5dG9lbmJzcnRRWGo5WHl4SThPaTZGNGQtQ0lET2lRVjN3eFFGaW9SZzZOZEVHVV80ZWZqLXVhaXBoa1NhUk1CekZsekk4ck9tcTZGVdIBxwFBVV95cUxNeW03dHhqWVppTXQ5RWhxMjhjZmw3eDQ2MGo0MFU1SlVvWUgxLVdKODlwMEp5SGxmQkVyRVBxd3pMakZ4Ml9YNTlNTFhubDZIMS1CRnpTb3ltbXJxd3pWbU8tZEZib0JpSDg1WFVxSWh2eG5TOTUwcnVtQUUzbUJGMGlkYVpnSWw0YkFQeThSbklKUDh4bEJOTEpVUWJCdTI4Z0FlOE44WURuSjF6NktLbVR4dmhtQXlCd3h0VFQ4c0NhOXptcW40?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "NBC Connecticut",
       "headline": "FBI execute search warrant in Mansfield, officials say - NBC Connecticut",
       "published_at_utc": "2026-10-20T16:42:18+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVExveFY3R0dXbFJGczRjU21Td0l3VUtRMkxyWlN6dmc1UmFCZnRyQm5xYjE3X014cXZCLTVkTldvRHhQQ01CWGszX0V6RHdSYlBwUDUxdXd5UXQ3N2F3b3FYUGpPRXlzWFFXZ3kwa3JVQVFhUGozVEpST2JsTUZCcTA5Y2pBc1M3M1JCajg5cnlmZ3FXSUoxbkIxak9TWnMzeXY4bUhKUdIBrwFBVV95cUxQeEwyWi1pQmphTmota1g3eWtLVEtkaU9TcWhrbGJLYlJraU9SQkVsZnV6TzhDaHNIMVRVRkNoSEZrVWcwRHA1ZGpzWVpyWFlZWjVlN3IwLW9YdlRNaS0wbkpiUF91TzdYZGFSSHNndDB6UjJleDBENkNtZVlWQ0N1X05mYUxHOXdtUFhJcWRHaUp0QzlBM0hHQS1EeVp3Nm1UbDFkVm5QTWRlaXVINVpN?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: Abbey Gets a Basketball Lesson - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:40:40+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2pJSzN1Y2g4eVJQRG8zXzF1SWxTTTE4c1M5SU51RmlqTmhqcUNkeHhCbklBT3ZSVHEwWjV6SmlibkhuSUpWUS1EWVZWS05fY2IwRTVSNEhJQXhvWDJIcFh0aHM3STVabVh0alBVa1c4TU1VVWlyVmJPR1BjY2ZDZ2V1VE5BaUJjSHRnWDJHbUtjU1l4WGZBN1ZPazZ3QXh1M0xLdl9nclV4QdIBsgFBVV95cUxNamlrM0JJaFpGYWE3cTY4cDJoUTZHQzdnc2tBcUgtc2FmQXdnSXYyR2pxV1FXRy1fQXJyXzk1RlBjUkdYUE5EMzhha1Yxam9jVTV2LVNUWjVYWGx3RzFyNzhsamxhMFBBZ0pSQUlkaFBiMEE4UkYwS0VOdkFsSGlMclBfTHZVMEtYNlBPdHRxbHotaWpISjcweHJERWJOUHlnYmxSVDRZMld5dXRpeC1FQzVB?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Man\u2019s BAC was triple the legal limit when he struck, killed Bloomfield tow truck driver: WARRANT - WTNH.com",
+      "published_at_utc": "2026-10-20T16:37:53+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ3NvYjZBb1hZdExZbXFsOWQwUTllNTIyT2ViNWpmYWY0YU5tZldOTGthV3BEYmxsU3FhUC02aUNZZlNsbnlrWDRQSWJjeDRHSlFBM3d2OTNqblJTa3FuLWxXQlR6bDY4R2Z6X1ZwRTdfbTlCWVd5UGpnalZhYWwtQ3ZNQ091ek94Z1VDOElyU0lLLWl4SWc5NVFXNE9lYjJ0YVQtZU9nemgyX25vYk9NMnV4Ym9RR25hTXF5TWpib2dtT3ctR01uWEI5R2tpS191LVY2ekxvUFHSAd4BQVVfeXFMTXllWFJrRnVNNXBnMEZfM1BBTl9TT0tjVmdDWHhYZWRXZWdMU09vVWQ1Vk5CMS1ibGlpRk9MRjdoMV9iVEFFbzNoZ0xfRWo5dVdOVUZ4WHltSDZVUC16WEJoOFlkemQ5c2FIWlQtMW9HdEJpV0doa1BCSURxdEhjMmltbmJSeFFsZjBObGMxMWRjQ3JWUlVHYjZqLWtwZFQtaFlMdXpTaDVTQWdvYlNwY1FhUnRpdktCa2VPdGdhZHJRbVdKY1hYZ1U2OHlWM2JsM2ZuZXo4ZVBSdGgtdU5B?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: Torrington Savings Bank \u2013 Questions for Abbey Part 2 - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:35:27+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWdYTWJhNkhJWUtIWUJxajNydW9zTk52bURidGpoNDF6OV9PZ19tRS0tRlcwVkFSaDBvTWVsRXcwZUxLbUExV1FhY0hWZUQ1NFVuTzExdXVSdzJPd2RWSDlkLTJIYVAyWk9yaTZxbDZQaEJnWVFKdWF1QjB5aV9VYkEwNjZuTk5DS2I3R2dMcS16ZXpfbzczZERHZE43SW9jdy0xc1Q4b0k3d1N6M0gwb25OUkV2VFViVXpfQTB0V1gzaW9U0gHMAUFVX3lxTE1YNUw3Um9qSHRVX3pMUFE5Z3dmc2dwUWJxb29zUlFlWXJYWlFOdEdCcEx5Vm9vbmJSdlpWS08xRVE0azNyVllpVHZBSTJBT0pVWC1uY0Ixa180cGdnazAwTkF4LW1xTHQtSjVsdlRiSVEwOHpTMUNfZEpWOG9ocl9ubWFCNldrVC1QXzJiSUE0dzI5dEpjaDVMNHE2TUU3c2ZocHBQUHV6WjB0c1oyVTdJN2Rjd2F3azlzSWotMkJsZ1VBdDdlNjRsTWVxYw?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Tracking the Tropics: Monitoring area off East Coast, and how a strong El Ni\u00f1o will impact Florida - WTNH.com",
+      "published_at_utc": "2026-10-20T16:33:05+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG91allqbW8xTm56SmxmSm81MnNrUm9UTVlJdWZjZ0xCemViMTJTTkczaFZQSmxYNVVMRzNsTlVfMHpvRFhEc1hHMS1IN1Z0VGdzUHdpd2lnQWpLMkE1UFFsN0M5WWcwOVpRbHdEVTg1RW1uYXJPbTlSR2NqU0JnYk9uQjFlcVhVaWVaMktnbVhnQzVXeDRrM0tydWNUTEpFSk5vdlJXTUM0U1lwdHBfNXM5Z3JWOTQzZ0V5cGh4eWRNcTJjcWZQNTFjSGdKRTh4c3VTTnJFMnYzSDF5cmNJdNIB5gFBVV95cUxPZGdiNVVseEFhZkktSmRwMDAyWU5iQUZkVXZrcHI3TWRVM3p4TE9BUjRpSXZ2ckFONXRwMS1JS3FDWXlhWkM0OTVZTnc2a1BsRkhMd2VpOG91akRQd1B5ZEQwa2xkdUZTS2tFX1c4Y01Vd3N1R3BZbHJjTGVZTTJnYThhNzNZMUVwbV9UYm1mSTFSNFRPbGI4bmpOdDRHZmF4ZjhpdkRtSEh3OGdaOFF2eVRjQXJZU21sRDBNNXZvVWlMbGd4MUprSFByekJkemlXeDRoQnNkU01sN1g3QkRtRnZWVE1qUQ?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: West Hartford Hauntings - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:28:44+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZEJrLURHTlFXZWxKX25YS2lOVTdqNWE4cHhZbmhyUjdoV0RlSXp2d0x5UDUwVF9SU2xLcDhFRlpYTm94eG01cVh3SHZsNWVPTWZfdWs5TEJfSUJabTlVWEVfNGFDcjZyQWcwY3VXNkYyWlJrOG1nQWszLXVydXRTZnUtek5OYi1CSnpOWHU4VktLbjZJdy1nN0w5MWFZV01H0gGoAUFVX3lxTE1JbXQtaHVYZWV4aTlOc1dRNmZHOFJBWXhaUV9OSVJwRDY1ZEZqOXZBbHFOb0FnY1pjd091bTRFZE9vTXlwbXliWWR5ZWk4NGs4aXpMU0pmaE5Ca3hHRFdjWFBaY21tZWlWTzBPTUN0eFoyMS1zN2Z5UTBhSDVtVkozeXRxeDR3UjdhWm5RYmUxU3l0TnZmYldjNFBUM2dfbEhRSXFJYllNVg?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -367,10 +630,40 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Man arrested after \u2018prowler\u2019 complaints in Norwalk - WTNH.com",
+      "published_at_utc": "2026-10-20T16:23:43+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVhNQzlXaVBfblNNakdkZWlDVmQ0eEQtZ2V0SG9QdjRwTU1uSUdIN1lzeTdnQm9oUHFtbm5NSWJJVlRPLXpqdnlIT1FIYVRYR04wMmhIWHlFT2wtRTNhSFdJNWJXc05waTdaV05kVFpTeHEzMVFsazVDWmtrZXBsblVDMHJpZFdsU2pxVlJGbzNOdHdndEhrcW5IWGY5UdIBowFBVV95cUxNTzJXbDdGbWVfUGI2eDRXRjlXOHJqeE1pdjlobVRFdTV1dFFCNjE5cE1VbXk5WVB6dm01eXRZVXhVeWxGanIxUUJzakMtLXNwYTliVUFabVFadURvT2tkMXF3Q0RGaUFUemhHdVVFQjd6QlJpMVA4WmJXOTVidjNDV0VlcEFMMDdnSHF2WS1JTkJYZHRqX3JHTXIwQ1NfcHJxV2ZN?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "FBI executing search warrant on Cemetery Road in Mansfield - WTNH.com",
+      "published_at_utc": "2026-10-20T16:20:13+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1dPREdQVnpia3p4ekJpLVVFd1FNZGFDODl1TzdoaXB2TGhSS0EtQUZWV1p4UVZ1S0xDRUYwMEhjM1Vvb0t3TFllMTJCNXRfa0w5TllhRXlaRUtKSWRLVmJNc2V0bGZpNzFHdE1Ta2hNekpUNzdLV3ZQanNXUkVuUmx5QjRVazc2Rzd0UGVYQXc1emF2YXhWSEo4dGZRQ2w2RzBrYTFaOUfSAa4BQVVfeXFMUFROdk00cG02ZzhnV3dTcFZQdllrQUF1Uk8xSWtQWGV3SW1rSG9EcGZBZzA5WGZzbS1iWDQzcVdROHVVWFkwZnAwTmppaTZIZGxZUG95YlJFQ0lzVjdTVzAwVUZKUjhvNEdmQ1RUa0ZrYTg3UE9DVE9ldUp0TEM0SzJ2SXFFSlZmdWszM2p2OXJmbklqQUVOTTNvYnMtbW5iY0FqdFIxbTU0czdvdk13?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "NBC Connecticut",
       "headline": "CT LIVE: Sips, Spirits and Snacks - NBC Connecticut",
       "published_at_utc": "2026-10-20T16:19:58+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamFRWmtJeG81U3ZEUFB1bDBqbjZ6eFVMT0VwZnAxNmd3TnV1dFdwSFRIYnRsNjN0STJOVzRXMW1wM2dMWWVEQ3pIczctd0ljVG1Pb2FGVEVnLUpYcnlncnVnMTRLY1p1MHJXSFlPOHVselZFcDV2b1F5M1pqTkNERGpkWnA0N3hYNTg1RUV5VEgyOTJ6T2p6TlNCSHB4RUdZ0gGoAUFVX3lxTFB3Qnh5R3Z3Z290dWYyT0JZRGFOX2wwQ3VsQnJLaERJdUFGM0R4T3VLQWFjdUE1OEJsQ3ZGTDd6R3QybWQ0WmNKTUJ4dkRGWHNpUEVEZTFoaXo4VENmZlhTU2dxeFhzNmxpN1FjLVBmVFNNNG5OQTYweGlQZF85bjJOeUE0Mkk4NDY4T0F1ZWdyZzAzYVl3SFFvNjJZWXc1dXNKQ3pBRTFFRg?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "WNBA and the national anthem: The rules and why some teams don't stay on the court - NBC Connecticut",
+      "published_at_utc": "2026-10-20T15:59:35+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmFERUFYMVpydldpM1J5cTk2akhkeXNVOHdfR3drbmhHQjczYWt4LU14Q0hab3dRblBfZ0ExaE1DaGRWSlRjRTJxSy1CQmNmV084dU5LTWNNa05STU9DdS1hX19RV3RGbTlqSkQxQzViRWZZM29hNmVSTzRQOXlfbG1EamRnRGVuSVRZUU5hWXZTVjY3WWIzSmRWX3ViNkHSAacBQVVfeXFMTnRaM0VrZ0ZfYVZRWG9uS2hBLWJ4alFDdUZlYjh2el9vaGh4U2NYcXNuMzJjVGlfUVZyaF91SnRsX1gtWmVEUzZlOG5sR3RNS1UtQkFoVVYwMkFpeWlsU254bG9fZXVRSk1yVmpGQlQtR0VmanY2S3JPS1VBcW8zaEQxaGFUNWlfZXFGY2RPZzVDV0x4alhnX294Tmx6Um1HSl9BT0JsSms?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -401,6 +694,16 @@
       "headline": "San Antonio Spurs to COVER against the Oklahoma City Thunder in Tuesday's NBA Betting Action - fox61.com",
       "published_at_utc": "2026-10-20T15:06:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOU0VST1pFcXUxakNLWWctYzJGcTJHWm1DXzVQLVpZZlRUR1lWVEdPUjFySnNZS1JNQ1U2NER6d0xJc3o5SWROTV95VlpwdmNTSTFCcE5IU1hFNXFaRE9xLWNQajNxdmFSSm9rVzNKSkEtQWFkSXc4U3p4WGZ1cnNYaDNIZGlJNHFmcjlIbTd0RmU2TXRqU05iN0tCTmNvMmpnTEJEQnhsbFcyZFVGdkRlTDRhVzlBZm9wUFItRHkzOWhXZmVMSkpvLWd0eURaNVRZM3pEMmlYY3ZzRDBJTVVSd0JUaEFMZmxndjM3TUZWNGRXR2VBV2dQbWJ1clRPNjZaS01ib3VkOVpoOHBhckMydjFSS25Kc1BlOXZaRVdjYkhpQlpUTW1ENGF3?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "LeBron James is set to open his 24th season in New York when his 76ers visit the Knicks - WTNH.com",
+      "published_at_utc": "2026-10-20T14:46:53+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEc1RFRvUXRWQ3V4eFJpRjJnOWhtOHJJb0Y5TjVOWWZXMmdTemRJVE44cFhGS3ZZRGRlejhNZHBzcWVUV3o1OVlXQUMydEdIYWtQVmQzQmRxV3IzMHpZMkZTZnBsbDhqY2FCbjFYVW12cVZVQk9zakdCSmFYem9IclVXNndPdVd2ZkhKM19MbUtOeEhnUU56bDBlZXlXT0EtdmV3QjQtWUs2dW1wbUJBaU9jWXBwVWowbVZV0gHAAUFVX3lxTE9xNkNpd2lqblhhMzFKX2RhSHNjSDJ2UzA0d2M0WnZIWU1sSkkwZVo4Y2ZGVEtscHJWOGgtXzRzNkp4d2VQZWFLbXpScHpuTFhlWEVLdlZtZXNLOHVycFFOUTNXOXBxTEtJbjJmNVFCaE92dXQ4X0RNQmFqLUl6T3M4WU1kXzVJSWJyTVpnYmNfemhNRV9YbURJc3FBTHF5NEJ4T0ViNWRfOTJNbzdlOXNwbGlNMEp4MnRiaDh6NHNxRg?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -497,6 +800,26 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Water main break shuts down portion of Route 315 in Simsbury - WTNH.com",
+      "published_at_utc": "2026-10-20T12:04:15+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmJsOHJZT05OckI2SFlqa2J5ZVJzYUp5M0J0TU1PUEZxRk9fWFltQjJDblFxQldiRHNoeU5xYW55VGFzN0FIV1NYaHNtc0JVcjNDeUN0QnBRdXdxbnBIN0hKZ2FuU1VJUU1iM1BVLWNyNk1pUHp0WlRpN3J5cXJ6XzZjVTQ3bjRYT2FwVmZwS1RjZXdjQmtaVHVvdUZkWVc5UzZfb09aUmdVdG0y0gGyAUFVX3lxTFBURVNKWDZLYnBiUjJMYzQtZHEzeTFXM3N5RlVoN1g5U2lzSkh6NTBNSExYYjlkaER0UDlBSHFHWUZfMWw5MnNqaDd0MFc5ZzMzWlk3YkZEXzkzbXJmOW5sRGxOT3VCVXNsYkxaR2NHdVo3Xy0wS3VhTW9FSlN1dTBzUWtFNXRGcEVHd2tfOTF2QlVfQ202RUo1Wk56UXVZZDdGNHVRZk1mR21OenZDcmZucUE?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "What\u2019s Right with Schools: A dozen schools come together for musical collaboration in North Branford - WTNH.com",
+      "published_at_utc": "2026-10-20T11:35:11+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORHZfcDJxSVYwaTQ1UmRXR1hCTE1Cek9zZDk0TWZuOFBoMDVEaTJjeDFkVVFqZERGUkp3aExLMHU2UEhwRFFxYVFaUW5heTBSQWl6dnpPSzhUWFBTZk9MWUhDTjhvTUp0cWxKTEVianVjUUNhbml5SXZLb1FnNi1kVkNYUjJNMjNOME1LSWJnY0RkYUpFN2FOcGZ3RnlYV3d0bU9EVVJwOGE0OTFBV2FwTDhqYUd4U1hKdXBQcFJZYko0M3QyYnlKc3U4ZGtDUW83Ul8zNi1Gb3dFQ1MxQ3U0VTc5WUxwVGNpVnQ5cWJrM1PSAfYBQVVfeXFMUGQ0Wng5RzQ4TndzUUt1dGFweTFaZ2NmalVBMWpkbGdrYnRSaFlWOUw2WllsdEFPOWp6eU56UV8tSF9CNTlKY0Zpa2VQRFlJTzl4NEdzUUJWZjVlOHVBd0NCM2g2cEZDQTR5SldMQXhvVWhUaEtSZVpScEV4ckJMMjZkb2JFZkRBUi1ad0RwQTJfelhiNllXTGtBRjR3MVhRMWJRMFhtSzZPZGdfVzZkakI4NkN4R3pmNUZZejhJNzJ0S2lseXhBS3h5Z1hnTU1vQnFqZ09SbHdXZGVVSG0tZUFHTEJwRXVSaENEbkowU1E0T3ZqNWlR?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "WFSB",
       "headline": "Scene clears following shooting of Yale employee during attempted carjacking - WFSB",
       "published_at_utc": "2026-10-20T11:34:32+00:00",
@@ -561,6 +884,16 @@
       "headline": "Yale University employee shot in attempted carjacking, police say - fox61.com",
       "published_at_utc": "2026-10-20T11:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYkpmY1E2eTY0X0czbU9VMDFRZ0F2bEJJcXZQUHl4eWRkby12LUZpLUJobGZqQTFnd2RCSmhRS0VYWXI3czczLXdUbS1lWFhXWjJVYW9QenE3aFp3VFFyaXZTWFpQV3lCMzZZdjROMnI4V1NlaWlyS1ZqRG9hMWJXaUUtT1FYcGw0enZrZ0Q3OXJCNmZ2ZThtQnpwLVZGSjZ1Y0ZmRkRaREdSVFlxY2xEWm56OE5qZ2RBMi1IYWZMT2pGT1hRRFVBTnI4b1FidndUdGdyX2d3czNESDZo?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Trial in Waterbury captivity case expected in February - WTNH.com",
+      "published_at_utc": "2026-10-20T10:52:19+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYldxZER5a3ZWbF93SGMyeFZfTy1JSUItYnVuMTQ2elR5aUk1QXg2UU43a19KLTFZUmxFaWs5bGNKeGJaWVVjVjFPVjN2MDVUZzV5MHhvUm1YTmp0aTJXaWd3cDZVRkUxTWsyN1ljbkdBeTdHSGk4WkEwYW9ydk1TMTlVVGhsaDhLbk9jZEtYQ0VYNTJQcXBSdE9ucVdSNl8zU21QZThNTlJLbnJGdFdrSy1zak90dWVTTGZFUU0zdHFfTFnSAcgBQVVfeXFMUC1lWTN1clBKWThWQ1BncmUzUjkyZTJ0Znd0UzhWQ29yMFEtYnc0RGRCeDkzOVlsdnQ4dWRBYl96S3lEelR2RTZTcXdsQ2NvcFlMOEUtYXpuUFdrQ2ExREt2YWFQZnhHX3dKWDM5R0xybjRpVkRyVG5zcXZLbHd1eHFKMTZveFItQmxsX1FYcDh4cDJyWUNydHVFVjZUU3NnY05LSmxnTlhIM1RsSHItdHd6N3dPbENSa3dLSzNsVzF1WlJ5RGJpdjY?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -731,6 +1064,16 @@
       "headline": "Man charged with manslaughter after Bloomfield crash that killed tow truck driver due in court - WTNH.com",
       "published_at_utc": "2026-10-20T08:33:19+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0dsUlMtMXNoN3ZSWUhYTjRVZFdTWVlBNi0zWk9NalFYRGE5WlhiODNwVFJnZHBFdE9rLXZfam9YU2N2WmhiNFBIRzJjSTlDdG5HaEc2V3RmcnFZVURNd1BQVG1nTmFIOXZtUkJNZ2lmM3dhVEtsRnZiYWg2MURhYXRMOXppeGp1RWttWUZMakRNTVVLUG01bGxHaURQV3o1MFJYSHctcy1sNWhjamd1M3dJTS0wUFNCZ3JlSHpTSdIBxAFBVV95cUxNVEpXVkIxeHV3R3JWdmxRbV9vMDhtdzB5bEtBcUVxRG5UTG9iVjd1eDF1RWRiRTlRTGRkcnFHcFhtU0hYWC1Yd1dXa1RNWXBxNzdxNU1BVk13SC1NWHRybTRzcWlENk44VnNFeGtELTJ4cjM5dXJMUTRDT0lhOUhQeG5Kc2d4WUlSZ2hfRzBYQUJkel9uVmsyMUdHdmZ0eVZTOE9VNm5YY3BmdW12QzYwdlRqNHhnWWxxak43cFFoTXZCTWhi?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "PSG takes on Barcelona in Champions League highlight despite French protests - WTNH.com",
+      "published_at_utc": "2026-10-20T08:26:05+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPai1UQk1teW9EcUdPWXA0RTZFZ19JbUNHaUtuRjB3MHVfN0k1eXh1dG9wU1hhVGlfSXQyYy1Hak9MUE95c1J0MlhBQzdGSXB6NFdiaktyUGNGblFUU1dncTRsUWFlQ2NvdWxJUFpRMndUSDlNZEJ6MEZNenhhbFhERzFiMXZvWjhyeEdNYWdwZ2s5dFNnYk95MUZaMjJuSVlZRW1TU2FRWGMyY3pG0gGyAUFVX3lxTE5rcHNiLVJiLVVsSFRNSEdsQkhYdHZhVTNlVG1rd0ZlQ1k1UUNCeFQ0Q1RMRnRkQ0Nrb3doOXRjV3ZIMVB4MkZZdDk1ZnNnaHpoOURTVERyWVRVQ0VfS05hSkd1Y2VyZVlQbF9HZG55bzdmeFkxcGpYYkZTWDV2Q2xOLXBsR0pTLUY2ek8wZVNhZ0xsMERZNjhtN0NnUTY3QzVSZ0dEMmZZRldfVExyWWNtS1E?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -957,6 +1300,26 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Dream look to create better shots in Game 2 of WNBA Finals as Valkyries try to lock down on defense - WTNH.com",
+      "published_at_utc": "2026-10-19T23:08:03+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQi1UYkRQWUtvLVN0cnBFbGFLemV0YzhCSW5FQ0lCc2N4NWFhMGl0Wk1tNV9rSmZseXRYenNBMHhuY19yV2xyeUZZM2Y0THE2a0dQN2E5RGNyWktwUTBwWGN6UXBqS2xkdlhOdzhEaEJEdUhGVU9FRmtnRHc5X0NoQ19SWE8wUHFmMWxtRlM4MGdoUTROUkx5WTM2bTY5RlZVWkpBb0x0d2tMREU3MnBfNFJiS3pJZnRKMHNkNHk1amN2TW44dTNSczZCNNIB0AFBVV95cUxQQ2czQkVhR1F3QURINWsweWJaZGV5Vi1IS2ktUzQxNVVrQ2dMYnlkWHgtSG85bThaM1hGX3FicmgxelNxYlhiOFhqSW40X0xtSG00aG0xOHhnb3BuTmp0M2FsVVMwbFpzRnZ6N1hVaml0ai1jWldmb1FUSkdCSlE5ak5WNWoyMzZkUGRIOFZXOGt4OHNqdUpMY3BLNnhLQk5iVTFkZk8zVTYxWkI4TDlVcHc0SzE5eWlqOUVMUF9QVlo1ci1rRGREWldXdUI2cm5Y?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "UConn women to face Texas at PeoplesBank Arena in Hartford - WTNH.com",
+      "published_at_utc": "2026-10-19T23:03:18+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNl9zalhaQ0gwSDluNnJjZjNDV1Q2a1I2ZlVZTWhZd29JMWgtQk9EV1VPajNHR1N6TjdRTWdxcjZuNE5jZzFsekUyYWJRRDUxWXJKUTUzLTBBQ25hbUhIeEpwbmNvQlBId1FqQzRxVC1YMDRJMnNKMTN0WVlXYnFIaklKcFBnemVtR1B1Y01iWVY2d0pIS1JLQTF1cTE1MlpfUWpJ0gGoAUFVX3lxTE5PY0llTUdPc2pGNHVJTTBZMDFZUGxBbXZqb203TzhjUk11Ml9vNlpsQWlEU2c2TVBaYVhhUE55S2x3b2lNM1FjbFVkeF9ZQzFTc0lTaGxlOGJvSUdfNUMwRGw5YS1rTWotcW8zZTlXOVduSkdtLTY3aEJVelRoQ05iaTFLTENSZlpCRmJSX01FNlF4VXYtQXdUNkZ6dW5vckRndVM5RXJnUQ?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "FOX61",
       "headline": "FOX61 News at 7pm - fox61.com",
       "published_at_utc": "2026-10-19T23:00:00+00:00",
@@ -1007,6 +1370,16 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Police search for suspect in Bridgeport hit-and-run that left bicyclist injured - WTNH.com",
+      "published_at_utc": "2026-10-19T22:26:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLTBBdzZRdFpKbG9qNnNralIyNE9jdWxUY0hTR1RfUWFBYk9tN0xUQXh4akJTOWU0MEdNa3BFUEhfOVdHTEhmaFRjS2x3bFF6ekNlNEVjMFVEVnBxcG1oUDdkMGdJcTdlTkZhdDRmeVZnRmVIOXI4aUF4N1BhTl9oclNHdUJrdjBSTmUtYjVjVkdWbDBDa0stZUZKcDRaUkdia0V4ejIzT0dVbF9aMlBlNlo2TGVmUDBXdzViWkVxRExCNTJwckdr0gHMAUFVX3lxTE94LV82Z3ZmUTJQRUhmU1ZlZk94Skc4UUhnVWQ0WlBXSGtJeUpjSmpvLXRIb09DRTNCcktXNmZVdU9EN1EyY2k2VkI2VDNYUGVjZ3RpRXNoR0NaZlZfMzdLWHNoYi0xZHVsb1hrQWVqS3NhM0k0dUlPQ2VJSkdhT29CMkR0OGlzaS1FVTFnLV9Cb1c3OWpoZ3lNMTNNVFBSMy1tV2tOUktZajE2c3RPYkZyTTBVSDNzd0pmSjZlNVlWMVhQbGdQcXFJLV9qRw?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "FOX61",
       "headline": "Halloween Tour in New Haven shows Yale gargoyles, focusing on the ornate architecture - fox61.com",
       "published_at_utc": "2026-10-19T22:25:00+00:00",
@@ -1048,6 +1421,16 @@
     },
     {
       "station": "WTNH",
+      "headline": "Ronaldo suspended for 30 days and fined for walking out on Portugal camp - WTNH.com",
+      "published_at_utc": "2026-10-19T21:24:36+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGx3RHZ3amZYcVVNSkRqY3pTRGxBX29SR05CX0h1WVI1NllPcXpjY0I0SFlTMlVVd2FaTXlDNmdVNFZrVmMtYkg0Rm1VRXVnNkhWZU56cFRmdWJPVHJBYUk2NzBvMG1tUUNBVEZweHY5Q3l4V0p5TjcwNFM2bkhCVmhkMjhjZTF4bUFFNXA5SGVsVXVvN3M0akgxLVZJYXNJNk5iR0FNY9IBrAFBVV95cUxOcWNvd0ZscGhROEdrUU9hREp2NjgyT0FhYlFrMElKRnFrTHAyRkNaeXVjcVRieGlxUzdleU5TNW5ybENiTHpZOUJBRzVfeUVKc1ZyOGsyYldXVTBWQ19XTzlaSEdOSjhjX2pGczY2Tng3dWtwSGk4SVpvWmtJY09ncV9sNjVlRm84bks3Z1FLcThnMk03VzdzdWxQX29xR2hGLWZabFZMTDdBNjBm?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
       "headline": "Man charged with OUI, manslaughter after Bloomfield crash that killed tow truck driver - WTNH.com",
       "published_at_utc": "2026-10-19T21:08:12+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeVptN1ZFM3kzVjVFY0Q3d1BnX0VqV19FTVBNbGFDSTFwZWI0S1FkVlZBdTBKaVg2bVUtMENMZWp4ajVCVXdrdUpHblZVT29lYWNQejd5RWFFN3dHdDFyazlNMWVzMjBBWGFQdVVRZVFQSmN6UzBITXpUY1djekZaVFpJb202cG0wSEw2TXVOTnV4RWFuSl9zeVVrUkNYUjJETVJibmdVS2FuTC1iUFJ5S21MTWN2UDNGa3dwYlNhejFCRkZkd1NLOUNpQ01QZ9IB0wFBVV95cUxPX0N6WnF3LWludGJzcnFjeWxGSVpnXzd0V2lCck9zTk9PdmNkWjA2Z1RoSFlMd0dnT3NGUlBBMU9sLUltVGUzMWI0RlRkbEh3cUE1UUhjOWFvYlduOTFCOFZ2ZUVmY1ZCRmM4RGtLcjQ5VHFQLTJ2Nm80RVJyVWtaVGhHTGJyN09rUzdpZ3M5cEZGQ3pqT1pzUFItdTBROVJwLURfVWRUNnNZR0ZLalNXM3Vka2ttdTc1akYyVTNQbUY5eFB0X0NUakEyMU5QRFR3bWxz?oc=5",
@@ -1081,6 +1464,16 @@
       "headline": "Hartford man arrested, charged in crash that killed Bloomfield tow truck operator - NBC Connecticut",
       "published_at_utc": "2026-10-19T20:59:55+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnJ3YkFxLUlUVnpoRXZsX3d2SHNFRkpLMS03ZXhRay1rWmZ0dUVOYl9qRkpFeHdKTmVHeDFWSExLcGZNT2pJalUtdFNjOTdDOTVOT3ZfY0pKeW5yNkFtX29ET25xNmJMSTl2d3RZMUU3ZlFCZE5nbTVOMzhuQWxDam9PMVBqZ2lnMm9ERU45UjlUQ3NjcTA0Vm5Pem1YdVdWSnBYdXNLZG54YlBfYlZtMWs3V050VXFvQ0I2UFV2VdIBxwFBVV95cUxQVXZXOVVST2xtNVhHcF9lUl9pTWdHaXpwNjZMZV8tTzJZT0MtSUNRSVMycEl5djhiOFpQaE41V05FYVJXOWs5b0VNMjR4MklHS2dKVUQyZjlGYWNnVkhpVGplaVZSSGREMGU1Zjh4cGpjWnNlb3VpYy0xVXAtQ1hpT0lLOHdWSkVNOG0wZWQzMzRfeTM2RHZuS3BVeGlNV3VaSk5ESUVfY0FWS2NTejI3UDFySXg0Z0h1dkdfYnA1eWNWNW9YTEdv?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Fatal I-91 crash renews dialogue surrounding wrong-way crashes in Connecticut - WTNH.com",
+      "published_at_utc": "2026-10-19T20:49:16+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXJwQWN4UFI0eWFOUVE1ZlR4M2pYWGs4SHpHN1oydGZhZnNvV1Nsck1qSHE2bURYQm5PWkREX0FlSHVVOEJwOWhMeWgzN2hwUXlPVXR5ZTFETUFiWk5oVWFDdHozWjNfZ0NrNWQtZ2tOOEVwbDVUWEEyVko4SXQzcVRMWkp5MVltbk84U3RiYkpvWm5JaEI2QkZIbjBOOVdXTUlvVHZRN1huNWY4d2FyY3ZWNnZtWFh4M1dZclZ4Z3NBZDdr0gHKAUFVX3lxTE05dHNUQ29UQzBLS0JQSXlrYlJmY2FEbHByYTRtZ2lSQU9LUDFlWjlLZmQ4QTEtREw0UWxRV2syRDFqT2NWSW1DQUx5c2prdEpPb3Y3RFU3cUdvenlUVi1ERndZYzhodHVXc29HSkc4dWloRVVEV0JxblNIWHBUNzlQQzZsTnppS0QzcFNhdjVsX3o4SzI1bEc2Q1B4SThBLWJyUVgxcG1ZTVNpeV9tamVpQWp6ZDZscHI3Y1dpVndJa0RtS29BUHdURFE?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -1191,6 +1584,16 @@
       "headline": "Two arrested for speeding in West Hartford - WFSB",
       "published_at_utc": "2026-10-19T19:54:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5Wm8wdmp2UTFpcjNMQkFpQk9xYzk3SkFQeUJaUzh4T2Z5cXBnOTdzVUdpQUtuWDJYb3FGcmt6NUlsSDdTckhXQURPWlMtQ1JlY2h6ekwwQ05TZEtncDNQM0Y2bTJPRWZ3WnY1X1IzNVhuLWZWVHUw0gGLAUFVX3lxTE5zNGtyUm1NdjZnRVBTMFVZQTQ1OWdvdURXZ19CMUZFRUtVVlhGUWI5X3E2R2FLb29kSFp3eTVIWE9XTHQ5U19sdlpRT3VpQnRQeDBOUmxicTdnUVBpRmFjVEpLZ2w3WlpqVTRfVmxzVnBVdTVDVjJKcWZyclh4QmFyRFEyWTBRTmxvbWc?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "NFL suspends Bills safety Gardner-Johnson for 1 game for spitting at Raiders - WTNH.com",
+      "published_at_utc": "2026-10-19T19:35:19+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSlVBUEpTMnNVWUhNdDA3cm1lRlI0MVNPU0dVOXpsSEFSS2lRQTNSOG1FX3dFV3d4ZUk0MThBT1czYS1KOUpiNXBYQW9ncC1BSmhPOEtLeGdrMUVrVkZVN2tpdTA1RXlqU3ltV3ZtakMyTVRTOEhCNk1sQVlobDJUNlN5SGtmNnRxZDlfY2dqWHd1U2Z1TjdXTUluNFNBZHY0WC0zREJlbjBuOEtR0gGyAUFVX3lxTE9qVlRQbU9oNE0zdVh4ck9QZTlqR3V1SDcydXBmWDd2Z25qS0txcmplZFNjN2NWTjVFc1RaMXZ5QTNyUmlwLXQyM09XazIxcGVSTGl4T0xZSUhTNmFQZU4wczMwMzVkNW54Slh6WVRtQmxPNW55SE9jZ1p4c1N4RXhxNlJLRGxmdzJkSHp1VTZCSVJzeFUyajctamhxQUpRbmt6V2tsR3hmX0g4Q09vSHdFcnc?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -1308,6 +1711,16 @@
     },
     {
       "station": "WTNH",
+      "headline": "Duke\u2019s Robinson apologizes for on-field incident with female training staffer during injury stoppage - WTNH.com",
+      "published_at_utc": "2026-10-19T18:06:23+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlZmMGlBMDB3VVRWM3JPSWRHQmhoVmZ5SkN3UE8xX2Jwa1NDUlFIUFM0a0NRSFZ1amMyU1hFQUdmazFzcm43RUdaRm1tZlpYT2RaRndQV2RYTjJLOEpNd2IyRDZ6T0pnZ1U4NDBna28yeE9oTFpWSUpody1STngwc0JEbUJaRGNpa3hPY2NUOG5OdUk3U0J3YmRoTUU4aERKT3lWdmtoRlVMVWlKal82Wk41aGhBRksxcWF0amh3U0dvQ05feWQzbVM2Y9IB0AFBVV95cUxQbVRfX1R5NUFRNzVfbUhUTHlWbGtqZVRyQ29yRnZKWWhHQ3ZjZ0w4dFh5UXh0Tmo4ZXlJbE9KQ05WaFVhZmg5aXM3akduWlNCYlNsTW10SmprdVJIT2FkdjA4Rzh3Rk1DNjNqS3o1S1o3Nkg5WmxIU1prLXRoWHQ3MlFpNzJWWnBOR3Z6bTViYjNVcWU5bEdRczIwUjNqR1d6UU9OaHpzRFFnaEhoYjlQZEZMRWd5Y291X2NFQXZhMFdyQnRiQXg3ZzhPMnM2RTJW?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
       "headline": "Officer-involved shooting in Bristol leaves one dead - WTNH.com",
       "published_at_utc": "2026-10-19T17:56:30+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbUtQLXlLbEtMYnRwVl9OZnNRbVdLNkwyQ3RVMWl1NG1wM1RDNHZzcUJYVnF1ZnVWRnUwUUkwenA4UVY0Q1FWUlFVdnJmcjctdUFYZ0hIT1VJaTFwVmJKeGNHNFhscjBBbE1OMl9Eb0Izb090M0w1STBsN0lrTG9mcWh3dzdtWVBieTJSbFhXZE5WM0E?oc=5",
@@ -1391,6 +1804,16 @@
       "headline": "CT LIVE: A Fresh Look for Fall \u2013 Part 1 - NBC Connecticut",
       "published_at_utc": "2026-10-19T17:11:48+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjJqcFAyS2VtUGNlMUxsOGZFSTFTSTIzTTV3eVlzR0tiSm5XR1VETndSeUtHLUpLRGJIUzNzNkwtVjZ1S3Z5cDRnM3N0bllsSzFTeGFUeExXUkZ3ZHMwNVh6Ml9VVzZyNkhjWUxXOXM5VWlPd0Uyb2pCTS04MFNvUzF3a3lPeXZhaHpCSzJvYi1LQnJubEl2aTNiTWk1emtaYmVOb0dJZ9IBrwFBVV95cUxOTnM0d2luRmxhN0VfaXdOc2w1dWhTa0pCUmNERWpRSnY0Yy1hamdKUXVkQl9YR2dhVDFwb29ZM2pZMUpjUEJJamtqa0V1TFF1V1RFN1lsckNBWnhwNmg2bWktSVhfRXZHbDAybi1KZElFM3dwYkJmZ21yX3BKcFd0RFU5eWdWeTBoTGgzeHBQSjdneEpKX3ZJbkhKblRFb3NReHk0SUlPeHk3NEZmSl9R?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "NFL quarterback Jalen Hurts out for the season with blood clots, source says - WTNH.com",
+      "published_at_utc": "2026-10-19T17:10:20+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVJiR3RIQUpJTmVOUWFIRVpiSkhNSHVMbjBxeXE5d0dQeDBKSWhHTW1iRGpQSHE2WVlGM1locXJHT3dtU3NUWG1yampuZTVvUmJTeUNCV3ZKZlpaaFNYQlpzdTlGNEpnY3lIYUVFbjQyVDFPZktfc3pIcnVOci1faWhURWtRUVJEZG5CV25icHJfZHBFbG84ZDJub2Z6UEdFMTBSRDlPb3JlaFdlN2ZjZ9IBtgFBVV95cUxPR2l0a1RPcW5zdzNIelR3bFdMaVBtbzdqQTFJQXBDRlowTVBoa3NWM0lnUFVuMjIyeDZsTWVPQXp5UnBqYk1LTElBQ0NtcnpndWViTl9kV0lxVldxVmVqNFBENnhzMXBYNkZ6ZE93VDRpamVmM25lUHgwX3pLYjg1b1hLV1ZGM0RncER0UEthTzQyUUU2WVpKVmZEdW9xdGpPbGZjVHJUX1JOd3dISG54UXhXenVjZw?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -1547,6 +1970,16 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Water restored to parts of Winchester after water main break left them without service for most of the day - WTNH.com",
+      "published_at_utc": "2026-10-19T15:48:39+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNElaTmF0Z0szNHFkTFlsdlRfRXozQ3YwejZiQ0l6elp0U2RJR3dQVmdvb1NYXzJfRkU1MWwydWRRQmF6UGFlMC1GbjEzS1ZlcFBZTXo2eFIzWGU2Yk9wNnRIbnVKczM1dmszUVhrQnl3VWQ3S3pqVGtkQmVnbkNYM0w2aHFoYjBrQXIzTlhiRDhiNnFzRlVHdm1EZ2dBNkRqbWtfbFR0RnZZX0NRcnZIdjlvS2lCakZmaXpsU2hrUEUxQ1JsZ3FuZlhB0gHPAUFVX3lxTFBfeHVGQmt0ZXpPVUFVTVNTUXNtbTBTY2JxZm9Gal9rekc5T1dwWjRBZl9EV1ZyNWdIUHM1TUhQaVNJc28ta3lEenp0b2xiUXRBckw0cVRVdFEzNTNMcmd1eFJ0SThzemJndmhNM3RUZVNXV0xTV3NiOTVnV1RvNTY1TWNWWF9DQmF2Rll3c1lsZU9BNXlNdnVGYndKeUZiZEkyQzAwT2NMa0pSSFc5OWlYaGhGeGxTX2VOdkF5ai1FSlFtOEdKY1ZmY2hZLWRDYw?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "WFSB",
       "headline": "GRAPHIC: Service member dies in a rappelling accident at a college football game - WFSB",
       "published_at_utc": "2026-10-19T15:48:00+00:00",
@@ -1607,6 +2040,16 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Man charged with murder after alleged Bridgeport road rage incident - WTNH.com",
+      "published_at_utc": "2026-10-19T15:21:17+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaW1pUXdDQWFMRFhONERJeDRVWFQtREcwbWNQVmhCd05KVmM2UkIwV0RBbk9kcGNLVnlYTGJSYlBIdU5yYmRDMFVTbDFEU3kzSmxiSG1fTHo5cWY4a0xuLU5HbkN6bWpHRzQ0cDhXdm82Y0p1SndRcVo5WGRBRWxKb3ZzdnViSmc4dWZ4ZUhtazBWaWpXN0NUN0dfVGJtZDRjS0xPZ2N1ajdhZm1mQ0xBeTU2N29SVWplZXY2MlN1LUVHVUEzSHNpMDFYd3JPei05dTB5YjlkTUNBQdIB3wFBVV95cUxNZE9UX0MydnhYb1NGN3ZvQkNCcFZYVmE5MHVZMnZhcDFkbVUtSFJTMHlNTGVydXRsQUNFa0x3NXZ2MHlWcFpJTGZOcGVqS3BHbF9DQzJFOUdpbmdIdS1Mc2F5VXRUOHRmV1RvMnZ5VEFDcV9UWTNUZU9rY1NudURVaDJiZjJKOXo2VFkxZC1UcFBnWHBrNk03ckdXQUlpUVlrTnp2NFhwN2Fua3VFNVBCa21BdGJJZDZNaENKZ1VjUmdVaTUzUDNqX2ZYX1duMHlhQl9ZNGpCVTV4dFpjTEpB?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "NBC Connecticut",
       "headline": "Child sex abuse charges against actor Timothy Busfield dropped over prosecutor misconduct - NBC Connecticut",
       "published_at_utc": "2026-10-19T15:12:30+00:00",
@@ -1657,10 +2100,30 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Bicyclist flown to Rhode Island hospital with \u2018significant injuries\u2019 after crash in Putnam - WTNH.com",
+      "published_at_utc": "2026-10-19T14:30:41+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGJ2MUk4cW13RU1zem8wcGNBZ1c5OG44NktpcUpFTmRZc21FNExyWFhXZHZsdHZCQ0JwOV9ZTjU3aVcwSkl3SkI3UTF5MkR4VU5IRTJoYThjbkFZdjhMOVUtSEJzbGk3U2NQdW1ybnQ5RkFtMzZLOWJScUdiTnRueTk1ZnZfZXZ1TEprT3Bfc0RJRDRrU25JZ3htZjhOME4xb2FyNXZCcnFrX0tSdDBMRVY0azZMczBhS0ttQl9NTnpudlgzX0FCRXlXNF9nYUJM0gHWAUFVX3lxTE5qdkNYM08zMDFkYTdPalZWaEhIM3dsWTlGLXpLT3BIYUROZjdERXRDMTJQT2ZFbU00SDRqd2xER2k0LXUteTk5V2JLaGtvdTl2djVtVXJMSm5XMEh2WTI5azI2WmRpTmd2bDE0T3BKdmlGX3hOR1dEbUkxbVQ1cnFrckVZTE9fU19jd0xKNnQ5N3BaQko0WFpPNDJ6a0daV3ZYeGZ3UG1aM1BuemcxcUlWanlKSmQ5c0hsODNqZFo5WjY4ZVZvbEhBUG1JVnNOT3FUbGFyZEE?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "FOX61",
       "headline": "SUPRISES 5 Things LEARNED in Utah Jazz Training Camp: Jaren Jackson Jr., Darryn Peterson, Ace Bailey - fox61.com",
       "published_at_utc": "2026-10-19T14:30:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPMzVJdzNvRW5WbWNWNUJpdGowSXA2VFh3OHRETzhhZTVodG5ZbGdvUUxOOXNWV0FEdnd0MjUyN3VLZVRaTVBZdVYyR1VVTUF4aE1FRzBrV2lfYzdLbG1jOFEwZjNpMFhrQ1NFbmdESVRIRlVZSWUxVTlxV052Yjh3eVMwdHlxTmZNWGVBbVVGRG1xMEZFSEhOakRYblNNNEZzcUI5VjlGXzhEbThCU3NfbERBeTlzcThLS1dzd3ZISlBPUFo5dGVxOWVSUksteXNFM2l4Zk0td19tMDd0LWdzYmtzZnBrWTh5Q0plVnhrQVhhYjFsSGZPejl4T2RscFUtaW1Zd21EMkI2Yi1iMkFqTmZTcDVHSl9zQWYwVzdaMjhwbngxeGRv?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Soccer clubs Marseille and Lille close shops after vandalism and looting in France protests - WTNH.com",
+      "published_at_utc": "2026-10-19T14:11:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDJhU1JBSDZaWDFKYWpqNGNjdlBfRDUwSEZWNTRHblA2aXNVUF96U09OS0lvbGFkWGh4TW41UnlGWjhBZGVqNjNVMkFxTm5naTNDVEUzV2JvdGpILUx6Rzk2aWQtd2tPY2sxSjJvekszYVpPZG82cnJNemtUQXNPNVVkSXNpN1l1enFib2RMUEVtWXNtb1ZLUWJlOFFOaHZ6MklicUJYMFZ6VDY0OUJjMEVNaWtENWlWQjZrNVE5bUzSAcYBQVVfeXFMT3JwczJrZkpZaUcxSXYtMDFYdEQ4Sk1pSkw1S3FUbXdycWd5dHd1MVU2VEFIQWVGZWlSalViSS04UzBVTUQyNmItMXdhNDRFcmJtWWFfYUlOOEp1YzllV2Q3YjlQVGppUnVYZzNJbzhoNDV6Y2NwUkg2a0dQQlUyU0xkWUpzUGhCbDRkT2ZybGFWVldNUXpSX3dtVkwxYzFYME92YlRGYmRwZlRxM1RveExpNExqOHZUQWhwRXJDQzV4aGxNR05B?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -1693,6 +2156,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk5fbGYxSDlUUUpsMk5mZC10TXc4dEF1WjQxV1UzMzJMTk9xNU5DZGlsSFFVVzhGR1Z3eHFEbE9jbGhMMjdSa3FxTTZ1Q050VmhNZ0RXNkNxcHoxVnlJVjNfRXRWRW1ZTTdQcm9iZzJnZjRXVjJjUXFiUGRGdUtXYzNZeUctSHdWLVo2Tkl3VDIyQkhFSUhxaE9mMG1pVThnVmoxdGR0MkEwdy1pcmc?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "PSG-Barcelona match in Champions League to go ahead amid shock over France\u2019s violent unrest - WTNH.com",
+      "published_at_utc": "2026-10-19T12:48:41+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmhDVTFmSnRLQlN3NWlpX3hUSDFINnJVcmdQOGk3cGxURjJyMGNVTHBUYXVxTVVGTTJOXzMyUkxnVVlQT2FZTEEtNnVCTmJ3VTdRa1U4b25WdzNlSkNyWnVIY2lLTXl0TzZreWVPUnctZWwwNVVCenlWd3FnczRaNWV4TGw3Q1VlQ1I2Umw2NnVJMlJMb0lMbWlZdzZCYVpERFQ3TlJTTjl1MHpHaGJYR0ZNeEVDMHFndUZCaFR4b9IBxAFBVV95cUxOWnJKT3puSzVzZjJSWmF2NTJiNkJaQmdaUF9kRmJadDdIT09qUnQ5VTczOXc1VXlvdUE2ZEE5YVhqVnB2Ukw0cElkdVctbU05b2w4bmtERVp6ckg3dElGY1ZmOUtQWEJUcXNsaFFtXzZFLVlwQW5SY0pYVk5LWHJqSjlQM2V5aDFWdjFCak50RWpLT2F5NEQ5WFZGNDZIa01xeHZ4aDJfWlItamNpU2RLQ19tRXM3Uk4tZUF6Z29ORm9lNDV4?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "yes",
       "review_status": "unverified",
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
@@ -1761,6 +2234,16 @@
       "headline": "2 injured after stolen vehicle overturns in North Branford - WTNH.com",
       "published_at_utc": "2026-10-19T11:55:51+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjdqbGJKbWluaUpkTnJjektDdXJfUlpBanp1RmhNR2drckpNMW1oTjFqdmw2U1dZc1lmQUJ0VGZVaHVTajlHZ3dSLVR5WVRSejZFNXhIdnRCTGlKTUdvT1VGYjc0Y2Q0SmpPM2RDT3VueXNjRmxWQkpOblpiVzZrazYyOXlvQUdFLVoxZnNTQ182QnJabzZsaXMxZw?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "From France to Albania, social unrest is setting Europe\u2019s streets ablaze - WTNH.com",
+      "published_at_utc": "2026-10-19T11:54:04+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjlTTW01QXNfTE4zYTYwck5HbDl5cFdWbGstZU1XUnd1ZVBITW9ZeVRaMFpDeFpWOFdqYU0xeWhKTy1DUDFWSFI2eDJnOEMwbmxGSTFiY1Z4ckxlMVA5blRrbDNhSTN0bXVDSk5QVjVvd2RiV01Rd0dYcEVjZEkwVVJfUlMzWjliMzk5WWxaZEpVSGJSZG1zOGJNQzFjZDRHUTJyREM4ZEF4NGZVd3hBRURYd0gtbjVhU2fSAboBQVVfeXFMTjI5U01tNUFzX0xOM2E2MHJOR2w5eXBXVmxrLWVNV1J3dWVQSE1vWXlUWjBaQ3haVjhXamFNMXloSk8tQ1AxVkhSNngyZzhDMG5sRkkxYmNWeHJMZTFQOW5Ua2wzYUkzdG11Q0pOUFY1b3dkYldNUXdHWHBFY2RJMFVSX1JTM1o5YjM5OVlsWmRKVUhiUmRtczhiTUMxY2Q0R1EyckRDOGRBeDRmVXd4QUVEWHdILW41YVNn?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -2207,6 +2690,16 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Rasmussen shines as the Rays beat the Guardians 3-1 in Game 5 to take a 3-2 ALCS lead - WTNH.com",
+      "published_at_utc": "2026-10-19T00:14:51+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUVUNU1OYzRYUlRSV3ZRUjlya2F3Z1VtSURRSFlCNHFTMElMV3QwMGpCTGRWekgyX3FSZGVSMm5neGZyZ0hUYXdMekdkbW50emZfd25QdVNuRFVBcXNnU3hJZXZaRXVZY3JnTFJBV0tBZkZPVlEzYUstd1JkMThqLS1fNjFrWlhNXzVRbUNvUUtabUNJcWFLLU42SGlDRWxvTUt3MVVuOS1BN3ZYVmU2dWpyRFBwckhT0gG-AUFVX3lxTE9XYTJYZTVNNTNDMXMtT1ljVDhMNGVxNWtZTmdHZ0p2NTBKVXdtcjZzSmVpM0pwdGFTU19LRHJjTndUaWw2RWdWdm03QXhrS1VHclFxTS1TUVdnek1sSVk3N0hSS2REYkUycXI2X1UyN2ZtNThGY0ZjUEFpUGNNejdmdngxNlduMWZXV2hqRlF5WHVEeHlNMy1NUlhhLWxiTXFYWmhtS19udmVBTmFiTEZRV1dsZ0pHdnYtTDl3cGc?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "WFSB",
       "headline": "Photographer captures 250 veterans\u2019 portraits to honor service - WFSB",
       "published_at_utc": "2026-10-19T00:02:24+00:00",
@@ -2247,6 +2740,36 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Reddick wins in Phoenix as NASCAR Cup Series championship tightens after miserable day for Larson - WTNH.com",
+      "published_at_utc": "2026-10-18T22:34:13+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmdlWDA2dWdGSWRfR29tWUxObkRsWXhrcDFnYUpORVRtS1BueGFnVjZ3TWpMc3JOVmlRSDY4NEFLWVZJVEhhVW94YUlCZGZBZk84eW1TMEYzeU05VzBNQjByeW1Od1ZURDdQNm0zR3lUOTJwOG1pbWtpdWx0WXVuSndBbHJoMUFRdWVZWUZ4UE1KR0g5ei1YeUJfejFYdnAzcjIzMjJjM21ZOHFUVlpYTmVtYThEV1VVS3UwNDdpMGF6SGFSRElnTNIBzgFBVV95cUxNdVIwTXYwc0RiVG91Rk1fd003eFlyOElPLWw0Um9WQ0NfWEtSdVhTdThUd1BJUjRxRDRBV2VrWVpvN0lPWF9id0N1eTE4bmMwVUhlUGQ1WE1EakVwUjFuVW5fTFRaTjc0ZGU1WXVjbW9xNUFRRXpBTjdlOXhGQ2NlRGFTS1pjR3ZEWng5RF96ZjZQNmszSTBjZmZDbzd1Sm10cFhoTWpSNmFibGdSU1hBSGZaTjdNUGdjd1JGUWx4ZldlNTZRSDdtX20wMjNjdw?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Huskies preparing for Friday night football against UMass - WTNH.com",
+      "published_at_utc": "2026-10-18T22:32:51+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTd3SFo5RWN1SU1JNHFwRDFaNm9XU2d5aGIzQmJKZ1NvZ0JLZklZYVB2RWlZa3lnRmRBVDI0Rml6ZUdoSkdhSXY3eUI0OXU1LU9xZkQ2QlF4MG5pZGswRi1rU2NtXzJyc2tKZ01jeEp2TF9leXJZbFZlTjZmQmp6R08tN09UOUR6N0ZDbDlBd2JhMnlOWHJGMnROb2VjZkpfa3fSAacBQVVfeXFMUHkxRUI3WmhXckVKVmZvT3Jwa1ZUWDdxREFiZDJJM3Bxdy1zUG5hc2w1ZzdpenFFdlk2Y3RqTFU4dXozWnVhN0dDVW1qeG9fdHRZbHJ2OXhZNXV0WE1KaW1Eb2hqT2M0UzcyLUV2TmVDeU14T1BGaUFGRnJMRldhN3lycjFpcHdPUFplWV9LUUVwMTdvaTF3RUJWcHZUYURsWVN3Wlg4T2M?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Goodwill hosts festive Halloween 5K in Glastonbury - WTNH.com",
+      "published_at_utc": "2026-10-18T22:30:46+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTkwY2ROVHVsS195TFZrT2dodE5ZUG05TkhWcTlxeEFXZVdvUkxDMGFFSW10ZWp6YWVsZ0p6eU1lVWVjSk5RcVJJSE5SMmlIQU93MmIzRWJGTVliOEo0Vi13SzdkRGJ6Um9zamhTWGs1bExFZm9FMGRmOGZuSDBMYU5qVUgyVnNaU3B5dzVrdEFZTG92dk5DTFAyRFJrSFHSAaQBQVVfeXFMT1hOTERzbXpKaDVtOU5KNlh5YjZxN2dqamtPTWJfMFBXZXd1SXoxY3NxcVdBdjV4Z1VyaHVRV3RqanU0ZkFWNl9tZ25pUWpiMVpabDlxamZ2QjFQOTZTakxvQnlvM2IxT1RIaWN6bmc0UXZmazdxQi1PTjByRDBuV3F3c0E5N0pLbWhNaGVoY2RLTklDd3VsTndnVFQ1TUlWa1hmSEU?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "NBC Connecticut",
       "headline": "1 person dead, suspect arrested after an overnight hit-and-run in Putnam - NBC Connecticut",
       "published_at_utc": "2026-10-18T22:29:19+00:00",
@@ -2261,6 +2784,16 @@
       "headline": "\u2018So much easier to take the train now\u2019; New train station opens in Windsor Locks - WTNH.com",
       "published_at_utc": "2026-10-18T22:29:17+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2w1a1N4R2dxTmVuQ09oU0FzNXhGUklPRGtNUGF2MjNWRVY0MjVrc2JlNzhqRmRaU2VoZUVQX3NtN3UxQ1dNdDdaODV2M0hIcV9nV2JPTm1aanRGMTFvemdZcFpXeWdHUjc4aEE3RERlMlFVR3lEdjVpR0tiRXphTV94VXV3eXBDazdjTU1PSkJvUdIBlwFBVV95cUxQS0wxWmwyZ2p3WW5JNnRNdXczZm10dXU3NlJaR1AybmhjYnJRUkpmUGZyRzFfaWxFc29EZks1Zjl2VHNoX1EyOUltMnNlYkpvYlFJQUJOYUxjVjN3anBldnlHbWNwVEdJRVgzaTBRUDc4Vk9OMDN5b3BhOVNzdVhqV1FGNGhvQzBjZVJlRTU1VTlvdHU3UzFF?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "IMPACT in Middletown hosts event on practical resources for domestic violence prevention - WTNH.com",
+      "published_at_utc": "2026-10-18T22:27:30+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmZsdkRxQlMxX3RBVmpiMDVTdlRNMHB0dzVOcWxxZWJiZXZ2cGs2UVRsamJaNjNJTl9rcGctZ2RLRS1NdFdaU1h1NjQyUmd0X09sMnhCcXpQTkNZYXhOMFJJRUw1MkE2R2pna1FNaTZ4ckFRUG1pSFU5UTh3WlpsVFp3cnR2bkhMZEw3SVFzeDdza1BnT3U1VTNxR2kzaVR5U0pWZi1aWXpwZkY5empobnhPS0VmdnZZUnlHbDQ1aElfeEpKTl9TUWRGRWFZcV9oV2Qw0gHYAUFVX3lxTE9HZjFKSllGMVU5cl9reGh6dGxKV0ktcGNvN2NQMDFNSGw4RXBjZHJRejN6LXB2a1BYNl8xVlZuOXZyejFhYndpejlZeGdST3h2VFhjR2NqbEcwcnJPRWo4dk0xVzgwQmQ1TXFWREl5RlpWUWdlRUpyZTR4QW9zcmNGRmwtQ2RMRHV6c0Z6SVpBTVlOb0tiaGtqQ045NXZYQUhmeUFhUmJ6R0g0YV8yazdGZ2FkbXcyanZkX2t0TVZ2OFNONGxic2t6eTctdmJSTWVhd3RHejFrYg?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -2448,6 +2981,16 @@
     },
     {
       "station": "WTNH",
+      "headline": "Deshaun Watson leads drive for winning field goal and Browns rally for 13-10 victory over Ravens - WTNH.com",
+      "published_at_utc": "2026-10-18T20:20:41+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkVyWEdmTG90RmNRUXZtRjg1WDFzdzBlMGctaXJTbzE0VWNkYng5LWlsRWV6OFpKRFhnSWxabURBVERoV0lVRGtlUnBTSGhpVGtmZ0dPVmlxLUNNVnpPbXJOcE1ERmhWNlF5OENhMW9HemZpbEl1TWc0a1BBVmpkMDhqLXU5RHdOZ2ZSMEVzVWN6ekZSRGdNd0lVTFdoZndyc1hrUU5LYUduQVdEbEwySWRydVBub3FFWDRiZHdGbUpWdVlWLTNR0gHMAUFVX3lxTE1lQnRoRUhSZ0hRM2J0Y3dUWVpyWkxWMmc1V0tMQTAwb1VoVHZGdnN6dVR0bjFRTTF6TmRscHY0S1ltejUwb3hyU1dwcnhKSkNMUFlCU1lITTh2bjRCN1VVZ0dxQXAyY3U2QWhWVHVQTXlMNkw4ZEh2T2prSFBYbE45VXQyOG1fQWh3UDNac1NCNlZtUWpxTTNueS1yZ1VRY09yR1Axb3Y4WUpHbUEyX3RaWFVJeUdJSWRST29LNDlyRHUzVExTQXFBWTBPaQ?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
       "headline": "Massachusetts man arrested for allegedly pointing gun at boatyard in Portland - WTNH.com",
       "published_at_utc": "2026-10-18T20:11:09+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcmhRWEVXdUhJRFBkR2xiSVBEanRwYWU4eVNYM0l1VTJ2d2RjY1hnYVNYQ09RTjh3ZWxzUWJybnljM0p5WUtmbmU4aVI3ZDRuNmxTVS1PQXlWVWZURURFaWlQS3dGOUlIRU9PeGRsYV9GNXl6THBGbmlseHBxZG1CWkVtVW5NckdsQWo2ME80dGdncDBwdUVDVUgyMzFwTXlCZGs2djJFY0M1YTJjcDAyWG44M0NncGNLLW15Um5ad0FQU2ZB0gHKAUFVX3lxTE0wTE1iM3JoZ0l4djV5SXV2V0I1cVBXS19iSldfeFhRR2ViZV9jVkZ0ZVFnbHFnSEh1QVFraXUyUUUtUEZXbktpWWpiTTBvTVZNVjkyNjY1WHEycE0yV2NNV3ViUFBNanRnMHZMaTMtVUFpMzRtUjJPNXFrMlRWZGVzTDBXMkg0aW13VFhBZTB1WHBQRWI2bjdLNndmZVBtYzhiZ3h1T2VybkpzNzhRLWFEUUkwb3BLeG1ReURwTnBOcWdRUzJvRW5IdFE?oc=5",
@@ -2547,6 +3090,16 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu - WTNH.com",
+      "published_at_utc": "2026-10-18T18:08:31+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNemhMbF9UTXBNMlZXWXBkbU5IYUd0RWRIeC10ZVRYbmkyWVpQSGNsd0tiYklGLUhILTBiaVM1WDNrSHlhRkRXaHRycEdNMXFsZmswclRQQUlYd0RwSnlLcXUwRGJ4bGtPYTRDdDkyOXZUVGxJNnFaNkg2Z090a0JOLVg5U2tpNVhQVzFlM1J6NEt2QkZqbS1rdzV6bE1PU2J2VkZTdGJ3YjJld1RTU2FSUWZEd1hlY1RINUlDM3hpa9IBxAFBVV95cUxPaU5MZnUwbDRTZ1hRbVQ3RmRGc25HSVJVcXFxcFdLVkVDWmdWdE9mclV1dkl3clR2ZmFSN3NxUlZDblZCNmpfd0ZtSzhGaHBwQklVUEhmMjVXX0Y1ZkdDeTlxNDFiOTBua01qODZSWDNNZjhmd3F4QXNGaXdJVnZ4V1hzRDZWRVl1eVhMZHgtTHJnVHc1emlwTXlhQmpLQ0dvWkdCOVg4S3pzLVRoZTdfWmhZSHlJTDJqMzBrQk5vRjRBdDN3?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "WFSB",
       "headline": "Eyewitness News Sunday morning - WFSB",
       "published_at_utc": "2026-10-18T17:58:00+00:00",
@@ -2571,6 +3124,16 @@
       "headline": "The Jacksonville Jaguars Lose A Shootout In London To The Houston Texans, 34-31 - fox61.com",
       "published_at_utc": "2026-10-18T17:41:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWC1RcWU5OVhtQ2dkZFpSZEFza2xscmZnVVZ1b3UyekpYZTBLRnluMG1meUFPaFpQLTRxeVZqMHdWRGtLNVVFdEpkZUxBZnB1bmt3c2trUHB1VDZ2cUkyVEZZMnF6YnprQ3JlYmdSSmVnNVRSSlJXaFdEY1pDQ0RiM0Z2aDFoT0IwdDhsR0NPT2JYcFNKOWRzeTg4VmJOTm1kcTF0ekN0N3BQb0YtSW1XOWxGaVJIVzhGZWdQbEtVY2k2Q1ZWRzR4OFdCTTdWaXhyblNsM3lxVDlZV19jSVZDTkVPT2J5T0hrZmNSRkxRa2hlenh6aEhYRDMydzZ2LW5CWFdjV1lIM0c4S0pRUDdVVlZPeVVMSUkyTGkxUTZB?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time - WTNH.com",
+      "published_at_utc": "2026-10-18T17:32:05+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkZiQXhPeWhiVHl6NEJpSFlMSTQ0bUhTR2t1WUktWllyOXA1aHJuUXdzTGdlejE3NFhTT2poLUVSamlrWWJEWmJVVm9TLTByMVdZUlg1TVQtanZWY1FPb1NscWhzb0VkMWtlakdveUZCUUF2cEdFOW5TYXNaT0dmXzA3eTd4a2FoUUhQaUtmdW5wY0dpdnRnaXI1ZW4xSHh6TDJaUDlQWHVxNGFoenllQTZ3YlZJdnhrVks4NDJWVjFKWUNJd1HSAcsBQVVfeXFMTXVVS2l0MWRXbjJYMG1wS0lVYVg0RGRBNzc1RUQ1c2E4ZjhqNUEzQVQxeW8yVGlNNHhwSXl4MFBsbUV4RVU2OV9qWkJQZDRtSDdHbkx4TjVnZXUwanQ1b2dsSHEzMmxpcXBjWVlnbkxfMFVRUGp4aTRWdV9KZm9YdVFnNzBaR1JiZVNCMi1faDZHMm9Xdk1SYWNPUlZhTmFBcHU5czNXbERNaHo3Nzl4TXA0UDhrTnBQek12b1ZJU3FDNElFa1JNVk16R00?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -2621,6 +3184,36 @@
       "headline": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection - NBC Connecticut",
       "published_at_utc": "2026-10-18T16:03:29+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaEtGbjNVU2p1VGwxU3BoVnhwcGMwN2ZZZXFXblZjV09uYmxNdGpXSDU1V0hZMEZxYVRweV9yTXdGaW1FQUlTNndrdzNncWEzT3JmUDd6bkVPZF9Zd1JfSTJ3N0oxd2FHUktBWGl3WVR2QjgxN2FCeGZTT210WFV3UUtvVjlGeVFQa3d1aGxEX3pUX1RHS0ZmSktqOGhGVnNtUVI0cllvUWxkR094RGxXQjlydm1KeFB1SnRncnd6emx5Z3N10gHMAUFVX3lxTFBjaVZIckx6aDh6SmdvMXdMcy1BTkZwaTh3T3pQOE5SMWdkOWRVM2NmWER4dWRkdDUzVHZIcHJ4MTNxY1laWElrYjNuUzZHWlh4QkpycXR0cnhsWmpvTGthd203Y1U2cUNWcjZsQ3Vza3JQYTlLcmlqcEQxYWhGd0Z4RXgwWnZ5YXlVRVhCVXE0SHRjVnQ1RHhrVHRnM3pHZzAxa0lmMmlSd3hpLTNSZWZBbUZCRFFaU1h5VDlLWEtPUk1GX2tXQjRVazJqbw?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "New England Nation: Week 6 Game Picks - WTNH.com",
+      "published_at_utc": "2026-10-18T16:00:47+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHdDLUswSWpvelhtOS1oVXF4aXk2em1OU2lLOUdHOFpkQ0VuMUZraGtkU0NCZnBQaTI5X1cxYzZYbFBMeDVPZEpkcWpLaXJkc3pxU0hNcmhQQXdEb0xZQW9BZjMzOFZwOF9td1pTOUlWeEFtSUFrc1hEOU9CVzZOWm41U2FGNUZFNk02d9IBkgFBVV95cUxPVW16UFVEUlZWV1pIWUJaTERsbjA5WnBfS25yd3RHOXM1VXp0Y3lXTlVFR0VJV3VVNi1ud0VRUE5wT28ya2VOTl9YbTVOV2hCY01kMnpESFJFQ0xMR0hhaFh2ZVBjZUVtdkFDcHBwcjA2Z2h1bzZpeWJIYVF5Q1M3TlRkTlZ6VVktVElLbWJJRmVzUQ?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "New England Nation: Inside the Locker Room with Ben Brown - WTNH.com",
+      "published_at_utc": "2026-10-18T16:00:47+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVhHZWJqNnZ2M05PVmFfV3FoVUtvaG01ZzZrbmphelQ3bHVwekFhQnJ2cGVuaGt1QU04WG12bWZDclFhTnNKUWttOGR3SHFrUHZXbFNvMGZBbzhZZnBOeFRWOWlPYnpDTGlyanZYLW91SWdORFZmTjdWMnNTWDBRdzVwTFVOcEJTMEdOZVlqcDMzVTZSMTM5RHRVN2pScUJMa25ueE84ONIBrAFBVV95cUxQaFMwMjZCWGFjdlJaRTlHcldrWElhR2c4ckgtVml5V3NyWUx3MER3YUl0Q2l6a21YYXhpQVFBLVNLRnFkb19PbGRCeUNob19kVzlFZ1ZBLWZmNXVyaEdKemVlT19PS3I3ZFdzNXNmeEVRYnBXcGJ0S04yeGNmY1lES0M0cUV5WTltMlh4b2w4NlZCY1RuaEtPdzREV0dsZGNDWHlRclRvX0lGUnZW?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "New England Nation: Keys to the Game Jets at Patriots - WTNH.com",
+      "published_at_utc": "2026-10-18T16:00:47+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQl9rM3JwdjRobF9STUJWQmV5Tk1Sa3hFYkp6SzdXVWM0bWg4bk1veGRBcFo1S2ZEVElxVFVkV1ZhSU5iemZhNWw0WWhqV3ZXRHU5ek4xZzlIZlR2dTlGdnlTYl9PajlTRDNYVGtESW5talV1MThaQVlHVTBSMU1rLW9GZ0dMX3ZodWlDYXhBYU5LNDFpMDVtNDVsNUoxTW1DSnFob9IBqgFBVV95cUxNbU9fZERPLWpfTkRTckl2aWFIV1hFRG9feGhoRFdTU1hmQjYtQ09adGgzelFLalp2SVBVc3puVjFESnAzSDBaV05rdmI2N1I5OWdqZGgyeTdJcVBVS1h2SzFwOUItZUdWdko0Y3VVZjc1X2hBdlBfRVFqMEFjMWJMQi1SRU9ZcFZ6YmZPYnF4SWljNnNTajRqUnhxY0NtTHhSNXNidHhKUlEwQQ?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -2747,6 +3340,16 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Diego Gomez scores from halfway line for Brighton to revive memories of David Beckham\u2019s famous goal - WTNH.com",
+      "published_at_utc": "2026-10-18T13:29:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnR4Wjh5Ql82OVFQdzNjRDZMRlNqekd4V0JWRmRsd3VVNkFhcFdVYzI1WmVXekc2Q3BlOUsta1lmZnU2NTkwSHREZnRwdUNhSkVmNG53YXJkaXRqNWtLQ0FQZEplblZabU40Yk1iTWx3T29SSXFYSzRUeWYybkNTdGd4WndwMkZRRi1aT29qcU1kVEtaS0JWTWtRWkxhSkVTekd1dXlyRUVjTVhLQ0E5aDg4LWZpWWo2em9tQmkzOGRCWU45OG9nUlNR0gHPAUFVX3lxTE9XQW9KdkY2alJsZTBZQjlDQ2Y1emg5cjVOX2lvOVQ2aU1reDVvVUpmVG5WalVvb21UR04zdzQ5NmFJOV96ZldFM2pkTmtlb0hURWlDNHkyZnFJREZ1V1BPOWE3OUNVelZUM19xVC02WDg1QkUxSkpMMXZZSkdCZm5NOFFfVUN2MDYyb29rU2ViaFpJeWZaelFELVVhQ1hDbHZJZ1d4aFNhSzdPcUxxcDlsMU1nVkFJR2kzN1Q4R2Jnd0FOOUNSRWlOUmhaRWczOA?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "WFSB",
       "headline": "Three-alarm fire destroys log cabin in Windham, fire officials say - WFSB",
       "published_at_utc": "2026-10-18T13:27:00+00:00",
@@ -2841,6 +3444,16 @@
       "headline": "Ravens, Browns BATTLE in AFC North, Bills look to WIN & Packers, Cowboys set for Week 6 NFC SHOWDOWN - fox61.com",
       "published_at_utc": "2026-10-18T12:15:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPZVBGWWZrd09xVXBhZENJVjQ3MWdFVUhrWEhHVm1Ob3lSY1RDNVZoclJDR0o5NHJIaFFqdERvaENjYVlYbHFHblJSVnJVRzN2dU94NVhDYjFESEhzZ0N0bm5hemlyZ1hZWjM4bE9jQ2M0MWdUdkFVRVZDQjFVbjFCWTBuMmkycVZIRlBwRmpQMTdha1NaWDBhTVFiYWRIY3FDZzJqOVdhTUxySDZ3MkF1ckJLVUlhYTNqVWRMQ1IzRnFyS0ctNHEwazRXOEpYR2VIbWFaTWV4cWp5UzBTMzNDOUJMMnlrS1cwN1ZiNnZSbHotSEF3MFhabkRZRm53Y19TaVFKMTlVV3RoUjI3R0JVdDd4WXRvYXBYZkNwTGFjeG5taU1YZGNUZFdTTDlZWThI?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Alejandro Davidovich Fokina beats Rafael Jodar to win Shanghai Masters for his biggest career title - WTNH.com",
+      "published_at_utc": "2026-10-18T12:14:36+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb0QxRTFET01FN0VhLTRXQkMxU29JcWZkZmczbTlXS0lfeWlJNlpCcm11bkZscmpTcVVvQ05KeDRycnRSQnZIQlcxV2lTVDlFaWw5cGJ4d2hOdlhwQjhrS0Z1cDFmS2doS3lWZmRaSEREZmtVTHBnbXBEYkFSRXZfVl8wckNPaDduY05fbV9NQ1hGaTIxd2lORktfdG5EV3ZLbjJzWENNQlZTcjVLY0JOQ2xLVmk3bVVnUGZaaHhBYXJsRy1yWmYxSDRxWdIB0AFBVV95cUxNMjhEcGpiaDdMYUxsa2MtbV9TVm50c1EyWGNnQzdaNXUzWngxUE1MWkhmTEp6TUl1TFZrVWlFOFVJcDJPZjluUGF3VTZ0Ql9rYmtEdVVzLWtjMENvY05zNGF4Nk5CLUt6cjNFeElsMVVIdFplZFJLeHJITXFJaF9OakRMN1lxS3dnWGl3QTJPMnk4bmt6aVVxbUlGREZkVDlTT1AwVjIwLWxiWWtGX2VHYWNKSlpDMVIwem0teHNDaXhhWVBpVEJ6UUNFSHJFOW1o?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -3287,6 +3900,36 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WTNH",
+      "headline": "Williams, Roberts ignite No. 10 Texas Tech in 53-25 win over Arizona State - WTNH.com",
+      "published_at_utc": "2026-10-17T23:20:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkJGWE1sZlRSekFoQmptTjkwMGJ2dHpIZTFqdnNfTFA5b0JHLUg5c0xFVmRFa01ZR2N3T3k4RDVGZ1hkQlJtem1pMlJQbThEdnhMeGIzdHc4T09EYkJLNkYzNmZWVmpqdEswZlcwdi1KVzUwSXdTNm1leUVpdFQ4LTVEaWRMQVBVSjNQcHdEeGhadVZ3V19FWnZpRnVsMHRHbDk0ME9rTdIBrAFBVV95cUxNaHVqaDFoMnVtLWtTQUEzTk80N1c5OThXVG00ZTFXbndfTG1VbzVJa1FJSXNRam1MODRQa2tTMmMzVk5qNDlZaERZOG95Z0hzdGJPUlZ0ZTVDQ0RYWHNsNVBWNlBPNjFUNkNQQ2kxdWo5bEdSWEROM3k1TjlCZC01QUxZWVNrVkt1VnBRbU1zVW1XZTlnaEpPV0FHM1Y3YUQtTHIzY2F5akpMZUJC?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "No. 4 Ohio State holds off No. 5 Indiana for 19-15 victory but loses QB Julian Sayin to injury - WTNH.com",
+      "published_at_utc": "2026-10-17T23:09:19+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjFLTXFoRHRPdWFrd3BReUtzaTlWTjNmSi1ESDhTczROM1owNlZkVnhRNlhDMWwwM0FGNmFacXZTb19rYWw4Vm5takRPVUNmWmdJeGRZb1EtUDRYQTFCWDdCWlNyaktpckhfcUFKcnNhbTBZbHZhc21Eb0xxWUJfWVlxdHkwQjBxR2hrSnAwZEc2RDdKTHRZUWktaHFCVU9PRHFHZk5lS29UdEYzZnpvdVNPN1J2elXSAbwBQVVfeXFMT2VtRm5iX05sZ3N6cWRJakd6cE4zM3R3SElaX1pNX2U2UTJjTWd5SnQ3ckV5SVp1LXVCMXJ4bmctOUlTNFNWZFFaTHFFbVFZWTRPbE9OY2pZQXJVZ01hZUJxSmV3cmRmYVhGT2tNa0dDVEtxdVJQcVBEbzRQbm1rSkxTNlVuWmxtY0dZZTM4Q3RaQXRkY1hlbkgwT0tialFlME55Q0ZJVTZYQ2Iyak42TFRnNkkwODlfY2hfblg?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Auriemma sees value in UConn women playing exhibition games - WTNH.com",
+      "published_at_utc": "2026-10-17T22:56:37+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHpqcHNtekZoT2tHSFRXMzBHS3UxRUMtbW5rdmgzd1JGTnZ1MUU4c3lEekdNY3Z4NldmTkNxTU1DWjdJNUVCWHA2blpwM0UyeTJMNDZVYTM5MXJ5WW53cGVXWnR2ZXdVbi0wNldaanRySUxlRkxtNUVxZzRyQjdmSUtqZnJvMXM5SjVZcVh5VEtKYlV1LVVEYzlLWFJpZHZlVHp5etIBqgFBVV95cUxOY05mMEQ0OW1mWk1LRE1MeEZTOGM1TDNvXzNyaTdPTTNXSnh0NWdQTl9qNXBSWnRXMVF0WHdDOGlHaHdLWTl0VnJYbm9PdUFMZTROVkEzbjZzeW8xRm5yd0pKbllwRm9GTjNrbEwzU0M5ZF9RY2lWM0dQR0drd2g3YjVCcE84blRRc0VuWENReVh3Y1Y5VUloWTBwVVQ0eWxwWmplVkpvU0QzUQ?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "NBC Connecticut",
       "headline": "Police investigating after body found in Connecticut River - NBC Connecticut",
       "published_at_utc": "2026-10-17T22:33:51+00:00",
@@ -3353,6 +3996,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaXltS0xVRE9yNHlXMUVERElnRDZlVFFORHVSdlNCemtmZWJyaGJaQ3NVcGN4NE9uMjV3dm8ycVZ3WEQ5ODVnMHphbFVMQ2VmYlVERmxWMzNCVkJ0SHFtSmVPc0l0bXdDUjVPbFc5ZVNzVTJWWGVIYm1oLVEwRE53cjJMaGwxbWdHMUVhcmFSMnQ2anl0THVkY0t1X1pPb1dYX05FdHF1ckxPd3NNeTc5My1Tblc3QzU3TG1XQTdxRFJsek54WXVkVS1jbG5GalQydnRuWmNrUEFZZEVsc0t2c0pYejg1b0RUc2ZrRGhQZkVzR2RFNWFxZVVUbw?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "Yamal takes center stage for ruthless Barcelona and PSG wins ahead of Champions League showdown - WTNH.com",
+      "published_at_utc": "2026-10-17T21:23:20+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1hLaGhZRW1BaDVNQy1kQ3VhVTBWQTFaVlJPVk5DTHUya0NwcjU2Y1A2aXIybENDbE1GVzR1YVR4SFp3ellObHFxcWFHd29ZTnNyXzExM19IZFJPNnM5LVp2QnhNT1dnUEhTRjhrUzg2Wml5UE42cDdNcDdFLWtEc2pSS3V1MDUtMy1wdkZvc3dOTkJySEthb3hsVjBadDFGVG9la0lXNlRTUXNGTHUxcmJNV23SAboBQVVfeXFMTlRvNzZfRGRxRWdqSnpNenhwUmZwWEhnbDY0Y2sxY3Y5dk9hazBpLVVCSGw1NVpkUV85YkFScmVtLVRmTDl0S00wYVA5Zno1VVdhVHItb0ZtVmc1RWRIX0ZyaEFPaVFGeWRqdXRpazVOZGttX1RXUWJnTUUzcF9oUmFsdHZaZUxGaEVpTFMySHR5QXYxcFRvcG1ELURUTEZRZ2d4TTVJenhuc2FmX1FzTFF2czF3eTJybXlR?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "yes",
       "review_status": "unverified",
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
@@ -3478,6 +4131,16 @@
     },
     {
       "station": "WFSB",
+      "headline": "'Our democracy isn't healthy': No Kings rallies take place across the country - WFSB",
+      "published_at_utc": "2026-10-17T18:39:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDl0T0c4WEYyZ2NTUnFtTExDRkpDOGJISEFtejFUZ1ZqQ3pjNHFFakhTT3dpV1BGSkROYWgyQ0pQQWJqb21kbGNVaU0tbEVsc2YwcVNOZDVHX2hRSWRtNjlFbEtPWVhkb0RqcEpiQl96aHdieERjcFhHS0t0OTVZWk96YVFRbWdjTHRDMUFramJVNXk4NThUei1MWU5EdWtuWHR3Qk1CV1k4WkxE?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WFSB",
       "headline": "A freeze likely tomorrow morning - WFSB",
       "published_at_utc": "2026-10-17T18:32:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XV24tdllJUldiUUJMYUF3TWFzTWl3ZVRpaWxWSmFucFBsMHRURlJPdk52ZEl0blJqb3pGYWxzYThhR0QxS2hrdm9HSEdCMUYzb05CNDE1U1JDSzRpSVdXeWk4TUd3dGh6YVZJUEFTUEFmNkRaOHg0NTlfdw?oc=5",
@@ -3503,6 +4166,16 @@
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wZWZhenBjdWN4bEVXN1EwY0JGQXlHT3g2dkFHbDhIekF6M0k0YVBRZ3BPYVg4WlM2enFxU2ZtRjgtWmExTDdRVzhkYmd3X3FCb2FKcHVmN0MyMVZWTml5NnRYZ0J2YlJMVHJlM3RERDE1cW5PTnhIdldqcw?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WTNH",
+      "headline": "No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms - WTNH.com",
+      "published_at_utc": "2026-10-17T17:45:49+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVRzTW9BSG01Ri01YnZBNXNlY0ZjMTlJN280TDAweWRxckxyM1RJNVFPX3piUWx1dlV6VXBDYkdKbmlwZmNGMlBnWjJ3cnJkSmFjSVdseHpOazVWcWFnNDZCTFBXUi0teWtkcVgwTFJfb190Nm11Rlh1aTJLWmxYNVVKNkp6M0JqVmxIbHdTNkVOc1FRV2xIRDB6U2tVdGRVWDRFdU53anJ0T2ZXS1BMdGVwSU9mLU5lQm1hcjhLNUp6V1ExOVVjdmRB0gHPAUFVX3lxTE0xRmRyYnNhaHQ0TVBTRGlNaDhZOXB6MDhFS09aUUZ4ZkFfWTdtOTRCcGI4TWNack1GaGotUkdTOUZIT3lyOS04MFhhd3ZlNjg0ZzAzam53UkpMYWJWNF9LdWVNYnVKaE16Q1dwUVhfNDRqUUcwbE40eGR5Z3pmNTNGdUxwWDkxbGdvNkcyREswaTVjeVZPZnJRTG05T2djMmhOZ1FwWDc2SnM0VjhkYm9TdWdzR0RpNlJQai1WYlg4bTN6WEswdWVRZ2hpXzV3VQ?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "yes",
       "review_status": "unverified",
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
@@ -3569,11 +4242,67 @@
   ],
   "human_candidates": [
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "NBC Connecticut",
+      "headline": "UConn ranked No. 2 in women's preseason AP Top 25, behind South Carolina - NBC Connecticut",
+      "published_at_utc": "2026-10-20T17:00:43+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWkViLWJ2d3ZaSko4bEpGaXlERXBPTnhmYUhfTVU1aVlWSUE1S1UyMGhyTzdIdjQ3MGlhOEUwVTM1ZVNwemtvQnNrZlZ3U2pPUXVpZGFHenpRTjlMcWJwYWhidXRPek9OcUlLT3hTMEt4UnFTSXA0dkpCcVhINHFmZWhLZHpYOXM1SnlIZXprVXdELXlqSTdvN0ppcERDMXNUd3ZmYm82TkJ0bjBlQXNsMUdlT3RvU0lOSmQ2ONIBxAFBVV95cUxPSm9uWVpZbWtwUnQyNklMNW0zMGdQTU9PZkpxMWExOGMwQklTbU13MzJmM3VCYWNuZUpjdlMxUnFDc0pMWDRQM1FOUm9YeGZZOW02VTBXUTR3UzBCSVp4V1JoNUo1VDFUS1Jza2dTeWJ4WUpoaEp0WUpLOVlaZ3hIN0p6emZ6bjJFSG5XV0NrVF9rXzNnQ0M2WERHSUNIdDM4RG5wakR3TEIxZW1QamtqSmpmZGxOTDJYY1lzV2Q0QnQ4ZWN4?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "NBC Connecticut",
+      "headline": "Carnival Cruise introduces dynamic pricing for popular onboard amenities - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:55:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdWJDdXROcUZJWkRGT1pqM3JEdEt1VnBEd0hOeXZvbE9NemlNaUpmU3prSEF0aG4wVGtkVV9iejJlWndxM3dTNkRGUl9UeUIyaDhITC1FSDhnalFRYW1zM1dpblplQm50Z2djSnpPcWZCeGp5dG9lbmJzcnRRWGo5WHl4SThPaTZGNGQtQ0lET2lRVjN3eFFGaW9SZzZOZEVHVV80ZWZqLXVhaXBoa1NhUk1CekZsekk4ck9tcTZGVdIBxwFBVV95cUxNeW03dHhqWVppTXQ5RWhxMjhjZmw3eDQ2MGo0MFU1SlVvWUgxLVdKODlwMEp5SGxmQkVyRVBxd3pMakZ4Ml9YNTlNTFhubDZIMS1CRnpTb3ltbXJxd3pWbU8tZEZib0JpSDg1WFVxSWh2eG5TOTUwcnVtQUUzbUJGMGlkYVpnSWw0YkFQeThSbklKUDh4bEJOTEpVUWJCdTI4Z0FlOE44WURuSjF6NktLbVR4dmhtQXlCd3h0VFQ4c0NhOXptcW40?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:52:09.792938+00:00",
       "station": "NBC Connecticut",
       "headline": "FBI execute search warrant in Mansfield, officials say - NBC Connecticut",
       "published_at_utc": "2026-10-20T16:42:18+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVExveFY3R0dXbFJGczRjU21Td0l3VUtRMkxyWlN6dmc1UmFCZnRyQm5xYjE3X014cXZCLTVkTldvRHhQQ01CWGszX0V6RHdSYlBwUDUxdXd5UXQ3N2F3b3FYUGpPRXlzWFFXZ3kwa3JVQVFhUGozVEpST2JsTUZCcTA5Y2pBc1M3M1JCajg5cnlmZ3FXSUoxbkIxak9TWnMzeXY4bUhKUdIBrwFBVV95cUxQeEwyWi1pQmphTmota1g3eWtLVEtkaU9TcWhrbGJLYlJraU9SQkVsZnV6TzhDaHNIMVRVRkNoSEZrVWcwRHA1ZGpzWVpyWFlZWjVlN3IwLW9YdlRNaS0wbkpiUF91TzdYZGFSSHNndDB6UjJleDBENkNtZVlWQ0N1X05mYUxHOXdtUFhJcWRHaUp0QzlBM0hHQS1EeVp3Nm1UbDFkVm5QTWRlaXVINVpN?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: Abbey Gets a Basketball Lesson - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:40:40+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2pJSzN1Y2g4eVJQRG8zXzF1SWxTTTE4c1M5SU51RmlqTmhqcUNkeHhCbklBT3ZSVHEwWjV6SmlibkhuSUpWUS1EWVZWS05fY2IwRTVSNEhJQXhvWDJIcFh0aHM3STVabVh0alBVa1c4TU1VVWlyVmJPR1BjY2ZDZ2V1VE5BaUJjSHRnWDJHbUtjU1l4WGZBN1ZPazZ3QXh1M0xLdl9nclV4QdIBsgFBVV95cUxNamlrM0JJaFpGYWE3cTY4cDJoUTZHQzdnc2tBcUgtc2FmQXdnSXYyR2pxV1FXRy1fQXJyXzk1RlBjUkdYUE5EMzhha1Yxam9jVTV2LVNUWjVYWGx3RzFyNzhsamxhMFBBZ0pSQUlkaFBiMEE4UkYwS0VOdkFsSGlMclBfTHZVMEtYNlBPdHRxbHotaWpISjcweHJERWJOUHlnYmxSVDRZMld5dXRpeC1FQzVB?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Man\u2019s BAC was triple the legal limit when he struck, killed Bloomfield tow truck driver: WARRANT - WTNH.com",
+      "published_at_utc": "2026-10-20T16:37:53+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ3NvYjZBb1hZdExZbXFsOWQwUTllNTIyT2ViNWpmYWY0YU5tZldOTGthV3BEYmxsU3FhUC02aUNZZlNsbnlrWDRQSWJjeDRHSlFBM3d2OTNqblJTa3FuLWxXQlR6bDY4R2Z6X1ZwRTdfbTlCWVd5UGpnalZhYWwtQ3ZNQ091ek94Z1VDOElyU0lLLWl4SWc5NVFXNE9lYjJ0YVQtZU9nemgyX25vYk9NMnV4Ym9RR25hTXF5TWpib2dtT3ctR01uWEI5R2tpS191LVY2ekxvUFHSAd4BQVVfeXFMTXllWFJrRnVNNXBnMEZfM1BBTl9TT0tjVmdDWHhYZWRXZWdMU09vVWQ1Vk5CMS1ibGlpRk9MRjdoMV9iVEFFbzNoZ0xfRWo5dVdOVUZ4WHltSDZVUC16WEJoOFlkemQ5c2FIWlQtMW9HdEJpV0doa1BCSURxdEhjMmltbmJSeFFsZjBObGMxMWRjQ3JWUlVHYjZqLWtwZFQtaFlMdXpTaDVTQWdvYlNwY1FhUnRpdktCa2VPdGdhZHJRbVdKY1hYZ1U2OHlWM2JsM2ZuZXo4ZVBSdGgtdU5B?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: Torrington Savings Bank \u2013 Questions for Abbey Part 2 - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:35:27+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWdYTWJhNkhJWUtIWUJxajNydW9zTk52bURidGpoNDF6OV9PZ19tRS0tRlcwVkFSaDBvTWVsRXcwZUxLbUExV1FhY0hWZUQ1NFVuTzExdXVSdzJPd2RWSDlkLTJIYVAyWk9yaTZxbDZQaEJnWVFKdWF1QjB5aV9VYkEwNjZuTk5DS2I3R2dMcS16ZXpfbzczZERHZE43SW9jdy0xc1Q4b0k3d1N6M0gwb25OUkV2VFViVXpfQTB0V1gzaW9U0gHMAUFVX3lxTE1YNUw3Um9qSHRVX3pMUFE5Z3dmc2dwUWJxb29zUlFlWXJYWlFOdEdCcEx5Vm9vbmJSdlpWS08xRVE0azNyVllpVHZBSTJBT0pVWC1uY0Ixa180cGdnazAwTkF4LW1xTHQtSjVsdlRiSVEwOHpTMUNfZEpWOG9ocl9ubWFCNldrVC1QXzJiSUE0dzI5dEpjaDVMNHE2TUU3c2ZocHBQUHV6WjB0c1oyVTdJN2Rjd2F3azlzSWotMkJsZ1VBdDdlNjRsTWVxYw?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Tracking the Tropics: Monitoring area off East Coast, and how a strong El Ni\u00f1o will impact Florida - WTNH.com",
+      "published_at_utc": "2026-10-20T16:33:05+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG91allqbW8xTm56SmxmSm81MnNrUm9UTVlJdWZjZ0xCemViMTJTTkczaFZQSmxYNVVMRzNsTlVfMHpvRFhEc1hHMS1IN1Z0VGdzUHdpd2lnQWpLMkE1UFFsN0M5WWcwOVpRbHdEVTg1RW1uYXJPbTlSR2NqU0JnYk9uQjFlcVhVaWVaMktnbVhnQzVXeDRrM0tydWNUTEpFSk5vdlJXTUM0U1lwdHBfNXM5Z3JWOTQzZ0V5cGh4eWRNcTJjcWZQNTFjSGdKRTh4c3VTTnJFMnYzSDF5cmNJdNIB5gFBVV95cUxPZGdiNVVseEFhZkktSmRwMDAyWU5iQUZkVXZrcHI3TWRVM3p4TE9BUjRpSXZ2ckFONXRwMS1JS3FDWXlhWkM0OTVZTnc2a1BsRkhMd2VpOG91akRQd1B5ZEQwa2xkdUZTS2tFX1c4Y01Vd3N1R3BZbHJjTGVZTTJnYThhNzNZMUVwbV9UYm1mSTFSNFRPbGI4bmpOdDRHZmF4ZjhpdkRtSEh3OGdaOFF2eVRjQXJZU21sRDBNNXZvVWlMbGd4MUprSFByekJkemlXeDRoQnNkU01sN1g3QkRtRnZWVE1qUQ?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: West Hartford Hauntings - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:28:44+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZEJrLURHTlFXZWxKX25YS2lOVTdqNWE4cHhZbmhyUjdoV0RlSXp2d0x5UDUwVF9SU2xLcDhFRlpYTm94eG01cVh3SHZsNWVPTWZfdWs5TEJfSUJabTlVWEVfNGFDcjZyQWcwY3VXNkYyWlJrOG1nQWszLXVydXRTZnUtek5OYi1CSnpOWHU4VktLbjZJdy1nN0w5MWFZV01H0gGoAUFVX3lxTE1JbXQtaHVYZWV4aTlOc1dRNmZHOFJBWXhaUV9OSVJwRDY1ZEZqOXZBbHFOb0FnY1pjd091bTRFZE9vTXlwbXliWWR5ZWk4NGs4aXpMU0pmaE5Ca3hHRFdjWFBaY21tZWlWTzBPTUN0eFoyMS1zN2Z5UTBhSDVtVkozeXRxeDR3UjdhWm5RYmUxU3l0TnZmYldjNFBUM2dfbEhRSXFJYllNVg?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -3585,11 +4314,35 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Man arrested after \u2018prowler\u2019 complaints in Norwalk - WTNH.com",
+      "published_at_utc": "2026-10-20T16:23:43+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSVhNQzlXaVBfblNNakdkZWlDVmQ0eEQtZ2V0SG9QdjRwTU1uSUdIN1lzeTdnQm9oUHFtbm5NSWJJVlRPLXpqdnlIT1FIYVRYR04wMmhIWHlFT2wtRTNhSFdJNWJXc05waTdaV05kVFpTeHEzMVFsazVDWmtrZXBsblVDMHJpZFdsU2pxVlJGbzNOdHdndEhrcW5IWGY5UdIBowFBVV95cUxNTzJXbDdGbWVfUGI2eDRXRjlXOHJqeE1pdjlobVRFdTV1dFFCNjE5cE1VbXk5WVB6dm01eXRZVXhVeWxGanIxUUJzakMtLXNwYTliVUFabVFadURvT2tkMXF3Q0RGaUFUemhHdVVFQjd6QlJpMVA4WmJXOTVidjNDV0VlcEFMMDdnSHF2WS1JTkJYZHRqX3JHTXIwQ1NfcHJxV2ZN?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "FBI executing search warrant on Cemetery Road in Mansfield - WTNH.com",
+      "published_at_utc": "2026-10-20T16:20:13+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1dPREdQVnpia3p4ekJpLVVFd1FNZGFDODl1TzdoaXB2TGhSS0EtQUZWV1p4UVZ1S0xDRUYwMEhjM1Vvb0t3TFllMTJCNXRfa0w5TllhRXlaRUtKSWRLVmJNc2V0bGZpNzFHdE1Ta2hNekpUNzdLV3ZQanNXUkVuUmx5QjRVazc2Rzd0UGVYQXc1emF2YXhWSEo4dGZRQ2w2RzBrYTFaOUfSAa4BQVVfeXFMUFROdk00cG02ZzhnV3dTcFZQdllrQUF1Uk8xSWtQWGV3SW1rSG9EcGZBZzA5WGZzbS1iWDQzcVdROHVVWFkwZnAwTmppaTZIZGxZUG95YlJFQ0lzVjdTVzAwVUZKUjhvNEdmQ1RUa0ZrYTg3UE9DVE9ldUp0TEM0SzJ2SXFFSlZmdWszM2p2OXJmbklqQUVOTTNvYnMtbW5iY0FqdFIxbTU0czdvdk13?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:52:09.792938+00:00",
       "station": "NBC Connecticut",
       "headline": "CT LIVE: Sips, Spirits and Snacks - NBC Connecticut",
       "published_at_utc": "2026-10-20T16:19:58+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamFRWmtJeG81U3ZEUFB1bDBqbjZ6eFVMT0VwZnAxNmd3TnV1dFdwSFRIYnRsNjN0STJOVzRXMW1wM2dMWWVEQ3pIczctd0ljVG1Pb2FGVEVnLUpYcnlncnVnMTRLY1p1MHJXSFlPOHVselZFcDV2b1F5M1pqTkNERGpkWnA0N3hYNTg1RUV5VEgyOTJ6T2p6TlNCSHB4RUdZ0gGoAUFVX3lxTFB3Qnh5R3Z3Z290dWYyT0JZRGFOX2wwQ3VsQnJLaERJdUFGM0R4T3VLQWFjdUE1OEJsQ3ZGTDd6R3QybWQ0WmNKTUJ4dkRGWHNpUEVEZTFoaXo4VENmZlhTU2dxeFhzNmxpN1FjLVBmVFNNNG5OQTYweGlQZF85bjJOeUE0Mkk4NDY4T0F1ZWdyZzAzYVl3SFFvNjJZWXc1dXNKQ3pBRTFFRg?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "NBC Connecticut",
+      "headline": "WNBA and the national anthem: The rules and why some teams don't stay on the court - NBC Connecticut",
+      "published_at_utc": "2026-10-20T15:59:35+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmFERUFYMVpydldpM1J5cTk2akhkeXNVOHdfR3drbmhHQjczYWt4LU14Q0hab3dRblBfZ0ExaE1DaGRWSlRjRTJxSy1CQmNmV084dU5LTWNNa05STU9DdS1hX19RV3RGbTlqSkQxQzViRWZZM29hNmVSTzRQOXlfbG1EamRnRGVuSVRZUU5hWXZTVjY3WWIzSmRWX3ViNkHSAacBQVVfeXFMTnRaM0VrZ0ZfYVZRWG9uS2hBLWJ4alFDdUZlYjh2el9vaGh4U2NYcXNuMzJjVGlfUVZyaF91SnRsX1gtWmVEUzZlOG5sR3RNS1UtQkFoVVYwMkFpeWlsU254bG9fZXVRSk1yVmpGQlQtR0VmanY2S3JPS1VBcW8zaEQxaGFUNWlfZXFGY2RPZzVDV0x4alhnX294Tmx6Um1HSl9BT0JsSms?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -3614,6 +4367,14 @@
       "headline": "San Antonio Spurs to COVER against the Oklahoma City Thunder in Tuesday's NBA Betting Action - fox61.com",
       "published_at_utc": "2026-10-20T15:06:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOU0VST1pFcXUxakNLWWctYzJGcTJHWm1DXzVQLVpZZlRUR1lWVEdPUjFySnNZS1JNQ1U2NER6d0xJc3o5SWROTV95VlpwdmNTSTFCcE5IU1hFNXFaRE9xLWNQajNxdmFSSm9rVzNKSkEtQWFkSXc4U3p4WGZ1cnNYaDNIZGlJNHFmcjlIbTd0RmU2TXRqU05iN0tCTmNvMmpnTEJEQnhsbFcyZFVGdkRlTDRhVzlBZm9wUFItRHkzOWhXZmVMSkpvLWd0eURaNVRZM3pEMmlYY3ZzRDBJTVVSd0JUaEFMZmxndjM3TUZWNGRXR2VBV2dQbWJ1clRPNjZaS01ib3VkOVpoOHBhckMydjFSS25Kc1BlOXZaRVdjYkhpQlpUTW1ENGF3?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "LeBron James is set to open his 24th season in New York when his 76ers visit the Knicks - WTNH.com",
+      "published_at_utc": "2026-10-20T14:46:53+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEc1RFRvUXRWQ3V4eFJpRjJnOWhtOHJJb0Y5TjVOWWZXMmdTemRJVE44cFhGS3ZZRGRlejhNZHBzcWVUV3o1OVlXQUMydEdIYWtQVmQzQmRxV3IzMHpZMkZTZnBsbDhqY2FCbjFYVW12cVZVQk9zakdCSmFYem9IclVXNndPdVd2ZkhKM19MbUtOeEhnUU56bDBlZXlXT0EtdmV3QjQtWUs2dW1wbUJBaU9jWXBwVWowbVZV0gHAAUFVX3lxTE9xNkNpd2lqblhhMzFKX2RhSHNjSDJ2UzA0d2M0WnZIWU1sSkkwZVo4Y2ZGVEtscHJWOGgtXzRzNkp4d2VQZWFLbXpScHpuTFhlWEVLdlZtZXNLOHVycFFOUTNXOXBxTEtJbjJmNVFCaE92dXQ4X0RNQmFqLUl6T3M4WU1kXzVJSWJyTVpnYmNfemhNRV9YbURJc3FBTHF5NEJ4T0ViNWRfOTJNbzdlOXNwbGlNMEp4MnRiaDh6NHNxRg?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -3689,6 +4450,22 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Water main break shuts down portion of Route 315 in Simsbury - WTNH.com",
+      "published_at_utc": "2026-10-20T12:04:15+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSmJsOHJZT05OckI2SFlqa2J5ZVJzYUp5M0J0TU1PUEZxRk9fWFltQjJDblFxQldiRHNoeU5xYW55VGFzN0FIV1NYaHNtc0JVcjNDeUN0QnBRdXdxbnBIN0hKZ2FuU1VJUU1iM1BVLWNyNk1pUHp0WlRpN3J5cXJ6XzZjVTQ3bjRYT2FwVmZwS1RjZXdjQmtaVHVvdUZkWVc5UzZfb09aUmdVdG0y0gGyAUFVX3lxTFBURVNKWDZLYnBiUjJMYzQtZHEzeTFXM3N5RlVoN1g5U2lzSkh6NTBNSExYYjlkaER0UDlBSHFHWUZfMWw5MnNqaDd0MFc5ZzMzWlk3YkZEXzkzbXJmOW5sRGxOT3VCVXNsYkxaR2NHdVo3Xy0wS3VhTW9FSlN1dTBzUWtFNXRGcEVHd2tfOTF2QlVfQ202RUo1Wk56UXVZZDdGNHVRZk1mR21OenZDcmZucUE?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "What\u2019s Right with Schools: A dozen schools come together for musical collaboration in North Branford - WTNH.com",
+      "published_at_utc": "2026-10-20T11:35:11+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORHZfcDJxSVYwaTQ1UmRXR1hCTE1Cek9zZDk0TWZuOFBoMDVEaTJjeDFkVVFqZERGUkp3aExLMHU2UEhwRFFxYVFaUW5heTBSQWl6dnpPSzhUWFBTZk9MWUhDTjhvTUp0cWxKTEVianVjUUNhbml5SXZLb1FnNi1kVkNYUjJNMjNOME1LSWJnY0RkYUpFN2FOcGZ3RnlYV3d0bU9EVVJwOGE0OTFBV2FwTDhqYUd4U1hKdXBQcFJZYko0M3QyYnlKc3U4ZGtDUW83Ul8zNi1Gb3dFQ1MxQ3U0VTc5WUxwVGNpVnQ5cWJrM1PSAfYBQVVfeXFMUGQ0Wng5RzQ4TndzUUt1dGFweTFaZ2NmalVBMWpkbGdrYnRSaFlWOUw2WllsdEFPOWp6eU56UV8tSF9CNTlKY0Zpa2VQRFlJTzl4NEdzUUJWZjVlOHVBd0NCM2g2cEZDQTR5SldMQXhvVWhUaEtSZVpScEV4ckJMMjZkb2JFZkRBUi1ad0RwQTJfelhiNllXTGtBRjR3MVhRMWJRMFhtSzZPZGdfVzZkakI4NkN4R3pmNUZZejhJNzJ0S2lseXhBS3h5Z1hnTU1vQnFqZ09SbHdXZGVVSG0tZUFHTEJwRXVSaENEbkowU1E0T3ZqNWlR?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "WFSB",
       "headline": "Scene clears following shooting of Yale employee during attempted carjacking - WFSB",
@@ -3742,6 +4519,14 @@
       "headline": "Yale University employee shot in attempted carjacking, police say - fox61.com",
       "published_at_utc": "2026-10-20T11:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYkpmY1E2eTY0X0czbU9VMDFRZ0F2bEJJcXZQUHl4eWRkby12LUZpLUJobGZqQTFnd2RCSmhRS0VYWXI3czczLXdUbS1lWFhXWjJVYW9QenE3aFp3VFFyaXZTWFpQV3lCMzZZdjROMnI4V1NlaWlyS1ZqRG9hMWJXaUUtT1FYcGw0enZrZ0Q3OXJCNmZ2ZThtQnpwLVZGSjZ1Y0ZmRkRaREdSVFlxY2xEWm56OE5qZ2RBMi1IYWZMT2pGT1hRRFVBTnI4b1FidndUdGdyX2d3czNESDZo?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Trial in Waterbury captivity case expected in February - WTNH.com",
+      "published_at_utc": "2026-10-20T10:52:19+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYldxZER5a3ZWbF93SGMyeFZfTy1JSUItYnVuMTQ2elR5aUk1QXg2UU43a19KLTFZUmxFaWs5bGNKeGJaWVVjVjFPVjN2MDVUZzV5MHhvUm1YTmp0aTJXaWd3cDZVRkUxTWsyN1ljbkdBeTdHSGk4WkEwYW9ydk1TMTlVVGhsaDhLbk9jZEtYQ0VYNTJQcXBSdE9ucVdSNl8zU21QZThNTlJLbnJGdFdrSy1zak90dWVTTGZFUU0zdHFfTFnSAcgBQVVfeXFMUC1lWTN1clBKWThWQ1BncmUzUjkyZTJ0Znd0UzhWQ29yMFEtYnc0RGRCeDkzOVlsdnQ4dWRBYl96S3lEelR2RTZTcXdsQ2NvcFlMOEUtYXpuUFdrQ2ExREt2YWFQZnhHX3dKWDM5R0xybjRpVkRyVG5zcXZLbHd1eHFKMTZveFItQmxsX1FYcDh4cDJyWUNydHVFVjZUU3NnY05LSmxnTlhIM1RsSHItdHd6N3dPbENSa3dLSzNsVzF1WlJ5RGJpdjY?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -3878,6 +4663,14 @@
       "headline": "Man charged with manslaughter after Bloomfield crash that killed tow truck driver due in court - WTNH.com",
       "published_at_utc": "2026-10-20T08:33:19+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0dsUlMtMXNoN3ZSWUhYTjRVZFdTWVlBNi0zWk9NalFYRGE5WlhiODNwVFJnZHBFdE9rLXZfam9YU2N2WmhiNFBIRzJjSTlDdG5HaEc2V3RmcnFZVURNd1BQVG1nTmFIOXZtUkJNZ2lmM3dhVEtsRnZiYWg2MURhYXRMOXppeGp1RWttWUZMakRNTVVLUG01bGxHaURQV3o1MFJYSHctcy1sNWhjamd1M3dJTS0wUFNCZ3JlSHpTSdIBxAFBVV95cUxNVEpXVkIxeHV3R3JWdmxRbV9vMDhtdzB5bEtBcUVxRG5UTG9iVjd1eDF1RWRiRTlRTGRkcnFHcFhtU0hYWC1Yd1dXa1RNWXBxNzdxNU1BVk13SC1NWHRybTRzcWlENk44VnNFeGtELTJ4cjM5dXJMUTRDT0lhOUhQeG5Kc2d4WUlSZ2hfRzBYQUJkel9uVmsyMUdHdmZ0eVZTOE9VNm5YY3BmdW12QzYwdlRqNHhnWWxxak43cFFoTXZCTWhi?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "PSG takes on Barcelona in Champions League highlight despite French protests - WTNH.com",
+      "published_at_utc": "2026-10-20T08:26:05+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPai1UQk1teW9EcUdPWXA0RTZFZ19JbUNHaUtuRjB3MHVfN0k1eXh1dG9wU1hhVGlfSXQyYy1Hak9MUE95c1J0MlhBQzdGSXB6NFdiaktyUGNGblFUU1dncTRsUWFlQ2NvdWxJUFpRMndUSDlNZEJ6MEZNenhhbFhERzFiMXZvWjhyeEdNYWdwZ2s5dFNnYk95MUZaMjJuSVlZRW1TU2FRWGMyY3pG0gGyAUFVX3lxTE5rcHNiLVJiLVVsSFRNSEdsQkhYdHZhVTNlVG1rd0ZlQ1k1UUNCeFQ0Q1RMRnRkQ0Nrb3doOXRjV3ZIMVB4MkZZdDk1ZnNnaHpoOURTVERyWVRVQ0VfS05hSkd1Y2VyZVlQbF9HZG55bzdmeFkxcGpYYkZTWDV2Q2xOLXBsR0pTLUY2ek8wZVNhZ0xsMERZNjhtN0NnUTY3QzVSZ0dEMmZZRldfVExyWWNtS1E?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -4057,6 +4850,22 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Dream look to create better shots in Game 2 of WNBA Finals as Valkyries try to lock down on defense - WTNH.com",
+      "published_at_utc": "2026-10-19T23:08:03+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQi1UYkRQWUtvLVN0cnBFbGFLemV0YzhCSW5FQ0lCc2N4NWFhMGl0Wk1tNV9rSmZseXRYenNBMHhuY19yV2xyeUZZM2Y0THE2a0dQN2E5RGNyWktwUTBwWGN6UXBqS2xkdlhOdzhEaEJEdUhGVU9FRmtnRHc5X0NoQ19SWE8wUHFmMWxtRlM4MGdoUTROUkx5WTM2bTY5RlZVWkpBb0x0d2tMREU3MnBfNFJiS3pJZnRKMHNkNHk1amN2TW44dTNSczZCNNIB0AFBVV95cUxQQ2czQkVhR1F3QURINWsweWJaZGV5Vi1IS2ktUzQxNVVrQ2dMYnlkWHgtSG85bThaM1hGX3FicmgxelNxYlhiOFhqSW40X0xtSG00aG0xOHhnb3BuTmp0M2FsVVMwbFpzRnZ6N1hVaml0ai1jWldmb1FUSkdCSlE5ak5WNWoyMzZkUGRIOFZXOGt4OHNqdUpMY3BLNnhLQk5iVTFkZk8zVTYxWkI4TDlVcHc0SzE5eWlqOUVMUF9QVlo1ci1rRGREWldXdUI2cm5Y?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "UConn women to face Texas at PeoplesBank Arena in Hartford - WTNH.com",
+      "published_at_utc": "2026-10-19T23:03:18+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNl9zalhaQ0gwSDluNnJjZjNDV1Q2a1I2ZlVZTWhZd29JMWgtQk9EV1VPajNHR1N6TjdRTWdxcjZuNE5jZzFsekUyYWJRRDUxWXJKUTUzLTBBQ25hbUhIeEpwbmNvQlBId1FqQzRxVC1YMDRJMnNKMTN0WVlXYnFIaklKcFBnemVtR1B1Y01iWVY2d0pIS1JLQTF1cTE1MlpfUWpJ0gGoAUFVX3lxTE5PY0llTUdPc2pGNHVJTTBZMDFZUGxBbXZqb203TzhjUk11Ml9vNlpsQWlEU2c2TVBaYVhhUE55S2x3b2lNM1FjbFVkeF9ZQzFTc0lTaGxlOGJvSUdfNUMwRGw5YS1rTWotcW8zZTlXOVduSkdtLTY3aEJVelRoQ05iaTFLTENSZlpCRmJSX01FNlF4VXYtQXdUNkZ6dW5vckRndVM5RXJnUQ?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "FOX61",
       "headline": "FOX61 News at 7pm - fox61.com",
@@ -4097,6 +4906,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Police search for suspect in Bridgeport hit-and-run that left bicyclist injured - WTNH.com",
+      "published_at_utc": "2026-10-19T22:26:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLTBBdzZRdFpKbG9qNnNralIyNE9jdWxUY0hTR1RfUWFBYk9tN0xUQXh4akJTOWU0MEdNa3BFUEhfOVdHTEhmaFRjS2x3bFF6ekNlNEVjMFVEVnBxcG1oUDdkMGdJcTdlTkZhdDRmeVZnRmVIOXI4aUF4N1BhTl9oclNHdUJrdjBSTmUtYjVjVkdWbDBDa0stZUZKcDRaUkdia0V4ejIzT0dVbF9aMlBlNlo2TGVmUDBXdzViWkVxRExCNTJwckdr0gHMAUFVX3lxTE94LV82Z3ZmUTJQRUhmU1ZlZk94Skc4UUhnVWQ0WlBXSGtJeUpjSmpvLXRIb09DRTNCcktXNmZVdU9EN1EyY2k2VkI2VDNYUGVjZ3RpRXNoR0NaZlZfMzdLWHNoYi0xZHVsb1hrQWVqS3NhM0k0dUlPQ2VJSkdhT29CMkR0OGlzaS1FVTFnLV9Cb1c3OWpoZ3lNMTNNVFBSMy1tV2tOUktZajE2c3RPYkZyTTBVSDNzd0pmSjZlNVlWMVhQbGdQcXFJLV9qRw?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "FOX61",
       "headline": "Halloween Tour in New Haven shows Yale gargoyles, focusing on the ornate architecture - fox61.com",
@@ -4129,6 +4946,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Ronaldo suspended for 30 days and fined for walking out on Portugal camp - WTNH.com",
+      "published_at_utc": "2026-10-19T21:24:36+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGx3RHZ3amZYcVVNSkRqY3pTRGxBX29SR05CX0h1WVI1NllPcXpjY0I0SFlTMlVVd2FaTXlDNmdVNFZrVmMtYkg0Rm1VRXVnNkhWZU56cFRmdWJPVHJBYUk2NzBvMG1tUUNBVEZweHY5Q3l4V0p5TjcwNFM2bkhCVmhkMjhjZTF4bUFFNXA5SGVsVXVvN3M0akgxLVZJYXNJNk5iR0FNY9IBrAFBVV95cUxOcWNvd0ZscGhROEdrUU9hREp2NjgyT0FhYlFrMElKRnFrTHAyRkNaeXVjcVRieGlxUzdleU5TNW5ybENiTHpZOUJBRzVfeUVKc1ZyOGsyYldXVTBWQ19XTzlaSEdOSjhjX2pGczY2Tng3dWtwSGk4SVpvWmtJY09ncV9sNjVlRm84bks3Z1FLcThnMk03VzdzdWxQX29xR2hGLWZabFZMTDdBNjBm?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "WTNH",
       "headline": "Man charged with OUI, manslaughter after Bloomfield crash that killed tow truck driver - WTNH.com",
@@ -4158,6 +4983,14 @@
       "headline": "Hartford man arrested, charged in crash that killed Bloomfield tow truck operator - NBC Connecticut",
       "published_at_utc": "2026-10-19T20:59:55+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnJ3YkFxLUlUVnpoRXZsX3d2SHNFRkpLMS03ZXhRay1rWmZ0dUVOYl9qRkpFeHdKTmVHeDFWSExLcGZNT2pJalUtdFNjOTdDOTVOT3ZfY0pKeW5yNkFtX29ET25xNmJMSTl2d3RZMUU3ZlFCZE5nbTVOMzhuQWxDam9PMVBqZ2lnMm9ERU45UjlUQ3NjcTA0Vm5Pem1YdVdWSnBYdXNLZG54YlBfYlZtMWs3V050VXFvQ0I2UFV2VdIBxwFBVV95cUxQVXZXOVVST2xtNVhHcF9lUl9pTWdHaXpwNjZMZV8tTzJZT0MtSUNRSVMycEl5djhiOFpQaE41V05FYVJXOWs5b0VNMjR4MklHS2dKVUQyZjlGYWNnVkhpVGplaVZSSGREMGU1Zjh4cGpjWnNlb3VpYy0xVXAtQ1hpT0lLOHdWSkVNOG0wZWQzMzRfeTM2RHZuS3BVeGlNV3VaSk5ESUVfY0FWS2NTejI3UDFySXg0Z0h1dkdfYnA1eWNWNW9YTEdv?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Fatal I-91 crash renews dialogue surrounding wrong-way crashes in Connecticut - WTNH.com",
+      "published_at_utc": "2026-10-19T20:49:16+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXJwQWN4UFI0eWFOUVE1ZlR4M2pYWGs4SHpHN1oydGZhZnNvV1Nsck1qSHE2bURYQm5PWkREX0FlSHVVOEJwOWhMeWgzN2hwUXlPVXR5ZTFETUFiWk5oVWFDdHozWjNfZ0NrNWQtZ2tOOEVwbDVUWEEyVko4SXQzcVRMWkp5MVltbk84U3RiYkpvWm5JaEI2QkZIbjBOOVdXTUlvVHZRN1huNWY4d2FyY3ZWNnZtWFh4M1dZclZ4Z3NBZDdr0gHKAUFVX3lxTE05dHNUQ29UQzBLS0JQSXlrYlJmY2FEbHByYTRtZ2lSQU9LUDFlWjlLZmQ4QTEtREw0UWxRV2syRDFqT2NWSW1DQUx5c2prdEpPb3Y3RFU3cUdvenlUVi1ERndZYzhodHVXc29HSkc4dWloRVVEV0JxblNIWHBUNzlQQzZsTnppS0QzcFNhdjVsX3o4SzI1bEc2Q1B4SThBLWJyUVgxcG1ZTVNpeV9tamVpQWp6ZDZscHI3Y1dpVndJa0RtS29BUHdURFE?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -4249,6 +5082,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "NFL suspends Bills safety Gardner-Johnson for 1 game for spitting at Raiders - WTNH.com",
+      "published_at_utc": "2026-10-19T19:35:19+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSlVBUEpTMnNVWUhNdDA3cm1lRlI0MVNPU0dVOXpsSEFSS2lRQTNSOG1FX3dFV3d4ZUk0MThBT1czYS1KOUpiNXBYQW9ncC1BSmhPOEtLeGdrMUVrVkZVN2tpdTA1RXlqU3ltV3ZtakMyTVRTOEhCNk1sQVlobDJUNlN5SGtmNnRxZDlfY2dqWHd1U2Z1TjdXTUluNFNBZHY0WC0zREJlbjBuOEtR0gGyAUFVX3lxTE9qVlRQbU9oNE0zdVh4ck9QZTlqR3V1SDcydXBmWDd2Z25qS0txcmplZFNjN2NWTjVFc1RaMXZ5QTNyUmlwLXQyM09XazIxcGVSTGl4T0xZSUhTNmFQZU4wczMwMzVkNW54Slh6WVRtQmxPNW55SE9jZ1p4c1N4RXhxNlJLRGxmdzJkSHp1VTZCSVJzeFUyajctamhxQUpRbmt6V2tsR3hmX0g4Q09vSHdFcnc?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "WFSB",
       "headline": "First Alert Weather: Becoming breezy the next few days - WFSB",
@@ -4337,6 +5178,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Duke\u2019s Robinson apologizes for on-field incident with female training staffer during injury stoppage - WTNH.com",
+      "published_at_utc": "2026-10-19T18:06:23+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlZmMGlBMDB3VVRWM3JPSWRHQmhoVmZ5SkN3UE8xX2Jwa1NDUlFIUFM0a0NRSFZ1amMyU1hFQUdmazFzcm43RUdaRm1tZlpYT2RaRndQV2RYTjJLOEpNd2IyRDZ6T0pnZ1U4NDBna28yeE9oTFpWSUpody1STngwc0JEbUJaRGNpa3hPY2NUOG5OdUk3U0J3YmRoTUU4aERKT3lWdmtoRlVMVWlKal82Wk41aGhBRksxcWF0amh3U0dvQ05feWQzbVM2Y9IB0AFBVV95cUxQbVRfX1R5NUFRNzVfbUhUTHlWbGtqZVRyQ29yRnZKWWhHQ3ZjZ0w4dFh5UXh0Tmo4ZXlJbE9KQ05WaFVhZmg5aXM3akduWlNCYlNsTW10SmprdVJIT2FkdjA4Rzh3Rk1DNjNqS3o1S1o3Nkg5WmxIU1prLXRoWHQ3MlFpNzJWWnBOR3Z6bTViYjNVcWU5bEdRczIwUjNqR1d6UU9OaHpzRFFnaEhoYjlQZEZMRWd5Y291X2NFQXZhMFdyQnRiQXg3ZzhPMnM2RTJW?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "WTNH",
       "headline": "Officer-involved shooting in Bristol leaves one dead - WTNH.com",
@@ -4406,6 +5255,14 @@
       "headline": "CT LIVE: A Fresh Look for Fall \u2013 Part 1 - NBC Connecticut",
       "published_at_utc": "2026-10-19T17:11:48+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbjJqcFAyS2VtUGNlMUxsOGZFSTFTSTIzTTV3eVlzR0tiSm5XR1VETndSeUtHLUpLRGJIUzNzNkwtVjZ1S3Z5cDRnM3N0bllsSzFTeGFUeExXUkZ3ZHMwNVh6Ml9VVzZyNkhjWUxXOXM5VWlPd0Uyb2pCTS04MFNvUzF3a3lPeXZhaHpCSzJvYi1LQnJubEl2aTNiTWk1emtaYmVOb0dJZ9IBrwFBVV95cUxOTnM0d2luRmxhN0VfaXdOc2w1dWhTa0pCUmNERWpRSnY0Yy1hamdKUXVkQl9YR2dhVDFwb29ZM2pZMUpjUEJJamtqa0V1TFF1V1RFN1lsckNBWnhwNmg2bWktSVhfRXZHbDAybi1KZElFM3dwYkJmZ21yX3BKcFd0RFU5eWdWeTBoTGgzeHBQSjdneEpKX3ZJbkhKblRFb3NReHk0SUlPeHk3NEZmSl9R?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "NFL quarterback Jalen Hurts out for the season with blood clots, source says - WTNH.com",
+      "published_at_utc": "2026-10-19T17:10:20+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVJiR3RIQUpJTmVOUWFIRVpiSkhNSHVMbjBxeXE5d0dQeDBKSWhHTW1iRGpQSHE2WVlGM1locXJHT3dtU3NUWG1yampuZTVvUmJTeUNCV3ZKZlpaaFNYQlpzdTlGNEpnY3lIYUVFbjQyVDFPZktfc3pIcnVOci1faWhURWtRUVJEZG5CV25icHJfZHBFbG84ZDJub2Z6UEdFMTBSRDlPb3JlaFdlN2ZjZ9IBtgFBVV95cUxPR2l0a1RPcW5zdzNIelR3bFdMaVBtbzdqQTFJQXBDRlowTVBoa3NWM0lnUFVuMjIyeDZsTWVPQXp5UnBqYk1LTElBQ0NtcnpndWViTl9kV0lxVldxVmVqNFBENnhzMXBYNkZ6ZE93VDRpamVmM25lUHgwX3pLYjg1b1hLV1ZGM0RncER0UEthTzQyUUU2WVpKVmZEdW9xdGpPbGZjVHJUX1JOd3dISG54UXhXenVjZw?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -4529,6 +5386,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Water restored to parts of Winchester after water main break left them without service for most of the day - WTNH.com",
+      "published_at_utc": "2026-10-19T15:48:39+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNElaTmF0Z0szNHFkTFlsdlRfRXozQ3YwejZiQ0l6elp0U2RJR3dQVmdvb1NYXzJfRkU1MWwydWRRQmF6UGFlMC1GbjEzS1ZlcFBZTXo2eFIzWGU2Yk9wNnRIbnVKczM1dmszUVhrQnl3VWQ3S3pqVGtkQmVnbkNYM0w2aHFoYjBrQXIzTlhiRDhiNnFzRlVHdm1EZ2dBNkRqbWtfbFR0RnZZX0NRcnZIdjlvS2lCakZmaXpsU2hrUEUxQ1JsZ3FuZlhB0gHPAUFVX3lxTFBfeHVGQmt0ZXpPVUFVTVNTUXNtbTBTY2JxZm9Gal9rekc5T1dwWjRBZl9EV1ZyNWdIUHM1TUhQaVNJc28ta3lEenp0b2xiUXRBckw0cVRVdFEzNTNMcmd1eFJ0SThzemJndmhNM3RUZVNXV0xTV3NiOTVnV1RvNTY1TWNWWF9DQmF2Rll3c1lsZU9BNXlNdnVGYndKeUZiZEkyQzAwT2NMa0pSSFc5OWlYaGhGeGxTX2VOdkF5ai1FSlFtOEdKY1ZmY2hZLWRDYw?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "WFSB",
       "headline": "GRAPHIC: Service member dies in a rappelling accident at a college football game - WFSB",
@@ -4577,6 +5442,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Man charged with murder after alleged Bridgeport road rage incident - WTNH.com",
+      "published_at_utc": "2026-10-19T15:21:17+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaW1pUXdDQWFMRFhONERJeDRVWFQtREcwbWNQVmhCd05KVmM2UkIwV0RBbk9kcGNLVnlYTGJSYlBIdU5yYmRDMFVTbDFEU3kzSmxiSG1fTHo5cWY4a0xuLU5HbkN6bWpHRzQ0cDhXdm82Y0p1SndRcVo5WGRBRWxKb3ZzdnViSmc4dWZ4ZUhtazBWaWpXN0NUN0dfVGJtZDRjS0xPZ2N1ajdhZm1mQ0xBeTU2N29SVWplZXY2MlN1LUVHVUEzSHNpMDFYd3JPei05dTB5YjlkTUNBQdIB3wFBVV95cUxNZE9UX0MydnhYb1NGN3ZvQkNCcFZYVmE5MHVZMnZhcDFkbVUtSFJTMHlNTGVydXRsQUNFa0x3NXZ2MHlWcFpJTGZOcGVqS3BHbF9DQzJFOUdpbmdIdS1Mc2F5VXRUOHRmV1RvMnZ5VEFDcV9UWTNUZU9rY1NudURVaDJiZjJKOXo2VFkxZC1UcFBnWHBrNk03ckdXQUlpUVlrTnp2NFhwN2Fua3VFNVBCa21BdGJJZDZNaENKZ1VjUmdVaTUzUDNqX2ZYX1duMHlhQl9ZNGpCVTV4dFpjTEpB?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "NBC Connecticut",
       "headline": "Child sex abuse charges against actor Timothy Busfield dropped over prosecutor misconduct - NBC Connecticut",
@@ -4617,11 +5490,27 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Bicyclist flown to Rhode Island hospital with \u2018significant injuries\u2019 after crash in Putnam - WTNH.com",
+      "published_at_utc": "2026-10-19T14:30:41+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGJ2MUk4cW13RU1zem8wcGNBZ1c5OG44NktpcUpFTmRZc21FNExyWFhXZHZsdHZCQ0JwOV9ZTjU3aVcwSkl3SkI3UTF5MkR4VU5IRTJoYThjbkFZdjhMOVUtSEJzbGk3U2NQdW1ybnQ5RkFtMzZLOWJScUdiTnRueTk1ZnZfZXZ1TEprT3Bfc0RJRDRrU25JZ3htZjhOME4xb2FyNXZCcnFrX0tSdDBMRVY0azZMczBhS0ttQl9NTnpudlgzX0FCRXlXNF9nYUJM0gHWAUFVX3lxTE5qdkNYM08zMDFkYTdPalZWaEhIM3dsWTlGLXpLT3BIYUROZjdERXRDMTJQT2ZFbU00SDRqd2xER2k0LXUteTk5V2JLaGtvdTl2djVtVXJMSm5XMEh2WTI5azI2WmRpTmd2bDE0T3BKdmlGX3hOR1dEbUkxbVQ1cnFrckVZTE9fU19jd0xKNnQ5N3BaQko0WFpPNDJ6a0daV3ZYeGZ3UG1aM1BuemcxcUlWanlKSmQ5c0hsODNqZFo5WjY4ZVZvbEhBUG1JVnNOT3FUbGFyZEE?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "FOX61",
       "headline": "SUPRISES 5 Things LEARNED in Utah Jazz Training Camp: Jaren Jackson Jr., Darryn Peterson, Ace Bailey - fox61.com",
       "published_at_utc": "2026-10-19T14:30:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPMzVJdzNvRW5WbWNWNUJpdGowSXA2VFh3OHRETzhhZTVodG5ZbGdvUUxOOXNWV0FEdnd0MjUyN3VLZVRaTVBZdVYyR1VVTUF4aE1FRzBrV2lfYzdLbG1jOFEwZjNpMFhrQ1NFbmdESVRIRlVZSWUxVTlxV052Yjh3eVMwdHlxTmZNWGVBbVVGRG1xMEZFSEhOakRYblNNNEZzcUI5VjlGXzhEbThCU3NfbERBeTlzcThLS1dzd3ZISlBPUFo5dGVxOWVSUksteXNFM2l4Zk0td19tMDd0LWdzYmtzZnBrWTh5Q0plVnhrQVhhYjFsSGZPejl4T2RscFUtaW1Zd21EMkI2Yi1iMkFqTmZTcDVHSl9zQWYwVzdaMjhwbngxeGRv?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Soccer clubs Marseille and Lille close shops after vandalism and looting in France protests - WTNH.com",
+      "published_at_utc": "2026-10-19T14:11:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDJhU1JBSDZaWDFKYWpqNGNjdlBfRDUwSEZWNTRHblA2aXNVUF96U09OS0lvbGFkWGh4TW41UnlGWjhBZGVqNjNVMkFxTm5naTNDVEUzV2JvdGpILUx6Rzk2aWQtd2tPY2sxSjJvekszYVpPZG82cnJNemtUQXNPNVVkSXNpN1l1enFib2RMUEVtWXNtb1ZLUWJlOFFOaHZ6MklicUJYMFZ6VDY0OUJjMEVNaWtENWlWQjZrNVE5bUzSAcYBQVVfeXFMT3JwczJrZkpZaUcxSXYtMDFYdEQ4Sk1pSkw1S3FUbXdycWd5dHd1MVU2VEFIQWVGZWlSalViSS04UzBVTUQyNmItMXdhNDRFcmJtWWFfYUlOOEp1YzllV2Q3YjlQVGppUnVYZzNJbzhoNDV6Y2NwUkg2a0dQQlUyU0xkWUpzUGhCbDRkT2ZybGFWVldNUXpSX3dtVkwxYzFYME92YlRGYmRwZlRxM1RveExpNExqOHZUQWhwRXJDQzV4aGxNR05B?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -4646,6 +5535,14 @@
       "headline": "FOX61 Morning News at 9 - fox61.com",
       "published_at_utc": "2026-10-19T13:00:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYk5fbGYxSDlUUUpsMk5mZC10TXc4dEF1WjQxV1UzMzJMTk9xNU5DZGlsSFFVVzhGR1Z3eHFEbE9jbGhMMjdSa3FxTTZ1Q050VmhNZ0RXNkNxcHoxVnlJVjNfRXRWRW1ZTTdQcm9iZzJnZjRXVjJjUXFiUGRGdUtXYzNZeUctSHdWLVo2Tkl3VDIyQkhFSUhxaE9mMG1pVThnVmoxdGR0MkEwdy1pcmc?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "PSG-Barcelona match in Champions League to go ahead amid shock over France\u2019s violent unrest - WTNH.com",
+      "published_at_utc": "2026-10-19T12:48:41+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNmhDVTFmSnRLQlN3NWlpX3hUSDFINnJVcmdQOGk3cGxURjJyMGNVTHBUYXVxTVVGTTJOXzMyUkxnVVlQT2FZTEEtNnVCTmJ3VTdRa1U4b25WdzNlSkNyWnVIY2lLTXl0TzZreWVPUnctZWwwNVVCenlWd3FnczRaNWV4TGw3Q1VlQ1I2Umw2NnVJMlJMb0lMbWlZdzZCYVpERFQ3TlJTTjl1MHpHaGJYR0ZNeEVDMHFndUZCaFR4b9IBxAFBVV95cUxOWnJKT3puSzVzZjJSWmF2NTJiNkJaQmdaUF9kRmJadDdIT09qUnQ5VTczOXc1VXlvdUE2ZEE5YVhqVnB2Ukw0cElkdVctbU05b2w4bmtERVp6ckg3dElGY1ZmOUtQWEJUcXNsaFFtXzZFLVlwQW5SY0pYVk5LWHJqSjlQM2V5aDFWdjFCak50RWpLT2F5NEQ5WFZGNDZIa01xeHZ4aDJfWlItamNpU2RLQ19tRXM3Uk4tZUF6Z29ORm9lNDV4?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -4702,6 +5599,14 @@
       "headline": "2 injured after stolen vehicle overturns in North Branford - WTNH.com",
       "published_at_utc": "2026-10-19T11:55:51+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjdqbGJKbWluaUpkTnJjektDdXJfUlpBanp1RmhNR2drckpNMW1oTjFqdmw2U1dZc1lmQUJ0VGZVaHVTajlHZ3dSLVR5WVRSejZFNXhIdnRCTGlKTUdvT1VGYjc0Y2Q0SmpPM2RDT3VueXNjRmxWQkpOblpiVzZrazYyOXlvQUdFLVoxZnNTQ182QnJabzZsaXMxZw?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "From France to Albania, social unrest is setting Europe\u2019s streets ablaze - WTNH.com",
+      "published_at_utc": "2026-10-19T11:54:04+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjlTTW01QXNfTE4zYTYwck5HbDl5cFdWbGstZU1XUnd1ZVBITW9ZeVRaMFpDeFpWOFdqYU0xeWhKTy1DUDFWSFI2eDJnOEMwbmxGSTFiY1Z4ckxlMVA5blRrbDNhSTN0bXVDSk5QVjVvd2RiV01Rd0dYcEVjZEkwVVJfUlMzWjliMzk5WWxaZEpVSGJSZG1zOGJNQzFjZDRHUTJyREM4ZEF4NGZVd3hBRURYd0gtbjVhU2fSAboBQVVfeXFMTjI5U01tNUFzX0xOM2E2MHJOR2w5eXBXVmxrLWVNV1J3dWVQSE1vWXlUWjBaQ3haVjhXamFNMXloSk8tQ1AxVkhSNngyZzhDMG5sRkkxYmNWeHJMZTFQOW5Ua2wzYUkzdG11Q0pOUFY1b3dkYldNUXdHWHBFY2RJMFVSX1JTM1o5YjM5OVlsWmRKVUhiUmRtczhiTUMxY2Q0R1EyckRDOGRBeDRmVXd4QUVEWHdILW41YVNn?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -5057,6 +5962,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Rasmussen shines as the Rays beat the Guardians 3-1 in Game 5 to take a 3-2 ALCS lead - WTNH.com",
+      "published_at_utc": "2026-10-19T00:14:51+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUVUNU1OYzRYUlRSV3ZRUjlya2F3Z1VtSURRSFlCNHFTMElMV3QwMGpCTGRWekgyX3FSZGVSMm5neGZyZ0hUYXdMekdkbW50emZfd25QdVNuRFVBcXNnU3hJZXZaRXVZY3JnTFJBV0tBZkZPVlEzYUstd1JkMThqLS1fNjFrWlhNXzVRbUNvUUtabUNJcWFLLU42SGlDRWxvTUt3MVVuOS1BN3ZYVmU2dWpyRFBwckhT0gG-AUFVX3lxTE9XYTJYZTVNNTNDMXMtT1ljVDhMNGVxNWtZTmdHZ0p2NTBKVXdtcjZzSmVpM0pwdGFTU19LRHJjTndUaWw2RWdWdm03QXhrS1VHclFxTS1TUVdnek1sSVk3N0hSS2REYkUycXI2X1UyN2ZtNThGY0ZjUEFpUGNNejdmdngxNlduMWZXV2hqRlF5WHVEeHlNMy1NUlhhLWxiTXFYWmhtS19udmVBTmFiTEZRV1dsZ0pHdnYtTDl3cGc?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "WFSB",
       "headline": "Photographer captures 250 veterans\u2019 portraits to honor service - WFSB",
@@ -5089,6 +6002,30 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Reddick wins in Phoenix as NASCAR Cup Series championship tightens after miserable day for Larson - WTNH.com",
+      "published_at_utc": "2026-10-18T22:34:13+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmdlWDA2dWdGSWRfR29tWUxObkRsWXhrcDFnYUpORVRtS1BueGFnVjZ3TWpMc3JOVmlRSDY4NEFLWVZJVEhhVW94YUlCZGZBZk84eW1TMEYzeU05VzBNQjByeW1Od1ZURDdQNm0zR3lUOTJwOG1pbWtpdWx0WXVuSndBbHJoMUFRdWVZWUZ4UE1KR0g5ei1YeUJfejFYdnAzcjIzMjJjM21ZOHFUVlpYTmVtYThEV1VVS3UwNDdpMGF6SGFSRElnTNIBzgFBVV95cUxNdVIwTXYwc0RiVG91Rk1fd003eFlyOElPLWw0Um9WQ0NfWEtSdVhTdThUd1BJUjRxRDRBV2VrWVpvN0lPWF9id0N1eTE4bmMwVUhlUGQ1WE1EakVwUjFuVW5fTFRaTjc0ZGU1WXVjbW9xNUFRRXpBTjdlOXhGQ2NlRGFTS1pjR3ZEWng5RF96ZjZQNmszSTBjZmZDbzd1Sm10cFhoTWpSNmFibGdSU1hBSGZaTjdNUGdjd1JGUWx4ZldlNTZRSDdtX20wMjNjdw?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Huskies preparing for Friday night football against UMass - WTNH.com",
+      "published_at_utc": "2026-10-18T22:32:51+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcTd3SFo5RWN1SU1JNHFwRDFaNm9XU2d5aGIzQmJKZ1NvZ0JLZklZYVB2RWlZa3lnRmRBVDI0Rml6ZUdoSkdhSXY3eUI0OXU1LU9xZkQ2QlF4MG5pZGswRi1rU2NtXzJyc2tKZ01jeEp2TF9leXJZbFZlTjZmQmp6R08tN09UOUR6N0ZDbDlBd2JhMnlOWHJGMnROb2VjZkpfa3fSAacBQVVfeXFMUHkxRUI3WmhXckVKVmZvT3Jwa1ZUWDdxREFiZDJJM3Bxdy1zUG5hc2w1ZzdpenFFdlk2Y3RqTFU4dXozWnVhN0dDVW1qeG9fdHRZbHJ2OXhZNXV0WE1KaW1Eb2hqT2M0UzcyLUV2TmVDeU14T1BGaUFGRnJMRldhN3lycjFpcHdPUFplWV9LUUVwMTdvaTF3RUJWcHZUYURsWVN3Wlg4T2M?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Goodwill hosts festive Halloween 5K in Glastonbury - WTNH.com",
+      "published_at_utc": "2026-10-18T22:30:46+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTkwY2ROVHVsS195TFZrT2dodE5ZUG05TkhWcTlxeEFXZVdvUkxDMGFFSW10ZWp6YWVsZ0p6eU1lVWVjSk5RcVJJSE5SMmlIQU93MmIzRWJGTVliOEo0Vi13SzdkRGJ6Um9zamhTWGs1bExFZm9FMGRmOGZuSDBMYU5qVUgyVnNaU3B5dzVrdEFZTG92dk5DTFAyRFJrSFHSAaQBQVVfeXFMT1hOTERzbXpKaDVtOU5KNlh5YjZxN2dqamtPTWJfMFBXZXd1SXoxY3NxcVdBdjV4Z1VyaHVRV3RqanU0ZkFWNl9tZ25pUWpiMVpabDlxamZ2QjFQOTZTakxvQnlvM2IxT1RIaWN6bmc0UXZmazdxQi1PTjByRDBuV3F3c0E5N0pLbWhNaGVoY2RLTklDd3VsTndnVFQ1TUlWa1hmSEU?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "NBC Connecticut",
       "headline": "1 person dead, suspect arrested after an overnight hit-and-run in Putnam - NBC Connecticut",
@@ -5102,6 +6039,14 @@
       "headline": "\u2018So much easier to take the train now\u2019; New train station opens in Windsor Locks - WTNH.com",
       "published_at_utc": "2026-10-18T22:29:17+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2w1a1N4R2dxTmVuQ09oU0FzNXhGUklPRGtNUGF2MjNWRVY0MjVrc2JlNzhqRmRaU2VoZUVQX3NtN3UxQ1dNdDdaODV2M0hIcV9nV2JPTm1aanRGMTFvemdZcFpXeWdHUjc4aEE3RERlMlFVR3lEdjVpR0tiRXphTV94VXV3eXBDazdjTU1PSkJvUdIBlwFBVV95cUxQS0wxWmwyZ2p3WW5JNnRNdXczZm10dXU3NlJaR1AybmhjYnJRUkpmUGZyRzFfaWxFc29EZks1Zjl2VHNoX1EyOUltMnNlYkpvYlFJQUJOYUxjVjN3anBldnlHbWNwVEdJRVgzaTBRUDc4Vk9OMDN5b3BhOVNzdVhqV1FGNGhvQzBjZVJlRTU1VTlvdHU3UzFF?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "IMPACT in Middletown hosts event on practical resources for domestic violence prevention - WTNH.com",
+      "published_at_utc": "2026-10-18T22:27:30+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQmZsdkRxQlMxX3RBVmpiMDVTdlRNMHB0dzVOcWxxZWJiZXZ2cGs2UVRsamJaNjNJTl9rcGctZ2RLRS1NdFdaU1h1NjQyUmd0X09sMnhCcXpQTkNZYXhOMFJJRUw1MkE2R2pna1FNaTZ4ckFRUG1pSFU5UTh3WlpsVFp3cnR2bkhMZEw3SVFzeDdza1BnT3U1VTNxR2kzaVR5U0pWZi1aWXpwZkY5empobnhPS0VmdnZZUnlHbDQ1aElfeEpKTl9TUWRGRWFZcV9oV2Qw0gHYAUFVX3lxTE9HZjFKSllGMVU5cl9reGh6dGxKV0ktcGNvN2NQMDFNSGw4RXBjZHJRejN6LXB2a1BYNl8xVlZuOXZyejFhYndpejlZeGdST3h2VFhjR2NqbEcwcnJPRWo4dk0xVzgwQmQ1TXFWREl5RlpWUWdlRUpyZTR4QW9zcmNGRmwtQ2RMRHV6c0Z6SVpBTVlOb0tiaGtqQ045NXZYQUhmeUFhUmJ6R0g0YV8yazdGZ2FkbXcyanZkX2t0TVZ2OFNONGxic2t6eTctdmJSTWVhd3RHejFrYg?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -5249,6 +6194,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Deshaun Watson leads drive for winning field goal and Browns rally for 13-10 victory over Ravens - WTNH.com",
+      "published_at_utc": "2026-10-18T20:20:41+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWkVyWEdmTG90RmNRUXZtRjg1WDFzdzBlMGctaXJTbzE0VWNkYng5LWlsRWV6OFpKRFhnSWxabURBVERoV0lVRGtlUnBTSGhpVGtmZ0dPVmlxLUNNVnpPbXJOcE1ERmhWNlF5OENhMW9HemZpbEl1TWc0a1BBVmpkMDhqLXU5RHdOZ2ZSMEVzVWN6ekZSRGdNd0lVTFdoZndyc1hrUU5LYUduQVdEbEwySWRydVBub3FFWDRiZHdGbUpWdVlWLTNR0gHMAUFVX3lxTE1lQnRoRUhSZ0hRM2J0Y3dUWVpyWkxWMmc1V0tMQTAwb1VoVHZGdnN6dVR0bjFRTTF6TmRscHY0S1ltejUwb3hyU1dwcnhKSkNMUFlCU1lITTh2bjRCN1VVZ0dxQXAyY3U2QWhWVHVQTXlMNkw4ZEh2T2prSFBYbE45VXQyOG1fQWh3UDNac1NCNlZtUWpxTTNueS1yZ1VRY09yR1Axb3Y4WUpHbUEyX3RaWFVJeUdJSWRST29LNDlyRHUzVExTQXFBWTBPaQ?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "WTNH",
       "headline": "Massachusetts man arrested for allegedly pointing gun at boatyard in Portland - WTNH.com",
@@ -5329,6 +6282,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu - WTNH.com",
+      "published_at_utc": "2026-10-18T18:08:31+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNemhMbF9UTXBNMlZXWXBkbU5IYUd0RWRIeC10ZVRYbmkyWVpQSGNsd0tiYklGLUhILTBiaVM1WDNrSHlhRkRXaHRycEdNMXFsZmswclRQQUlYd0RwSnlLcXUwRGJ4bGtPYTRDdDkyOXZUVGxJNnFaNkg2Z090a0JOLVg5U2tpNVhQVzFlM1J6NEt2QkZqbS1rdzV6bE1PU2J2VkZTdGJ3YjJld1RTU2FSUWZEd1hlY1RINUlDM3hpa9IBxAFBVV95cUxPaU5MZnUwbDRTZ1hRbVQ3RmRGc25HSVJVcXFxcFdLVkVDWmdWdE9mclV1dkl3clR2ZmFSN3NxUlZDblZCNmpfd0ZtSzhGaHBwQklVUEhmMjVXX0Y1ZkdDeTlxNDFiOTBua01qODZSWDNNZjhmd3F4QXNGaXdJVnZ4V1hzRDZWRVl1eVhMZHgtTHJnVHc1emlwTXlhQmpLQ0dvWkdCOVg4S3pzLVRoZTdfWmhZSHlJTDJqMzBrQk5vRjRBdDN3?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "WFSB",
       "headline": "Eyewitness News Sunday morning - WFSB",
@@ -5350,6 +6311,14 @@
       "headline": "The Jacksonville Jaguars Lose A Shootout In London To The Houston Texans, 34-31 - fox61.com",
       "published_at_utc": "2026-10-18T17:41:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWC1RcWU5OVhtQ2dkZFpSZEFza2xscmZnVVZ1b3UyekpYZTBLRnluMG1meUFPaFpQLTRxeVZqMHdWRGtLNVVFdEpkZUxBZnB1bmt3c2trUHB1VDZ2cUkyVEZZMnF6YnprQ3JlYmdSSmVnNVRSSlJXaFdEY1pDQ0RiM0Z2aDFoT0IwdDhsR0NPT2JYcFNKOWRzeTg4VmJOTm1kcTF0ekN0N3BQb0YtSW1XOWxGaVJIVzhGZWdQbEtVY2k2Q1ZWRzR4OFdCTTdWaXhyblNsM3lxVDlZV19jSVZDTkVPT2J5T0hrZmNSRkxRa2hlenh6aEhYRDMydzZ2LW5CWFdjV1lIM0c4S0pRUDdVVlZPeVVMSUkyTGkxUTZB?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Shakeup Saturday: 5 of the top 7 teams in the Top 25 lost in the regular season for the first time - WTNH.com",
+      "published_at_utc": "2026-10-18T17:32:05+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMkZiQXhPeWhiVHl6NEJpSFlMSTQ0bUhTR2t1WUktWllyOXA1aHJuUXdzTGdlejE3NFhTT2poLUVSamlrWWJEWmJVVm9TLTByMVdZUlg1TVQtanZWY1FPb1NscWhzb0VkMWtlakdveUZCUUF2cEdFOW5TYXNaT0dmXzA3eTd4a2FoUUhQaUtmdW5wY0dpdnRnaXI1ZW4xSHh6TDJaUDlQWHVxNGFoenllQTZ3YlZJdnhrVks4NDJWVjFKWUNJd1HSAcsBQVVfeXFMTXVVS2l0MWRXbjJYMG1wS0lVYVg0RGRBNzc1RUQ1c2E4ZjhqNUEzQVQxeW8yVGlNNHhwSXl4MFBsbUV4RVU2OV9qWkJQZDRtSDdHbkx4TjVnZXUwanQ1b2dsSHEzMmxpcXBjWVlnbkxfMFVRUGp4aTRWdV9KZm9YdVFnNzBaR1JiZVNCMi1faDZHMm9Xdk1SYWNPUlZhTmFBcHU5czNXbERNaHo3Nzl4TXA0UDhrTnBQek12b1ZJU3FDNElFa1JNVk16R00?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -5390,6 +6359,30 @@
       "headline": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection - NBC Connecticut",
       "published_at_utc": "2026-10-18T16:03:29+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaEtGbjNVU2p1VGwxU3BoVnhwcGMwN2ZZZXFXblZjV09uYmxNdGpXSDU1V0hZMEZxYVRweV9yTXdGaW1FQUlTNndrdzNncWEzT3JmUDd6bkVPZF9Zd1JfSTJ3N0oxd2FHUktBWGl3WVR2QjgxN2FCeGZTT210WFV3UUtvVjlGeVFQa3d1aGxEX3pUX1RHS0ZmSktqOGhGVnNtUVI0cllvUWxkR094RGxXQjlydm1KeFB1SnRncnd6emx5Z3N10gHMAUFVX3lxTFBjaVZIckx6aDh6SmdvMXdMcy1BTkZwaTh3T3pQOE5SMWdkOWRVM2NmWER4dWRkdDUzVHZIcHJ4MTNxY1laWElrYjNuUzZHWlh4QkpycXR0cnhsWmpvTGthd203Y1U2cUNWcjZsQ3Vza3JQYTlLcmlqcEQxYWhGd0Z4RXgwWnZ5YXlVRVhCVXE0SHRjVnQ1RHhrVHRnM3pHZzAxa0lmMmlSd3hpLTNSZWZBbUZCRFFaU1h5VDlLWEtPUk1GX2tXQjRVazJqbw?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "New England Nation: Week 6 Game Picks - WTNH.com",
+      "published_at_utc": "2026-10-18T16:00:47+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHdDLUswSWpvelhtOS1oVXF4aXk2em1OU2lLOUdHOFpkQ0VuMUZraGtkU0NCZnBQaTI5X1cxYzZYbFBMeDVPZEpkcWpLaXJkc3pxU0hNcmhQQXdEb0xZQW9BZjMzOFZwOF9td1pTOUlWeEFtSUFrc1hEOU9CVzZOWm41U2FGNUZFNk02d9IBkgFBVV95cUxPVW16UFVEUlZWV1pIWUJaTERsbjA5WnBfS25yd3RHOXM1VXp0Y3lXTlVFR0VJV3VVNi1ud0VRUE5wT28ya2VOTl9YbTVOV2hCY01kMnpESFJFQ0xMR0hhaFh2ZVBjZUVtdkFDcHBwcjA2Z2h1bzZpeWJIYVF5Q1M3TlRkTlZ6VVktVElLbWJJRmVzUQ?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "New England Nation: Inside the Locker Room with Ben Brown - WTNH.com",
+      "published_at_utc": "2026-10-18T16:00:47+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVhHZWJqNnZ2M05PVmFfV3FoVUtvaG01ZzZrbmphelQ3bHVwekFhQnJ2cGVuaGt1QU04WG12bWZDclFhTnNKUWttOGR3SHFrUHZXbFNvMGZBbzhZZnBOeFRWOWlPYnpDTGlyanZYLW91SWdORFZmTjdWMnNTWDBRdzVwTFVOcEJTMEdOZVlqcDMzVTZSMTM5RHRVN2pScUJMa25ueE84ONIBrAFBVV95cUxQaFMwMjZCWGFjdlJaRTlHcldrWElhR2c4ckgtVml5V3NyWUx3MER3YUl0Q2l6a21YYXhpQVFBLVNLRnFkb19PbGRCeUNob19kVzlFZ1ZBLWZmNXVyaEdKemVlT19PS3I3ZFdzNXNmeEVRYnBXcGJ0S04yeGNmY1lES0M0cUV5WTltMlh4b2w4NlZCY1RuaEtPdzREV0dsZGNDWHlRclRvX0lGUnZW?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "New England Nation: Keys to the Game Jets at Patriots - WTNH.com",
+      "published_at_utc": "2026-10-18T16:00:47+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQl9rM3JwdjRobF9STUJWQmV5Tk1Sa3hFYkp6SzdXVWM0bWg4bk1veGRBcFo1S2ZEVElxVFVkV1ZhSU5iemZhNWw0WWhqV3ZXRHU5ek4xZzlIZlR2dTlGdnlTYl9PajlTRDNYVGtESW5talV1MThaQVlHVTBSMU1rLW9GZ0dMX3ZodWlDYXhBYU5LNDFpMDVtNDVsNUoxTW1DSnFob9IBqgFBVV95cUxNbU9fZERPLWpfTkRTckl2aWFIV1hFRG9feGhoRFdTU1hmQjYtQ09adGgzelFLalp2SVBVc3puVjFESnAzSDBaV05rdmI2N1I5OWdqZGgyeTdJcVBVS1h2SzFwOUItZUdWdko0Y3VVZjc1X2hBdlBfRVFqMEFjMWJMQi1SRU9ZcFZ6YmZPYnF4SWljNnNTajRqUnhxY0NtTHhSNXNidHhKUlEwQQ?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -5489,6 +6482,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Diego Gomez scores from halfway line for Brighton to revive memories of David Beckham\u2019s famous goal - WTNH.com",
+      "published_at_utc": "2026-10-18T13:29:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVnR4Wjh5Ql82OVFQdzNjRDZMRlNqekd4V0JWRmRsd3VVNkFhcFdVYzI1WmVXekc2Q3BlOUsta1lmZnU2NTkwSHREZnRwdUNhSkVmNG53YXJkaXRqNWtLQ0FQZEplblZabU40Yk1iTWx3T29SSXFYSzRUeWYybkNTdGd4WndwMkZRRi1aT29qcU1kVEtaS0JWTWtRWkxhSkVTekd1dXlyRUVjTVhLQ0E5aDg4LWZpWWo2em9tQmkzOGRCWU45OG9nUlNR0gHPAUFVX3lxTE9XQW9KdkY2alJsZTBZQjlDQ2Y1emg5cjVOX2lvOVQ2aU1reDVvVUpmVG5WalVvb21UR04zdzQ5NmFJOV96ZldFM2pkTmtlb0hURWlDNHkyZnFJREZ1V1BPOWE3OUNVelZUM19xVC02WDg1QkUxSkpMMXZZSkdCZm5NOFFfVUN2MDYyb29rU2ViaFpJeWZaelFELVVhQ1hDbHZJZ1d4aFNhSzdPcUxxcDlsMU1nVkFJR2kzN1Q4R2Jnd0FOOUNSRWlOUmhaRWczOA?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "WFSB",
       "headline": "Three-alarm fire destroys log cabin in Windham, fire officials say - WFSB",
@@ -5566,6 +6567,14 @@
       "headline": "Ravens, Browns BATTLE in AFC North, Bills look to WIN & Packers, Cowboys set for Week 6 NFC SHOWDOWN - fox61.com",
       "published_at_utc": "2026-10-18T12:15:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPZVBGWWZrd09xVXBhZENJVjQ3MWdFVUhrWEhHVm1Ob3lSY1RDNVZoclJDR0o5NHJIaFFqdERvaENjYVlYbHFHblJSVnJVRzN2dU94NVhDYjFESEhzZ0N0bm5hemlyZ1hZWjM4bE9jQ2M0MWdUdkFVRVZDQjFVbjFCWTBuMmkycVZIRlBwRmpQMTdha1NaWDBhTVFiYWRIY3FDZzJqOVdhTUxySDZ3MkF1ckJLVUlhYTNqVWRMQ1IzRnFyS0ctNHEwazRXOEpYR2VIbWFaTWV4cWp5UzBTMzNDOUJMMnlrS1cwN1ZiNnZSbHotSEF3MFhabkRZRm53Y19TaVFKMTlVV3RoUjI3R0JVdDd4WXRvYXBYZkNwTGFjeG5taU1YZGNUZFdTTDlZWThI?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Alejandro Davidovich Fokina beats Rafael Jodar to win Shanghai Masters for his biggest career title - WTNH.com",
+      "published_at_utc": "2026-10-18T12:14:36+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb0QxRTFET01FN0VhLTRXQkMxU29JcWZkZmczbTlXS0lfeWlJNlpCcm11bkZscmpTcVVvQ05KeDRycnRSQnZIQlcxV2lTVDlFaWw5cGJ4d2hOdlhwQjhrS0Z1cDFmS2doS3lWZmRaSEREZmtVTHBnbXBEYkFSRXZfVl8wckNPaDduY05fbV9NQ1hGaTIxd2lORktfdG5EV3ZLbjJzWENNQlZTcjVLY0JOQ2xLVmk3bVVnUGZaaHhBYXJsRy1yWmYxSDRxWdIB0AFBVV95cUxNMjhEcGpiaDdMYUxsa2MtbV9TVm50c1EyWGNnQzdaNXUzWngxUE1MWkhmTEp6TUl1TFZrVWlFOFVJcDJPZjluUGF3VTZ0Ql9rYmtEdVVzLWtjMENvY05zNGF4Nk5CLUt6cjNFeElsMVVIdFplZFJLeHJITXFJaF9OakRMN1lxS3dnWGl3QTJPMnk4bmt6aVVxbUlGREZkVDlTT1AwVjIwLWxiWWtGX2VHYWNKSlpDMVIwem0teHNDaXhhWVBpVEJ6UUNFSHJFOW1o?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -5921,6 +6930,30 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Williams, Roberts ignite No. 10 Texas Tech in 53-25 win over Arizona State - WTNH.com",
+      "published_at_utc": "2026-10-17T23:20:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkJGWE1sZlRSekFoQmptTjkwMGJ2dHpIZTFqdnNfTFA5b0JHLUg5c0xFVmRFa01ZR2N3T3k4RDVGZ1hkQlJtem1pMlJQbThEdnhMeGIzdHc4T09EYkJLNkYzNmZWVmpqdEswZlcwdi1KVzUwSXdTNm1leUVpdFQ4LTVEaWRMQVBVSjNQcHdEeGhadVZ3V19FWnZpRnVsMHRHbDk0ME9rTdIBrAFBVV95cUxNaHVqaDFoMnVtLWtTQUEzTk80N1c5OThXVG00ZTFXbndfTG1VbzVJa1FJSXNRam1MODRQa2tTMmMzVk5qNDlZaERZOG95Z0hzdGJPUlZ0ZTVDQ0RYWHNsNVBWNlBPNjFUNkNQQ2kxdWo5bEdSWEROM3k1TjlCZC01QUxZWVNrVkt1VnBRbU1zVW1XZTlnaEpPV0FHM1Y3YUQtTHIzY2F5akpMZUJC?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "No. 4 Ohio State holds off No. 5 Indiana for 19-15 victory but loses QB Julian Sayin to injury - WTNH.com",
+      "published_at_utc": "2026-10-17T23:09:19+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjFLTXFoRHRPdWFrd3BReUtzaTlWTjNmSi1ESDhTczROM1owNlZkVnhRNlhDMWwwM0FGNmFacXZTb19rYWw4Vm5takRPVUNmWmdJeGRZb1EtUDRYQTFCWDdCWlNyaktpckhfcUFKcnNhbTBZbHZhc21Eb0xxWUJfWVlxdHkwQjBxR2hrSnAwZEc2RDdKTHRZUWktaHFCVU9PRHFHZk5lS29UdEYzZnpvdVNPN1J2elXSAbwBQVVfeXFMT2VtRm5iX05sZ3N6cWRJakd6cE4zM3R3SElaX1pNX2U2UTJjTWd5SnQ3ckV5SVp1LXVCMXJ4bmctOUlTNFNWZFFaTHFFbVFZWTRPbE9OY2pZQXJVZ01hZUJxSmV3cmRmYVhGT2tNa0dDVEtxdVJQcVBEbzRQbm1rSkxTNlVuWmxtY0dZZTM4Q3RaQXRkY1hlbkgwT0tialFlME55Q0ZJVTZYQ2Iyak42TFRnNkkwODlfY2hfblg?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Auriemma sees value in UConn women playing exhibition games - WTNH.com",
+      "published_at_utc": "2026-10-17T22:56:37+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHpqcHNtekZoT2tHSFRXMzBHS3UxRUMtbW5rdmgzd1JGTnZ1MUU4c3lEekdNY3Z4NldmTkNxTU1DWjdJNUVCWHA2blpwM0UyeTJMNDZVYTM5MXJ5WW53cGVXWnR2ZXdVbi0wNldaanRySUxlRkxtNUVxZzRyQjdmSUtqZnJvMXM5SjVZcVh5VEtKYlV1LVVEYzlLWFJpZHZlVHp5etIBqgFBVV95cUxOY05mMEQ0OW1mWk1LRE1MeEZTOGM1TDNvXzNyaTdPTTNXSnh0NWdQTl9qNXBSWnRXMVF0WHdDOGlHaHdLWTl0VnJYbm9PdUFMZTROVkEzbjZzeW8xRm5yd0pKbllwRm9GTjNrbEwzU0M5ZF9RY2lWM0dQR0drd2g3YjVCcE84blRRc0VuWENReVh3Y1Y5VUloWTBwVVQ0eWxwWmplVkpvU0QzUQ?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "NBC Connecticut",
       "headline": "Police investigating after body found in Connecticut River - NBC Connecticut",
@@ -5974,6 +7007,14 @@
       "headline": "Bridgeport drug dealer sentenced for selling kilos of cocaine mailed in from Puerto Rico - fox61.com",
       "published_at_utc": "2026-10-17T21:34:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaXltS0xVRE9yNHlXMUVERElnRDZlVFFORHVSdlNCemtmZWJyaGJaQ3NVcGN4NE9uMjV3dm8ycVZ3WEQ5ODVnMHphbFVMQ2VmYlVERmxWMzNCVkJ0SHFtSmVPc0l0bXdDUjVPbFc5ZVNzVTJWWGVIYm1oLVEwRE53cjJMaGwxbWdHMUVhcmFSMnQ2anl0THVkY0t1X1pPb1dYX05FdHF1ckxPd3NNeTc5My1Tblc3QzU3TG1XQTdxRFJsek54WXVkVS1jbG5GalQydnRuWmNrUEFZZEVsc0t2c0pYejg1b0RUc2ZrRGhQZkVzR2RFNWFxZVVUbw?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "Yamal takes center stage for ruthless Barcelona and PSG wins ahead of Champions League showdown - WTNH.com",
+      "published_at_utc": "2026-10-17T21:23:20+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1hLaGhZRW1BaDVNQy1kQ3VhVTBWQTFaVlJPVk5DTHUya0NwcjU2Y1A2aXIybENDbE1GVzR1YVR4SFp3ellObHFxcWFHd29ZTnNyXzExM19IZFJPNnM5LVp2QnhNT1dnUEhTRjhrUzg2Wml5UE42cDdNcDdFLWtEc2pSS3V1MDUtMy1wdkZvc3dOTkJySEthb3hsVjBadDFGVG9la0lXNlRTUXNGTHUxcmJNV23SAboBQVVfeXFMTlRvNzZfRGRxRWdqSnpNenhwUmZwWEhnbDY0Y2sxY3Y5dk9hazBpLVVCSGw1NVpkUV85YkFScmVtLVRmTDl0S00wYVA5Zno1VVdhVHItb0ZtVmc1RWRIX0ZyaEFPaVFGeWRqdXRpazVOZGttX1RXUWJnTUUzcF9oUmFsdHZaZUxGaEVpTFMySHR5QXYxcFRvcG1ELURUTEZRZ2d4TTVJenhuc2FmX1FzTFF2czF3eTJybXlR?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -6073,6 +7114,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WFSB",
+      "headline": "'Our democracy isn't healthy': No Kings rallies take place across the country - WFSB",
+      "published_at_utc": "2026-10-17T18:39:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDl0T0c4WEYyZ2NTUnFtTExDRkpDOGJISEFtejFUZ1ZqQ3pjNHFFakhTT3dpV1BGSkROYWgyQ0pQQWJqb21kbGNVaU0tbEVsc2YwcVNOZDVHX2hRSWRtNjlFbEtPWVhkb0RqcEpiQl96aHdieERjcFhHS0t0OTVZWk96YVFRbWdjTHRDMUFramJVNXk4NThUei1MWU5EdWtuWHR3Qk1CV1k4WkxE?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "WFSB",
       "headline": "A freeze likely tomorrow morning - WFSB",
@@ -6094,6 +7143,14 @@
       "headline": "Eyewitness News Saturday morning - WFSB",
       "published_at_utc": "2026-10-17T18:21:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wZWZhenBjdWN4bEVXN1EwY0JGQXlHT3g2dkFHbDhIekF6M0k0YVBRZ3BPYVg4WlM2enFxU2ZtRjgtWmExTDdRVzhkYmd3X3FCb2FKcHVmN0MyMVZWTml5NnRYZ0J2YlJMVHJlM3RERDE1cW5PTnhIdldqcw?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T17:19:16.250265+00:00",
+      "station": "WTNH",
+      "headline": "No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms - WTNH.com",
+      "published_at_utc": "2026-10-17T17:45:49+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVRzTW9BSG01Ri01YnZBNXNlY0ZjMTlJN280TDAweWRxckxyM1RJNVFPX3piUWx1dlV6VXBDYkdKbmlwZmNGMlBnWjJ3cnJkSmFjSVdseHpOazVWcWFnNDZCTFBXUi0teWtkcVgwTFJfb190Nm11Rlh1aTJLWmxYNVVKNkp6M0JqVmxIbHdTNkVOc1FRV2xIRDB6U2tVdGRVWDRFdU53anJ0T2ZXS1BMdGVwSU9mLU5lQm1hcjhLNUp6V1ExOVVjdmRB0gHPAUFVX3lxTE0xRmRyYnNhaHQ0TVBTRGlNaDhZOXB6MDhFS09aUUZ4ZkFfWTdtOTRCcGI4TWNack1GaGotUkdTOUZIT3lyOS04MFhhd3ZlNjg0ZzAzam53UkpMYWJWNF9LdWVNYnVKaE16Q1dwUVhfNDRqUUcwbE40eGR5Z3pmNTNGdUxwWDkxbGdvNkcyREswaTVjeVZPZnJRTG05T2djMmhOZ1FwWDc2SnM0VjhkYm9TdWdzR0RpNlJQai1WYlg4bTN6WEswdWVRZ2hpXzV3VQ?oc=5",
       "status": "awaiting_human_verification"
     },
     {
