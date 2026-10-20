@@ -64,7 +64,7 @@ rain_leaderboard=[
      **rain_event_groups[(source,lead,station)]}
     for (source,lead,station),errors in rain_groups.items()]
 payload={"schema_version":2,"precip_observations":precip_observations,
-    "rain_leaderboard":rain_leaderboard,"rain_scored_count":sum(len(v) for v in rain_groups.values()),,"forecasts":forecasts,
+    "rain_leaderboard":rain_leaderboard,"rain_scored_count":sum(len(v) for v in rain_groups.values()),"forecasts":forecasts,
     "observations":list(observations.values()),"leaderboard":leaderboard,
     "scored_count":sum(len(x) for x in groups.values())}
 (site/"dashboard-data.json").write_text(json.dumps(payload,indent=2))
