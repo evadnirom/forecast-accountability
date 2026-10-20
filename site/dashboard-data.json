@@ -1,5 +1,41 @@
 {
+  "human_feed_status": {
+    "checked_at_utc": "2026-10-20T16:52:09.792938+00:00",
+    "stations": {
+      "WTNH": {
+        "result": "ok",
+        "items_seen": 100,
+        "new_candidates": 0
+      },
+      "WFSB": {
+        "result": "ok",
+        "items_seen": 100,
+        "new_candidates": 6
+      },
+      "FOX61": {
+        "result": "ok",
+        "items_seen": 100,
+        "new_candidates": 0
+      },
+      "NBC Connecticut": {
+        "result": "ok",
+        "items_seen": 70,
+        "new_candidates": 2
+      }
+    }
+  },
   "article_reviews": [
+    {
+      "station": "NBC Connecticut",
+      "headline": "FBI execute search warrant in Mansfield, officials say - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:42:18+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVExveFY3R0dXbFJGczRjU21Td0l3VUtRMkxyWlN6dmc1UmFCZnRyQm5xYjE3X014cXZCLTVkTldvRHhQQ01CWGszX0V6RHdSYlBwUDUxdXd5UXQ3N2F3b3FYUGpPRXlzWFFXZ3kwa3JVQVFhUGozVEpST2JsTUZCcTA5Y2pBc1M3M1JCajg5cnlmZ3FXSUoxbkIxak9TWnMzeXY4bUhKUdIBrwFBVV95cUxQeEwyWi1pQmphTmota1g3eWtLVEtkaU9TcWhrbGJLYlJraU9SQkVsZnV6TzhDaHNIMVRVRkNoSEZrVWcwRHA1ZGpzWVpyWFlZWjVlN3IwLW9YdlRNaS0wbkpiUF91TzdYZGFSSHNndDB6UjJleDBENkNtZVlWQ0N1X05mYUxHOXdtUFhJcWRHaUp0QzlBM0hHQS1EeVp3Nm1UbDFkVm5QTWRlaXVINVpN?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVExveFY3R0dXbFJGczRjU21Td0l3VUtRMkxyWlN6dmc1UmFCZnRyQm5xYjE3X014cXZCLTVkTldvRHhQQ01CWGszX0V6RHdSYlBwUDUxdXd5UXQ3N2F3b3FYUGpPRXlzWFFXZ3kwa3JVQVFhUGozVEpST2JsTUZCcTA5Y2pBc1M3M1JCajg5cnlmZ3FXSUoxbkIxak9TWnMzeXY4bUhKUdIBrwFBVV95cUxQeEwyWi1pQmphTmota1g3eWtLVEtkaU9TcWhrbGJLYlJraU9SQkVsZnV6TzhDaHNIMVRVRkNoSEZrVWcwRHA1ZGpzWVpyWFlZWjVlN3IwLW9YdlRNaS0wbkpiUF91TzdYZGFSSHNndDB6UjJleDBENkNtZVlWQ0N1X05mYUxHOXdtUFhJcWRHaUp0QzlBM0hHQS1EeVp3Nm1UbDFkVm5QTWRlaXVINVpN?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T16:52:11.618989+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
     {
       "station": "NBC Connecticut",
       "headline": "Montville middle school paraeducator named paraeducator of the year - NBC Connecticut",
@@ -7,6 +43,17 @@
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVU9NQnZ3SXBHTGFoSGEyZzZtWFhUSnRRa1VuMGxVMVhJS19HYU11Skcta08wZFU1MFFtUTFfa21xcTByQ0JtczdRTFVuZGVMVXZsYXhvOThYWmdnTzhlb3dJdGt3d1M4RzZPUXhvVTB2bHFYS2UxMHVjTU9hWXlDZkx4RU42UUlXTDZjQlRKRTJlTW5aOVZ5SDlyeF9USDU0d1JSMWFkaTBGSEtBSm9OVW5kWGQwNy1nQUHSAcIBQVVfeXFMTnduV3d1SkprelJJazBmakdydTN4TWp4QTdtWmlxc2tHNEppZUFTUnl6RGVuTVNubjhWTUVuS05oUzhWUGNsQWJmeHUzUmR2LUxaZU54ZXJ1NjkzRlVXWU9HdF8yT3d0OC1HQ1Y1TWVYb2MwZ3MwbkVRSFFIbF80VTd2WktXX1huR1R2UWhYZndWTkdiT21Xby1LRW9adzhmVHU1MERzc2lXM2NyUzJzN3pHWnZzeU4yU0pWQkprSXVPVlE?oc=5",
       "article_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVU9NQnZ3SXBHTGFoSGEyZzZtWFhUSnRRa1VuMGxVMVhJS19HYU11Skcta08wZFU1MFFtUTFfa21xcTByQ0JtczdRTFVuZGVMVXZsYXhvOThYWmdnTzhlb3dJdGt3d1M4RzZPUXhvVTB2bHFYS2UxMHVjTU9hWXlDZkx4RU42UUlXTDZjQlRKRTJlTW5aOVZ5SDlyeF9USDU0d1JSMWFkaTBGSEtBSm9OVW5kWGQwNy1nQUHSAcIBQVVfeXFMTnduV3d1SkprelJJazBmakdydTN4TWp4QTdtWmlxc2tHNEppZUFTUnl6RGVuTVNubjhWTUVuS05oUzhWUGNsQWJmeHUzUmR2LUxaZU54ZXJ1NjkzRlVXWU9HdF8yT3d0OC1HQ1Y1TWVYb2MwZ3MwbkVRSFFIbF80VTd2WktXX1huR1R2UWhYZndWTkdiT21Xby1LRW9adzhmVHU1MERzc2lXM2NyUzJzN3pHWnZzeU4yU0pWQkprSXVPVlE?oc=5&hl=en-US&gl=US&ceid=US:en",
       "retrieved_at_utc": "2026-10-20T16:45:41.484892+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: Sips, Spirits and Snacks - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:19:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamFRWmtJeG81U3ZEUFB1bDBqbjZ6eFVMT0VwZnAxNmd3TnV1dFdwSFRIYnRsNjN0STJOVzRXMW1wM2dMWWVEQ3pIczctd0ljVG1Pb2FGVEVnLUpYcnlncnVnMTRLY1p1MHJXSFlPOHVselZFcDV2b1F5M1pqTkNERGpkWnA0N3hYNTg1RUV5VEgyOTJ6T2p6TlNCSHB4RUdZ0gGoAUFVX3lxTFB3Qnh5R3Z3Z290dWYyT0JZRGFOX2wwQ3VsQnJLaERJdUFGM0R4T3VLQWFjdUE1OEJsQ3ZGTDd6R3QybWQ0WmNKTUJ4dkRGWHNpUEVEZTFoaXo4VENmZlhTU2dxeFhzNmxpN1FjLVBmVFNNNG5OQTYweGlQZF85bjJOeUE0Mkk4NDY4T0F1ZWdyZzAzYVl3SFFvNjJZWXc1dXNKQ3pBRTFFRg?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamFRWmtJeG81U3ZEUFB1bDBqbjZ6eFVMT0VwZnAxNmd3TnV1dFdwSFRIYnRsNjN0STJOVzRXMW1wM2dMWWVEQ3pIczctd0ljVG1Pb2FGVEVnLUpYcnlncnVnMTRLY1p1MHJXSFlPOHVselZFcDV2b1F5M1pqTkNERGpkWnA0N3hYNTg1RUV5VEgyOTJ6T2p6TlNCSHB4RUdZ0gGoAUFVX3lxTFB3Qnh5R3Z3Z290dWYyT0JZRGFOX2wwQ3VsQnJLaERJdUFGM0R4T3VLQWFjdUE1OEJsQ3ZGTDd6R3QybWQ0WmNKTUJ4dkRGWHNpUEVEZTFoaXo4VENmZlhTU2dxeFhzNmxpN1FjLVBmVFNNNG5OQTYweGlQZF85bjJOeUE0Mkk4NDY4T0F1ZWdyZzAzYVl3SFFvNjJZWXc1dXNKQ3pBRTFFRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T16:52:11.775221+00:00",
       "excerpts": "",
       "status": "needs_review",
       "error": ""
@@ -156,6 +203,17 @@
     },
     {
       "station": "WFSB",
+      "headline": "FIRST ALERT TRAFFIC: Water main break closes route in Simsbury - WFSB",
+      "published_at_utc": "2026-10-20T11:33:24+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGNGOWtIdlpOaVZEQlVmNDlxci1OYlZyR0VTREpxQnE4eXMxR0lZMU1sQnJGaFFOdTk2MzlHZUkxVWVsSXhwbmlfWVVQaklsRGFFbWQ5V3dydExuU2YtTmVNNEFzMXJBa3dVS0E1bHhoSTZiNWt5UElCSGJQOTY4MFFnbGVZWGQ3RzdfX1FhclZJRjdVWUhYYVRKaWxkM1ZzbW9JUGhEek9DUktCWDZnQ29B?oc=5",
+      "article_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGNGOWtIdlpOaVZEQlVmNDlxci1OYlZyR0VTREpxQnE4eXMxR0lZMU1sQnJGaFFOdTk2MzlHZUkxVWVsSXhwbmlfWVVQaklsRGFFbWQ5V3dydExuU2YtTmVNNEFzMXJBa3dVS0E1bHhoSTZiNWt5UElCSGJQOTY4MFFnbGVZWGQ3RzdfX1FhclZJRjdVWUhYYVRKaWxkM1ZzbW9JUGhEek9DUktCWDZnQ29B?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "retrieved_at_utc": "2026-10-20T16:52:12.053275+00:00",
+      "excerpts": "",
+      "status": "needs_review",
+      "error": ""
+    },
+    {
+      "station": "WFSB",
       "headline": "FIRST ALERT TRAFFIC: Crash backs up I-84 in Middlebury - WFSB",
       "published_at_utc": "2026-10-20T11:33:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR1hiZWxEbkk0ZHFsQS1idTlMZk1OaHpUUnIxbXAxNTZoZGVFNlN6dVJ4VVZKV0xLdHY0MEtYM3k2c1U5UDduR21MdkktTjhzS21GTElRak52WkJUV1d1WHU5QkxyUk1aVU00a0FPa2lkYlBuai1zMnhqd1JFSWJCNElpLVc1XzVweFVKZXFNZ2xST2s3WVNaa1BlaUt4bGV5SjItenY0UQ?oc=5",
@@ -290,9 +348,29 @@
   "human_review_queue": [
     {
       "station": "NBC Connecticut",
+      "headline": "FBI execute search warrant in Mansfield, officials say - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:42:18+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVExveFY3R0dXbFJGczRjU21Td0l3VUtRMkxyWlN6dmc1UmFCZnRyQm5xYjE3X014cXZCLTVkTldvRHhQQ01CWGszX0V6RHdSYlBwUDUxdXd5UXQ3N2F3b3FYUGpPRXlzWFFXZ3kwa3JVQVFhUGozVEpST2JsTUZCcTA5Y2pBc1M3M1JCajg5cnlmZ3FXSUoxbkIxak9TWnMzeXY4bUhKUdIBrwFBVV95cUxQeEwyWi1pQmphTmota1g3eWtLVEtkaU9TcWhrbGJLYlJraU9SQkVsZnV6TzhDaHNIMVRVRkNoSEZrVWcwRHA1ZGpzWVpyWFlZWjVlN3IwLW9YdlRNaS0wbkpiUF91TzdYZGFSSHNndDB6UjJleDBENkNtZVlWQ0N1X05mYUxHOXdtUFhJcWRHaUp0QzlBM0hHQS1EeVp3Nm1UbDFkVm5QTWRlaXVINVpN?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "NBC Connecticut",
       "headline": "Montville middle school paraeducator named paraeducator of the year - NBC Connecticut",
       "published_at_utc": "2026-10-20T16:27:47+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVU9NQnZ3SXBHTGFoSGEyZzZtWFhUSnRRa1VuMGxVMVhJS19HYU11Skcta08wZFU1MFFtUTFfa21xcTByQ0JtczdRTFVuZGVMVXZsYXhvOThYWmdnTzhlb3dJdGt3d1M4RzZPUXhvVTB2bHFYS2UxMHVjTU9hWXlDZkx4RU42UUlXTDZjQlRKRTJlTW5aOVZ5SDlyeF9USDU0d1JSMWFkaTBGSEtBSm9OVW5kWGQwNy1nQUHSAcIBQVVfeXFMTnduV3d1SkprelJJazBmakdydTN4TWp4QTdtWmlxc2tHNEppZUFTUnl6RGVuTVNubjhWTUVuS05oUzhWUGNsQWJmeHUzUmR2LUxaZU54ZXJ1NjkzRlVXWU9HdF8yT3d0OC1HQ1Y1TWVYb2MwZ3MwbkVRSFFIbF80VTd2WktXX1huR1R2UWhYZndWTkdiT21Xby1LRW9adzhmVHU1MERzc2lXM2NyUzJzN3pHWnZzeU4yU0pWQkprSXVPVlE?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: Sips, Spirits and Snacks - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:19:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamFRWmtJeG81U3ZEUFB1bDBqbjZ6eFVMT0VwZnAxNmd3TnV1dFdwSFRIYnRsNjN0STJOVzRXMW1wM2dMWWVEQ3pIczctd0ljVG1Pb2FGVEVnLUpYcnlncnVnMTRLY1p1MHJXSFlPOHVselZFcDV2b1F5M1pqTkNERGpkWnA0N3hYNTg1RUV5VEgyOTJ6T2p6TlNCSHB4RUdZ0gGoAUFVX3lxTFB3Qnh5R3Z3Z290dWYyT0JZRGFOX2wwQ3VsQnJLaERJdUFGM0R4T3VLQWFjdUE1OEJsQ3ZGTDd6R3QybWQ0WmNKTUJ4dkRGWHNpUEVEZTFoaXo4VENmZlhTU2dxeFhzNmxpN1FjLVBmVFNNNG5OQTYweGlQZF85bjJOeUE0Mkk4NDY4T0F1ZWdyZzAzYVl3SFFvNjJZWXc1dXNKQ3pBRTFFRg?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -423,6 +501,16 @@
       "headline": "Scene clears following shooting of Yale employee during attempted carjacking - WFSB",
       "published_at_utc": "2026-10-20T11:34:32+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYzJoaGhobV83VEpidWRZSTRWRDAtRnBIWElzMWdrZTFrV1FkWTdZV08tV3FfQlFneHNoVjhBU2x6UG9GQXg4Sk50RzVRa3NaeHpNdHJHZ0NsMXRWdVJpVlVuZjlEeDJPLURZOU9CanMtNE5yOHE0TTA4dFVqQl9iVFlUWG9wQ0J3LS00YW02MDFYT1RXVkdzNDdLemZTbnlKaHQyaHByOEwyYTJDUzFMM0tmTXduckJSLTVRSzI5N1d0Y1N2a0E?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WFSB",
+      "headline": "FIRST ALERT TRAFFIC: Water main break closes route in Simsbury - WFSB",
+      "published_at_utc": "2026-10-20T11:33:24+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGNGOWtIdlpOaVZEQlVmNDlxci1OYlZyR0VTREpxQnE4eXMxR0lZMU1sQnJGaFFOdTk2MzlHZUkxVWVsSXhwbmlfWVVQaklsRGFFbWQ5V3dydExuU2YtTmVNNEFzMXJBa3dVS0E1bHhoSTZiNWt5UElCSGJQOTY4MFFnbGVZWGQ3RzdfX1FhclZJRjdVWUhYYVRKaWxkM1ZzbW9JUGhEek9DUktCWDZnQ29B?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -813,6 +901,16 @@
       "headline": "Expert weighs in on deadly police shooting during welfare check in Bristol - NBC Connecticut",
       "published_at_utc": "2026-10-20T01:26:27+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1JoLTNRUDhZd2I5T2NMOHdfc3RPSHR6MXRWZVk4SmRnTjV2Q1RZVXJoNndiQkdmVUF2NWhteTdJMUtwYnBGZF90bDRwUXhNSGV6Y05PTnVQVXp6Rmk4dG5aY0pRcVZRNl80eHZDNGE4ZGVVd1lFYlZITjZybXhFbGQ0Q3NZVFpYdzA5QjFFcEZKOVJlYWM1X2JrclVuV0hhY2ZpN0poZ2RGd3E0S0VLQTV4bnlMc2Z0LXFkSm12akYyWlHSAcsBQVVfeXFMUG9wa1hpVjNaQ0NsTVFMUkRnWVdldm40NWVFNjJ5bUt1Xzc0NnpIR3VVM21zNGFQSlJlUzYzRnBoXzUybEdvUWZXeUduY2Z6R2JnejBpYm5TSFVaY0JOSGZJTDdoRjZScldWcVNzMEV5RWx5Nk1LYU42cENUZ2I5dUNnOVJQTVNNQzVHcGtiajhoMkZ2NW8xZUFwUXU0NVZmM252Yk5SazNlSno5X1JWZlpreGVERXBnaUdXaEdlSHdqV0tSLWlGcEd0Y0k?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WFSB",
+      "headline": "Brisk start, highs in 60s Tuesday - WFSB",
+      "published_at_utc": "2026-10-20T00:51:12+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yVjZYUV8wclFBU0dIQjNQQ1I3TG1jT2xOaXZPVmE1c2hYWFdKUm9zdDlLbVlrQ1ZnR04xMnN0c3BqWVd2dHloVjNvanp5cmFtN3JYMmtaSDZUUW5GbUIwRTdPRWxwN3lrNDA5akJXX3owWTJocW5j?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -1463,6 +1561,16 @@
       "headline": "12-year-old Enfield girl\u2019s cause of death revealed as overdose with \u2018undetermined intent\u2019 - WTNH.com",
       "published_at_utc": "2026-10-19T15:42:47+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdmJsZjFidGI5dTVMUzJTeFFRcURFQlNBTEt0VmtvWEdCNGg2ZTExMTJGYjJFWjNwcHZCcUF3bnNiSG5idUg5eWxnYU5BNVdnR0N2TFJIY1M0aGg5ZVk1SXZMR2hOQVRfemdKRndKXzIwUkNLRG1VYkQ1cTNLM1hOY1RDeGdFWHBoblZuZDBUdC1rLWt3MXVQTndGZEVxd0d2VlFfZUxSN0xFeVdLX0RvbmQxUmEyczBON0lUVnRMQ1Rldng5N3V4ZlQwZEJaUzDSAdQBQVVfeXFMUEpYYXk5ZjY1TGZNa2JiWi0zcGtRdTd0QmNZVU9OWE42aFRmQ1FQTkgxem5LYlV3aUhscktxeUlEV1hXNE1fVVh5VkFaMHdsNm1Pd3hia0lMd3I0aU1TQ0Ztc2R6Rm5hcjE0enlSbXNGUU1fSERtMkhMZDltcGtvNWtLVjVqRXhWVzNLS3QydHMzUXFQZEtKT25YeGFETlM3d2drRDRVZ2RtRzc1d1RPaHJrVUNBSVNjbkdsbnh5dTQtZF9WYXZsVDFvOW91Zngxa3JvdnM?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WFSB",
+      "headline": "BREAKING: Medical examiner report leaves questions about 12-year-old Enfield girl\u2019s death - WFSB",
+      "published_at_utc": "2026-10-19T15:37:34+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV1U2ck1YQmlCTVk2aFZxNDNjOWRTV0lSZUFoRktXaUdsckJJSTllUm5DbGNFb01MOFpObENnRFVaeVRURVpOYjBhWnRIeVJZZWxGWHpMVHBTN3Z6VUF5M0N0bDFNYWFDWUhlb3Fac0ZJSnAzWktrd3BtOXV3WmdTM042ZXByZFFmV0hKelE3bjZEUnFrb242OEo3a0JaSi1qUF9rUzlvTkxlMlk5VW8tOHI4ODIzWXNXNUpIRy1kaW1IelE3V2hnMkV3SmVQTk53ay1PcDJTWWQ?oc=5",
       "weather_topics": "",
       "possible_forecast": "unknown",
       "review_status": "unverified",
@@ -2399,6 +2507,16 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WFSB",
+      "headline": "A beautiful day ahead, after that morning chill! - WFSB",
+      "published_at_utc": "2026-10-18T18:48:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVVIcHY5LUtzcGI4VHNHMkRFeVN3d3RHZkduOUd5TmxIeHhMOTh5M0M1TkV4SjcwWW5xSkhOcF9HWFBLZXpFeXA4ODVwT0ttM2pWUFZ2dWo1MDk4ai1rZXA1UEphRFZwU1VlUnB1aDlMeHQ0VnB1MEs1QlJhajM5UmwtNDFrNzl1UG5BX2plRkxlenFkUjE3MzZQT1RwM09kb3c?oc=5",
+      "weather_topics": "",
+      "possible_forecast": "yes",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "FOX61",
       "headline": "Trump says he will close historic DC golf course for 15 months of renovations - fox61.com",
       "published_at_utc": "2026-10-18T18:38:00+00:00",
@@ -3259,6 +3377,16 @@
       "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
     },
     {
+      "station": "WFSB",
+      "headline": "First Alert Weather: A cold start tomorrow, improving by the afternoon - WFSB",
+      "published_at_utc": "2026-10-17T21:23:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmJ1aXRrTnJoNk52UFRCNUY0cU9nWVFzR1RZd3czUFRCOEdDTnU1bnk3akVqMzNtQXJRSFBraFoxZU1NdEJ2S0dYMTRnaXVUd2NlSVRKVG9FVmtkWEJ5TmNfZ0xRdl9uVHB1eUd2RERsWVBfcklyNUZaTUtjV3owQnBvT001UHZmSEdEdnpNZ2hEWDNKY3d6c1N1MG5GY3RkblZpRUxpNlEyTkFySzRv0gGvAUFVX3lxTE5WYnVpdGtOcmg2TnZQVEI1RjRxT2dZUXNHVFl3dzNQVEI4R0NOdTVueTdqRWozM21BclFIUGtoWjFlTU10QnZLR1gxNGdpdVR3Y2VJVEpUb0VWa2RYQnlOY19nTFF2X25UcHV5R3ZERGxZUF9ySXI1RlpNS2NXejBCcG9PTTVQdmZIR0R2ek1naERYM0pjd3pzU3UwbkZjdGRuVmlFTGk2UTJOQXJLNG8?oc=5",
+      "weather_topics": "temperature",
+      "possible_forecast": "unknown",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
       "station": "FOX61",
       "headline": "DISBELIEF: LA Kings Fans SOUND OFF Over Poor Start\u2014Is a Connor Hellebuyck trade a solution? - fox61.com",
       "published_at_utc": "2026-10-17T21:02:00+00:00",
@@ -3353,6 +3481,16 @@
       "headline": "A freeze likely tomorrow morning - WFSB",
       "published_at_utc": "2026-10-17T18:32:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XV24tdllJUldiUUJMYUF3TWFzTWl3ZVRpaWxWSmFucFBsMHRURlJPdk52ZEl0blJqb3pGYWxzYThhR0QxS2hrdm9HSEdCMUYzb05CNDE1U1JDSzRpSVdXeWk4TUd3dGh6YVZJUEFTUEFmNkRaOHg0NTlfdw?oc=5",
+      "weather_topics": "temperature",
+      "possible_forecast": "yes",
+      "review_status": "unverified",
+      "review_note": "Headline hint only; open original publication and verify the author, issued time, target date, location and exact predicted values."
+    },
+    {
+      "station": "WFSB",
+      "headline": "A freeze likely tomorrow morning - WFSB",
+      "published_at_utc": "2026-10-17T18:32:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZmxLelNPMzVWeGJrRk1icTFrODVoV0FZdFBBcG9kU1dKeGNVT21Fb1B6ZmJTSm1xZWE5VEJCSnN5a2Rmd1BzMko5X2ZYZFNTV3E2WC1VT0JvcFh0NloyRzdoWjVqaEl5MU1Mcml1ZE5pR2g3UDhSdHg3QVJOYjczUThVVzNVNmNwbDZNa0F5cw?oc=5",
       "weather_topics": "temperature",
       "possible_forecast": "yes",
       "review_status": "unverified",
@@ -3431,11 +3569,27 @@
   ],
   "human_candidates": [
     {
+      "discovered_at_utc": "2026-10-20T16:52:09.792938+00:00",
+      "station": "NBC Connecticut",
+      "headline": "FBI execute search warrant in Mansfield, officials say - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:42:18+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVExveFY3R0dXbFJGczRjU21Td0l3VUtRMkxyWlN6dmc1UmFCZnRyQm5xYjE3X014cXZCLTVkTldvRHhQQ01CWGszX0V6RHdSYlBwUDUxdXd5UXQ3N2F3b3FYUGpPRXlzWFFXZ3kwa3JVQVFhUGozVEpST2JsTUZCcTA5Y2pBc1M3M1JCajg5cnlmZ3FXSUoxbkIxak9TWnMzeXY4bUhKUdIBrwFBVV95cUxQeEwyWi1pQmphTmota1g3eWtLVEtkaU9TcWhrbGJLYlJraU9SQkVsZnV6TzhDaHNIMVRVRkNoSEZrVWcwRHA1ZGpzWVpyWFlZWjVlN3IwLW9YdlRNaS0wbkpiUF91TzdYZGFSSHNndDB6UjJleDBENkNtZVlWQ0N1X05mYUxHOXdtUFhJcWRHaUp0QzlBM0hHQS1EeVp3Nm1UbDFkVm5QTWRlaXVINVpN?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "NBC Connecticut",
       "headline": "Montville middle school paraeducator named paraeducator of the year - NBC Connecticut",
       "published_at_utc": "2026-10-20T16:27:47+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVU9NQnZ3SXBHTGFoSGEyZzZtWFhUSnRRa1VuMGxVMVhJS19HYU11Skcta08wZFU1MFFtUTFfa21xcTByQ0JtczdRTFVuZGVMVXZsYXhvOThYWmdnTzhlb3dJdGt3d1M4RzZPUXhvVTB2bHFYS2UxMHVjTU9hWXlDZkx4RU42UUlXTDZjQlRKRTJlTW5aOVZ5SDlyeF9USDU0d1JSMWFkaTBGSEtBSm9OVW5kWGQwNy1nQUHSAcIBQVVfeXFMTnduV3d1SkprelJJazBmakdydTN4TWp4QTdtWmlxc2tHNEppZUFTUnl6RGVuTVNubjhWTUVuS05oUzhWUGNsQWJmeHUzUmR2LUxaZU54ZXJ1NjkzRlVXWU9HdF8yT3d0OC1HQ1Y1TWVYb2MwZ3MwbkVRSFFIbF80VTd2WktXX1huR1R2UWhYZndWTkdiT21Xby1LRW9adzhmVHU1MERzc2lXM2NyUzJzN3pHWnZzeU4yU0pWQkprSXVPVlE?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T16:52:09.792938+00:00",
+      "station": "NBC Connecticut",
+      "headline": "CT LIVE: Sips, Spirits and Snacks - NBC Connecticut",
+      "published_at_utc": "2026-10-20T16:19:58+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamFRWmtJeG81U3ZEUFB1bDBqbjZ6eFVMT0VwZnAxNmd3TnV1dFdwSFRIYnRsNjN0STJOVzRXMW1wM2dMWWVEQ3pIczctd0ljVG1Pb2FGVEVnLUpYcnlncnVnMTRLY1p1MHJXSFlPOHVselZFcDV2b1F5M1pqTkNERGpkWnA0N3hYNTg1RUV5VEgyOTJ6T2p6TlNCSHB4RUdZ0gGoAUFVX3lxTFB3Qnh5R3Z3Z290dWYyT0JZRGFOX2wwQ3VsQnJLaERJdUFGM0R4T3VLQWFjdUE1OEJsQ3ZGTDd6R3QybWQ0WmNKTUJ4dkRGWHNpUEVEZTFoaXo4VENmZlhTU2dxeFhzNmxpN1FjLVBmVFNNNG5OQTYweGlQZF85bjJOeUE0Mkk4NDY4T0F1ZWdyZzAzYVl3SFFvNjJZWXc1dXNKQ3pBRTFFRg?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -3540,6 +3694,14 @@
       "headline": "Scene clears following shooting of Yale employee during attempted carjacking - WFSB",
       "published_at_utc": "2026-10-20T11:34:32+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYzJoaGhobV83VEpidWRZSTRWRDAtRnBIWElzMWdrZTFrV1FkWTdZV08tV3FfQlFneHNoVjhBU2x6UG9GQXg4Sk50RzVRa3NaeHpNdHJHZ0NsMXRWdVJpVlVuZjlEeDJPLURZOU9CanMtNE5yOHE0TTA4dFVqQl9iVFlUWG9wQ0J3LS00YW02MDFYT1RXVkdzNDdLemZTbnlKaHQyaHByOEwyYTJDUzFMM0tmTXduckJSLTVRSzI5N1d0Y1N2a0E?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T16:52:09.792938+00:00",
+      "station": "WFSB",
+      "headline": "FIRST ALERT TRAFFIC: Water main break closes route in Simsbury - WFSB",
+      "published_at_utc": "2026-10-20T11:33:24+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaGNGOWtIdlpOaVZEQlVmNDlxci1OYlZyR0VTREpxQnE4eXMxR0lZMU1sQnJGaFFOdTk2MzlHZUkxVWVsSXhwbmlfWVVQaklsRGFFbWQ5V3dydExuU2YtTmVNNEFzMXJBa3dVS0E1bHhoSTZiNWt5UElCSGJQOTY4MFFnbGVZWGQ3RzdfX1FhclZJRjdVWUhYYVRKaWxkM1ZzbW9JUGhEek9DUktCWDZnQ29B?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -3852,6 +4014,14 @@
       "headline": "Expert weighs in on deadly police shooting during welfare check in Bristol - NBC Connecticut",
       "published_at_utc": "2026-10-20T01:26:27+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1JoLTNRUDhZd2I5T2NMOHdfc3RPSHR6MXRWZVk4SmRnTjV2Q1RZVXJoNndiQkdmVUF2NWhteTdJMUtwYnBGZF90bDRwUXhNSGV6Y05PTnVQVXp6Rmk4dG5aY0pRcVZRNl80eHZDNGE4ZGVVd1lFYlZITjZybXhFbGQ0Q3NZVFpYdzA5QjFFcEZKOVJlYWM1X2JrclVuV0hhY2ZpN0poZ2RGd3E0S0VLQTV4bnlMc2Z0LXFkSm12akYyWlHSAcsBQVVfeXFMUG9wa1hpVjNaQ0NsTVFMUkRnWVdldm40NWVFNjJ5bUt1Xzc0NnpIR3VVM21zNGFQSlJlUzYzRnBoXzUybEdvUWZXeUduY2Z6R2JnejBpYm5TSFVaY0JOSGZJTDdoRjZScldWcVNzMEV5RWx5Nk1LYU42cENUZ2I5dUNnOVJQTVNNQzVHcGtiajhoMkZ2NW8xZUFwUXU0NVZmM252Yk5SazNlSno5X1JWZlpreGVERXBnaUdXaEdlSHdqV0tSLWlGcEd0Y0k?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T16:52:09.792938+00:00",
+      "station": "WFSB",
+      "headline": "Brisk start, highs in 60s Tuesday - WFSB",
+      "published_at_utc": "2026-10-20T00:51:12+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yVjZYUV8wclFBU0dIQjNQQ1I3TG1jT2xOaXZPVmE1c2hYWFdKUm9zdDlLbVlrQ1ZnR04xMnN0c3BqWVd2dHloVjNvanp5cmFtN3JYMmtaSDZUUW5GbUIwRTdPRWxwN3lrNDA5akJXX3owWTJocW5j?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -4372,6 +4542,14 @@
       "headline": "12-year-old Enfield girl\u2019s cause of death revealed as overdose with \u2018undetermined intent\u2019 - WTNH.com",
       "published_at_utc": "2026-10-19T15:42:47+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdmJsZjFidGI5dTVMUzJTeFFRcURFQlNBTEt0VmtvWEdCNGg2ZTExMTJGYjJFWjNwcHZCcUF3bnNiSG5idUg5eWxnYU5BNVdnR0N2TFJIY1M0aGg5ZVk1SXZMR2hOQVRfemdKRndKXzIwUkNLRG1VYkQ1cTNLM1hOY1RDeGdFWHBoblZuZDBUdC1rLWt3MXVQTndGZEVxd0d2VlFfZUxSN0xFeVdLX0RvbmQxUmEyczBON0lUVnRMQ1Rldng5N3V4ZlQwZEJaUzDSAdQBQVVfeXFMUEpYYXk5ZjY1TGZNa2JiWi0zcGtRdTd0QmNZVU9OWE42aFRmQ1FQTkgxem5LYlV3aUhscktxeUlEV1hXNE1fVVh5VkFaMHdsNm1Pd3hia0lMd3I0aU1TQ0Ztc2R6Rm5hcjE0enlSbXNGUU1fSERtMkhMZDltcGtvNWtLVjVqRXhWVzNLS3QydHMzUXFQZEtKT25YeGFETlM3d2drRDRVZ2RtRzc1d1RPaHJrVUNBSVNjbkdsbnh5dTQtZF9WYXZsVDFvOW91Zngxa3JvdnM?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T16:52:09.792938+00:00",
+      "station": "WFSB",
+      "headline": "BREAKING: Medical examiner report leaves questions about 12-year-old Enfield girl\u2019s death - WFSB",
+      "published_at_utc": "2026-10-19T15:37:34+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV1U2ck1YQmlCTVk2aFZxNDNjOWRTV0lSZUFoRktXaUdsckJJSTllUm5DbGNFb01MOFpObENnRFVaeVRURVpOYjBhWnRIeVJZZWxGWHpMVHBTN3Z6VUF5M0N0bDFNYWFDWUhlb3Fac0ZJSnAzWktrd3BtOXV3WmdTM042ZXByZFFmV0hKelE3bjZEUnFrb242OEo3a0JaSi1qUF9rUzlvTkxlMlk5VW8tOHI4ODIzWXNXNUpIRy1kaW1IelE3V2hnMkV3SmVQTk53ay1PcDJTWWQ?oc=5",
       "status": "awaiting_human_verification"
     },
     {
@@ -5119,6 +5297,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T16:52:09.792938+00:00",
+      "station": "WFSB",
+      "headline": "A beautiful day ahead, after that morning chill! - WFSB",
+      "published_at_utc": "2026-10-18T18:48:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVVIcHY5LUtzcGI4VHNHMkRFeVN3d3RHZkduOUd5TmxIeHhMOTh5M0M1TkV4SjcwWW5xSkhOcF9HWFBLZXpFeXA4ODVwT0ttM2pWUFZ2dWo1MDk4ai1rZXA1UEphRFZwU1VlUnB1aDlMeHQ0VnB1MEs1QlJhajM5UmwtNDFrNzl1UG5BX2plRkxlenFkUjE3MzZQT1RwM09kb3c?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "FOX61",
       "headline": "Trump says he will close historic DC golf course for 15 months of renovations - fox61.com",
@@ -5807,6 +5993,14 @@
       "status": "awaiting_human_verification"
     },
     {
+      "discovered_at_utc": "2026-10-20T16:52:09.792938+00:00",
+      "station": "WFSB",
+      "headline": "First Alert Weather: A cold start tomorrow, improving by the afternoon - WFSB",
+      "published_at_utc": "2026-10-17T21:23:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVmJ1aXRrTnJoNk52UFRCNUY0cU9nWVFzR1RZd3czUFRCOEdDTnU1bnk3akVqMzNtQXJRSFBraFoxZU1NdEJ2S0dYMTRnaXVUd2NlSVRKVG9FVmtkWEJ5TmNfZ0xRdl9uVHB1eUd2RERsWVBfcklyNUZaTUtjV3owQnBvT001UHZmSEdEdnpNZ2hEWDNKY3d6c1N1MG5GY3RkblZpRUxpNlEyTkFySzRv0gGvAUFVX3lxTE5WYnVpdGtOcmg2TnZQVEI1RjRxT2dZUXNHVFl3dzNQVEI4R0NOdTVueTdqRWozM21BclFIUGtoWjFlTU10QnZLR1gxNGdpdVR3Y2VJVEpUb0VWa2RYQnlOY19nTFF2X25UcHV5R3ZERGxZUF9ySXI1RlpNS2NXejBCcG9PTTVQdmZIR0R2ek1naERYM0pjd3pzU3UwbkZjdGRuVmlFTGk2UTJOQXJLNG8?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
       "discovered_at_utc": "2026-10-20T16:45:39.152605+00:00",
       "station": "FOX61",
       "headline": "DISBELIEF: LA Kings Fans SOUND OFF Over Poor Start\u2014Is a Connor Hellebuyck trade a solution? - fox61.com",
@@ -5884,6 +6078,14 @@
       "headline": "A freeze likely tomorrow morning - WFSB",
       "published_at_utc": "2026-10-17T18:32:00+00:00",
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XV24tdllJUldiUUJMYUF3TWFzTWl3ZVRpaWxWSmFucFBsMHRURlJPdk52ZEl0blJqb3pGYWxzYThhR0QxS2hrdm9HSEdCMUYzb05CNDE1U1JDSzRpSVdXeWk4TUd3dGh6YVZJUEFTUEFmNkRaOHg0NTlfdw?oc=5",
+      "status": "awaiting_human_verification"
+    },
+    {
+      "discovered_at_utc": "2026-10-20T16:52:09.792938+00:00",
+      "station": "WFSB",
+      "headline": "A freeze likely tomorrow morning - WFSB",
+      "published_at_utc": "2026-10-17T18:32:00+00:00",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZmxLelNPMzVWeGJrRk1icTFrODVoV0FZdFBBcG9kU1dKeGNVT21Fb1B6ZmJTSm1xZWE5VEJCSnN5a2Rmd1BzMko5X2ZYZFNTV3E2WC1VT0JvcFh0NloyRzdoWjVqaEl5MU1Mcml1ZE5pR2g3UDhSdHg3QVJOYjczUThVVzNVNmNwbDZNa0F5cw?oc=5",
       "status": "awaiting_human_verification"
     },
     {
