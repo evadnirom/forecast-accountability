@@ -1,45 +1,45 @@
 {
-  "generated_utc": "2026-10-21T15:29:03.424969+00:00",
+  "generated_utc": "2026-10-21T17:33:49.742345+00:00",
   "pipelines": {
     "model_forecasts": {
       "status": "populated",
       "records": 42,
-      "last_file_modified_utc": "2026-10-21T15:28:51.490185+00:00"
+      "last_file_modified_utc": "2026-10-21T17:33:39.828208+00:00"
     },
     "airport_temperature": {
       "status": "populated",
       "records": 11,
-      "last_file_modified_utc": "2026-10-21T15:28:51.913749+00:00"
+      "last_file_modified_utc": "2026-10-21T17:33:43.591497+00:00"
     },
     "airport_rainfall": {
       "status": "populated",
       "records": 10,
-      "last_file_modified_utc": "2026-10-21T15:28:52.205907+00:00"
+      "last_file_modified_utc": "2026-10-21T17:33:43.968247+00:00"
     },
     "tv_website_snapshots": {
       "status": "populated",
-      "records": 8,
-      "last_file_modified_utc": "2026-10-21T15:28:55.083211+00:00"
+      "records": 12,
+      "last_file_modified_utc": "2026-10-21T17:33:45.710115+00:00"
     },
     "tv_article_discovery": {
       "status": "populated",
       "records": 500,
-      "last_file_modified_utc": "2026-10-21T15:28:57.213227+00:00"
+      "last_file_modified_utc": "2026-10-21T17:33:47.499128+00:00"
     },
     "tv_review_hints": {
       "status": "populated",
       "records": 500,
-      "last_file_modified_utc": "2026-10-21T15:28:57.287228+00:00"
+      "last_file_modified_utc": "2026-10-21T17:33:47.578129+00:00"
     },
     "tv_article_excerpts": {
       "status": "populated",
-      "records": 65,
-      "last_file_modified_utc": "2026-10-21T15:29:03.263280+00:00"
+      "records": 81,
+      "last_file_modified_utc": "2026-10-21T17:33:49.587122+00:00"
     },
     "verified_human_forecasts": {
       "status": "empty",
       "records": 0,
-      "last_file_modified_utc": "2026-10-21T15:28:48.157083+00:00"
+      "last_file_modified_utc": "2026-10-21T17:33:39.826208+00:00"
     }
   },
   "notes": "Counts prove files exist, not that external sources were fully accessed. No human forecasts are verified automatically."
