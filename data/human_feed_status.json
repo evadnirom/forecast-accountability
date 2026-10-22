@@ -1,25 +1,25 @@
 {
-  "checked_at_utc": "2026-10-21T17:33:45.863926+00:00",
+  "checked_at_utc": "2026-10-22T17:33:32.734227+00:00",
   "stations": {
     "WTNH": {
       "result": "ok",
       "items_seen": 100,
-      "new_candidates": 4
+      "new_candidates": 51
     },
     "WFSB": {
       "result": "ok",
       "items_seen": 100,
-      "new_candidates": 6
+      "new_candidates": 49
     },
     "FOX61": {
       "result": "ok",
       "items_seen": 100,
-      "new_candidates": 28
+      "new_candidates": 43
     },
     "NBC Connecticut": {
       "result": "ok",
-      "items_seen": 98,
-      "new_candidates": 8
+      "items_seen": 100,
+      "new_candidates": 38
     }
   }
 }
