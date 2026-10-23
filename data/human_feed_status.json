@@ -1,10 +1,10 @@
 {
-  "checked_at_utc": "2026-10-22T17:33:32.734227+00:00",
+  "checked_at_utc": "2026-10-23T17:33:39.533780+00:00",
   "stations": {
     "WTNH": {
       "result": "ok",
       "items_seen": 100,
-      "new_candidates": 51
+      "new_candidates": 22
     },
     "WFSB": {
       "result": "ok",
@@ -14,12 +14,12 @@
     "FOX61": {
       "result": "ok",
       "items_seen": 100,
-      "new_candidates": 43
+      "new_candidates": 47
     },
     "NBC Connecticut": {
       "result": "ok",
       "items_seen": 100,
-      "new_candidates": 38
+      "new_candidates": 58
     }
   }
 }
