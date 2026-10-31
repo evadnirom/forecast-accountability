@@ -1,45 +1,45 @@
 {
-  "generated_utc": "2026-10-30T17:56:37.273570+00:00",
+  "generated_utc": "2026-10-31T17:35:43.401288+00:00",
   "pipelines": {
     "model_forecasts": {
       "status": "populated",
-      "records": 231,
-      "last_file_modified_utc": "2026-10-30T17:56:24.584018+00:00"
+      "records": 252,
+      "last_file_modified_utc": "2026-10-31T17:35:32.901444+00:00"
     },
     "airport_temperature": {
       "status": "populated",
-      "records": 20,
-      "last_file_modified_utc": "2026-10-30T17:56:24.878363+00:00"
+      "records": 21,
+      "last_file_modified_utc": "2026-10-31T17:35:33.165820+00:00"
     },
     "airport_rainfall": {
       "status": "populated",
-      "records": 19,
-      "last_file_modified_utc": "2026-10-30T17:56:25.058248+00:00"
+      "records": 20,
+      "last_file_modified_utc": "2026-10-31T17:35:33.377100+00:00"
     },
     "tv_website_snapshots": {
       "status": "populated",
-      "records": 48,
-      "last_file_modified_utc": "2026-10-30T17:56:27.460045+00:00"
+      "records": 52,
+      "last_file_modified_utc": "2026-10-31T17:35:35.224465+00:00"
     },
     "tv_article_discovery": {
       "status": "populated",
       "records": 500,
-      "last_file_modified_utc": "2026-10-30T17:56:29.674219+00:00"
+      "last_file_modified_utc": "2026-10-31T17:35:37.542487+00:00"
     },
     "tv_review_hints": {
       "status": "populated",
       "records": 500,
-      "last_file_modified_utc": "2026-10-30T17:56:29.724219+00:00"
+      "last_file_modified_utc": "2026-10-31T17:35:37.595487+00:00"
     },
     "tv_article_excerpts": {
       "status": "populated",
       "records": 300,
-      "last_file_modified_utc": "2026-10-30T17:56:37.150339+00:00"
+      "last_file_modified_utc": "2026-10-31T17:35:43.283540+00:00"
     },
     "verified_human_forecasts": {
       "status": "empty",
       "records": 0,
-      "last_file_modified_utc": "2026-10-30T17:56:22.123996+00:00"
+      "last_file_modified_utc": "2026-10-31T17:35:30.670423+00:00"
     }
   },
   "notes": "Counts prove files exist, not that external sources were fully accessed. No human forecasts are verified automatically."
